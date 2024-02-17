@@ -1,4 +1,4 @@
-Clustering analysis based on expression profiles in Escherichia coli, as presented in **Case Study #2** of [Using MCL to Extract Clusters from Networks](http://micans.org/mcl/lit/mimb.pdf). This study applies the [MCL algorithm](http://micans.org/mcl/) to gene expression data from the [Many Microbe Microarray Database](http://m3d.mssm.edu/norm/).
+Clustering analysis based on expression profiles in Escherichia coli, as presented in `Case Study #2` of [Using MCL to Extract Clusters from Networks](http://micans.org/mcl/lit/mimb.pdf). This study applies the [MCL algorithm](http://micans.org/mcl/) to gene expression data from the [Many Microbe Microarray Database](http://m3d.mssm.edu/norm/).
 
 >E_coli_v4_Build_6: Dataset used that contains expression values for 4297 genes measured across 466 conditions.
 
