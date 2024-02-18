@@ -2,6 +2,11 @@ Clustering analysis based on expression profiles in Escherichia coli, as present
 
 >E_coli_v4_Build_6: Dataset used that contains expression values for 4297 genes measured across 466 conditions.
 
+![](https://github.com/felipevzps/ecoli-co-expression-network/blob/main/results/clusterSizeDistribution.png)
+As evidenced in the paper, the correlation of gene expression values leads to distinct networks (varying in levels of inflation and also cluster size).
+
+Almost all genes are part of a single connected component (size 3959). As inflation increases, the network gradually breaks down, eventually forming clusters with 2 and 3 genes.
+
 ## References
 van Dongen, S., & Abreu-Goodger, C. (2012). Using MCL to extract clusters from networks. Methods in molecular biology (Clifton, N.J.), 804, 281–295. https://doi.org/10.1007/978-1-61779-361-5_15
 
