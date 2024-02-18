@@ -1,0 +1,239 @@
+[mclIO] reading <../results/ecoli60.mci>
+.......................................
+[mclIO] read native interchange 4297x4297 matrix with 419541 entries
+[mcl] pid 9339
+ ite -------------------  chaos  time hom(avg,lo,hi) m-ie m-ex i-ex fmv
+  1  ...................  89.73  0.50 1.01/0.16/4.81 8.30 4.46 4.46  71
+  2  ................... 104.46  2.29 0.73/0.10/3.93 5.88 1.31 5.83  90
+  3  ................... 139.30  2.61 0.60/0.04/3.58 4.72 0.93 5.44  91
+  4  ................... 134.63  2.12 0.53/0.04/5.58 4.02 0.80 4.34  91
+  5  ................... 109.42  1.32 0.48/0.05/3.41 3.23 0.71 3.10  89
+  6  ...................  71.72  0.72 0.47/0.06/2.20 2.53 0.66 2.05  86
+  7  ...................  58.85  0.34 0.48/0.08/1.83 2.05 0.66 1.35  81
+  8  ...................  44.90  0.18 0.50/0.10/1.52 1.82 0.67 0.90  76
+  9  ...................  35.56  0.10 0.56/0.15/1.15 1.44 0.67 0.61  70
+ 10  ...................  21.65  0.06 0.64/0.23/1.10 1.37 0.61 0.37  62
+ 11  ...................  11.19  0.03 0.71/0.34/1.08 1.39 0.58 0.22  51
+ 12  ...................   7.04  0.02 0.77/0.40/1.21 1.36 0.64 0.14  38
+ 13  ...................   4.46  0.01 0.81/0.32/1.00 1.25 0.63 0.09  28
+ 14  ...................   3.10  0.00 0.85/0.42/1.00 1.25 0.67 0.06   1
+ 15  ...................   2.79  0.01 0.88/0.57/1.00 1.04 0.61 0.04   1
+ 16  ...................   1.31  0.00 0.92/0.57/1.03 1.02 0.76 0.03   0
+ 17  ...................   1.18  0.00 0.95/0.58/1.00 1.01 0.83 0.02   0
+ 18  ...................   1.11  0.00 0.97/0.59/1.00 1.01 0.75 0.02   0
+ 19  ...................   0.71  0.00 0.98/0.70/1.00 1.00 0.96 0.02   0
+ 20  ...................   0.37  0.00 0.99/0.76/1.00 1.00 0.95 0.02   0
+ 21  ...................   0.25  0.00 1.00/0.76/1.00 1.00 0.77 0.01   0
+ 22  ...................   0.25  0.00 1.00/0.76/1.00 1.00 0.96 0.01   0
+ 23  ...................   0.25  0.00 1.00/0.76/1.00 1.00 0.96 0.01   0
+ 24  ...................   0.23  0.00 1.00/0.77/1.00 1.00 0.98 0.01   0
+ 25  ...................   0.25  0.00 1.00/0.77/1.00 1.00 0.98 0.01   0
+ 26  ...................   0.25  0.01 1.00/0.76/1.00 1.00 1.00 0.01   0
+ 27  ...................   0.25  0.00 1.00/0.76/1.00 1.00 1.00 0.01   0
+ 28  ...................   0.25  0.00 1.00/0.76/1.00 1.00 1.00 0.01   0
+ 29  ...................   0.24  0.00 1.00/0.76/1.00 1.00 1.00 0.01   0
+ 30  ...................   0.25  0.00 1.00/0.77/1.00 1.00 1.00 0.01   0
+ 31  ...................   0.24  0.00 1.00/0.76/1.00 1.00 1.00 0.01   0
+ 32  ...................   0.19  0.00 1.00/0.81/1.00 1.00 1.00 0.01   0
+ 33  ...................   0.12  0.00 1.00/0.88/1.00 1.00 1.00 0.01   0
+ 34  ...................   0.09  0.00 1.00/0.95/1.00 1.00 1.00 0.01   0
+ 35  ...................   0.12  0.01 1.00/0.95/1.00 1.00 1.00 0.01   0
+ 36  ...................   0.15  0.00 1.00/0.91/1.00 1.00 1.00 0.01   0
+ 37  ...................   0.19  0.00 1.00/0.86/1.00 1.00 1.00 0.01   0
+ 38  ...................   0.23  0.00 1.00/0.80/1.00 1.00 1.00 0.01   0
+ 39  ...................   0.25  0.00 1.00/0.76/1.00 1.00 1.00 0.01   0
+ 40  ...................   0.23  0.00 1.00/0.77/1.00 1.00 1.00 0.01   0
+ 41  ...................   0.18  0.00 1.00/0.82/1.00 1.00 1.00 0.01   0
+ 42  ...................   0.10  0.00 1.00/0.90/1.00 1.00 1.00 0.01   0
+ 43  ...................   0.08  0.00 1.00/0.97/1.00 1.00 1.00 0.01   0
+ 44  ...................   0.11  0.00 1.00/0.96/1.00 1.00 1.00 0.01   0
+ 45  ...................   0.14  0.00 1.00/0.93/1.00 1.00 1.00 0.01   0
+ 46  ...................   0.18  0.00 1.00/0.88/1.00 1.00 1.00 0.01   0
+ 47  ...................   0.22  0.00 1.00/0.82/1.00 1.00 1.00 0.01   0
+ 48  ...................   0.25  0.00 1.00/0.77/1.00 1.00 1.00 0.01   0
+ 49  ...................   0.24  0.00 1.00/0.76/1.00 1.00 1.00 0.01   0
+ 50  ...................   0.20  0.00 1.00/0.81/1.00 1.00 1.00 0.01   0
+ 51  ...................   0.12  0.00 1.00/0.88/1.00 1.00 1.00 0.01   0
+ 52  ...................   0.05  0.00 1.00/0.95/1.00 1.00 1.00 0.01   0
+ 53  ...................   0.01  0.01 1.00/0.99/1.00 1.00 1.00 0.01   0
+ 54  ...................   0.00  0.00 1.00/1.00/1.00 1.00 1.00 0.01   0
+ 55  ...................   0.00  0.00 1.00/1.00/1.00 1.00 1.00 0.01   0
+[mcl] jury pruning marks: <97,96,96>, out of 100
+[mcl] jury pruning synopsis: <96.6 or sensational> (cf -scheme, -do log)
+[mclIO] writing <out.ecoli60.mci.I14>
+......................................
+[mclIO] wrote native interchange 4297x506 matrix with 4297 entries to stream <out.ecoli60.mci.I14>
+[mcl] 506 clusters found
+[mcl] output is in out.ecoli60.mci.I14
+
+Please cite:
+    Stijn van Dongen, Graph Clustering by Flow Simulation.  PhD thesis,
+    University of Utrecht, May 2000.
+       (  http://www.library.uu.nl/digiarchief/dip/diss/1895620/full.pdf
+       or  http://micans.org/mcl/lit/svdthesis.pdf.gz)
+OR
+    Stijn van Dongen, A cluster algorithm for graphs. Technical
+    Report INS-R0010, National Research Institute for Mathematics
+    and Computer Science in the Netherlands, Amsterdam, May 2000.
+       (  http://www.cwi.nl/ftp/CWIreports/INS/INS-R0010.ps.Z
+       or  http://micans.org/mcl/lit/INS-R0010.ps.Z)
+
+	Command being timed: "mcl ../results/ecoli60.mci -I 1.4"
+	User time (seconds): 11.44
+	System time (seconds): 0.06
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:11.86
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 39100
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 6
+	Minor (reclaiming a frame) page faults: 32639
+	Voluntary context switches: 25
+	Involuntary context switches: 13
+	Swaps: 0
+	File system inputs: 16984
+	File system outputs: 72
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+[mclIO] reading <../results/ecoli60.mci>
+.......................................
+[mclIO] read native interchange 4297x4297 matrix with 419541 entries
+[mcl] pid 9351
+ ite -------------------  chaos  time hom(avg,lo,hi) m-ie m-ex i-ex fmv
+  1  ...................  89.73  0.52 1.01/0.16/4.81 8.30 4.46 4.46  71
+  2  ................... 111.74  2.24 0.72/0.08/4.13 5.88 0.88 3.94  90
+  3  ................... 104.43  1.32 0.63/0.08/5.45 5.41 0.56 2.22  90
+  4  ...................  57.87  0.47 0.61/0.07/7.04 4.22 0.45 1.00  84
+  5  ...................  32.64  0.12 0.67/0.07/4.02 2.43 0.42 0.42  72
+  6  ...................  12.55  0.03 0.76/0.18/1.68 1.69 0.37 0.15  54
+  7  ...................   4.82  0.02 0.83/0.37/1.29 1.22 0.43 0.07  23
+  8  ...................   2.49  0.00 0.91/0.52/1.03 1.05 0.47 0.03   1
+  9  ...................   1.05  0.00 0.96/0.56/1.00 1.02 0.59 0.02   0
+ 10  ...................   0.46  0.00 0.99/0.76/1.00 1.00 0.84 0.02   0
+ 11  ...................   0.25  0.01 0.99/0.76/1.00 1.00 0.76 0.01   0
+ 12  ...................   0.25  0.00 1.00/0.76/1.00 1.00 0.94 0.01   0
+ 13  ...................   0.25  0.01 1.00/0.76/1.00 1.00 0.97 0.01   0
+ 14  ...................   0.25  0.00 1.00/0.76/1.00 1.00 0.99 0.01   0
+ 15  ...................   0.24  0.00 1.00/0.78/1.00 1.00 1.00 0.01   0
+ 16  ...................   0.20  0.00 1.00/0.80/1.00 1.00 1.00 0.01   0
+ 17  ...................   0.09  0.00 1.00/0.95/1.00 1.00 1.00 0.01   0
+ 18  ...................   0.15  0.00 1.00/0.91/1.00 1.00 1.00 0.01   0
+ 19  ...................   0.23  0.00 1.00/0.80/1.00 1.00 1.00 0.01   0
+ 20  ...................   0.23  0.00 1.00/0.77/1.00 1.00 1.00 0.01   0
+ 21  ...................   0.08  0.00 1.00/0.92/1.00 1.00 1.00 0.01   0
+ 22  ...................   0.11  0.00 1.00/0.96/1.00 1.00 1.00 0.01   0
+ 23  ...................   0.18  0.00 1.00/0.87/1.00 1.00 1.00 0.01   0
+ 24  ...................   0.25  0.00 1.00/0.77/1.00 1.00 1.00 0.01   0
+ 25  ...................   0.18  0.00 1.00/0.82/1.00 1.00 1.00 0.01   0
+ 26  ...................   0.03  0.00 1.00/0.97/1.00 1.00 1.00 0.01   0
+ 27  ...................   0.00  0.00 1.00/1.00/1.00 1.00 1.00 0.01   0
+ 28  ...................   0.00  0.00 1.00/1.00/1.00 1.00 1.00 0.01   0
+[mcl] jury pruning marks: <97,97,98>, out of 100
+[mcl] jury pruning synopsis: <97.1 or superb> (cf -scheme, -do log)
+[mclIO] writing <out.ecoli60.mci.I20>
+......................................
+[mclIO] wrote native interchange 4297x657 matrix with 4297 entries to stream <out.ecoli60.mci.I20>
+[mcl] 657 clusters found
+[mcl] output is in out.ecoli60.mci.I20
+
+Please cite:
+    Stijn van Dongen, Graph Clustering by Flow Simulation.  PhD thesis,
+    University of Utrecht, May 2000.
+       (  http://www.library.uu.nl/digiarchief/dip/diss/1895620/full.pdf
+       or  http://micans.org/mcl/lit/svdthesis.pdf.gz)
+OR
+    Stijn van Dongen, A cluster algorithm for graphs. Technical
+    Report INS-R0010, National Research Institute for Mathematics
+    and Computer Science in the Netherlands, Amsterdam, May 2000.
+       (  http://www.cwi.nl/ftp/CWIreports/INS/INS-R0010.ps.Z
+       or  http://micans.org/mcl/lit/INS-R0010.ps.Z)
+
+	Command being timed: "mcl ../results/ecoli60.mci -I 2"
+	User time (seconds): 5.05
+	System time (seconds): 0.04
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:05.24
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 29652
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 18154
+	Voluntary context switches: 10
+	Involuntary context switches: 8
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 72
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+[mclIO] reading <../results/ecoli60.mci>
+.......................................
+[mclIO] read native interchange 4297x4297 matrix with 419541 entries
+[mcl] pid 9357
+ ite -------------------  chaos  time hom(avg,lo,hi) m-ie m-ex i-ex fmv
+  1  ...................  89.73  0.39 1.01/0.16/4.81 8.30 4.46 4.46  71
+  2  ...................  63.43  1.79 0.72/0.09/4.09 5.88 0.21 0.93  90
+  3  ...................   8.82  0.18 0.88/0.20/5.58 4.28 0.10 0.10  74
+  4  ...................   1.53  0.01 0.95/0.30/2.15 1.45 0.20 0.02  15
+  5  ...................   0.44  0.00 0.99/0.51/1.19 1.03 0.58 0.01   0
+  6  ...................   0.25  0.00 1.00/0.76/1.18 1.00 0.95 0.01   0
+  7  ...................   0.25  0.01 1.00/0.76/1.00 1.00 0.96 0.01   0
+  8  ...................   0.24  0.00 1.00/0.79/1.00 1.00 1.00 0.01   0
+  9  ...................   0.09  0.00 1.00/0.97/1.00 1.00 1.00 0.01   0
+ 10  ...................   0.25  0.00 1.00/0.76/1.00 1.00 1.00 0.01   0
+ 11  ...................   0.00  0.00 1.00/1.00/1.00 1.00 1.00 0.01   0
+ 12  ...................   0.00  0.00 1.00/1.00/1.00 1.00 1.00 0.01   0
+[mcl] jury pruning marks: <97,99,99>, out of 100
+[mcl] jury pruning synopsis: <97.8 or superb> (cf -scheme, -do log)
+[mclIO] writing <out.ecoli60.mci.I60>
+.......................................
+[mclIO] wrote native interchange 4297x1255 matrix with 4297 entries to stream <out.ecoli60.mci.I60>
+[mcl] 1255 clusters found
+[mcl] output is in out.ecoli60.mci.I60
+
+Please cite:
+    Stijn van Dongen, Graph Clustering by Flow Simulation.  PhD thesis,
+    University of Utrecht, May 2000.
+       (  http://www.library.uu.nl/digiarchief/dip/diss/1895620/full.pdf
+       or  http://micans.org/mcl/lit/svdthesis.pdf.gz)
+OR
+    Stijn van Dongen, A cluster algorithm for graphs. Technical
+    Report INS-R0010, National Research Institute for Mathematics
+    and Computer Science in the Netherlands, Amsterdam, May 2000.
+       (  http://www.cwi.nl/ftp/CWIreports/INS/INS-R0010.ps.Z
+       or  http://micans.org/mcl/lit/INS-R0010.ps.Z)
+
+	Command being timed: "mcl ../results/ecoli60.mci -I 6"
+	User time (seconds): 2.75
+	System time (seconds): 0.01
+	Percent of CPU this job got: 88%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:03.11
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 19860
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 9755
+	Voluntary context switches: 9
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 72
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

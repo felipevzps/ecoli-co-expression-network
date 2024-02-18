@@ -1,0 +1,5 @@
+efficiency=0.34215 massfrac=0.83382 areafrac=0.08899  source=out.ecoli60.mci.I14 clusters=506 max=1069  ctr=383.3 avg=8.5 min=1 DGI=473 TWI=3 TWL=262 sgl=288 qrt=410
+===
+efficiency=0.47628 massfrac=0.76324 areafrac=0.05174  source=out.ecoli60.mci.I20 clusters=657 max=809  ctr=223.3 avg=6.5 min=1 DGI=493 TWI=11 TWL=43 sgl=289 qrt=514
+===
+efficiency=0.62394 massfrac=0.53621 areafrac=0.01114  source=out.ecoli60.mci.I60 clusters=1255 max=380  ctr=48.9 avg=3.4 min=1 DGI=380 TWI=129 TWL=5 sgl=524 qrt=1094
