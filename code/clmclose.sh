@@ -7,4 +7,4 @@
 
 module load mcl/14-137
 
-/usr/bin/time -v clm close -imx ../results/ecoli60.mci --write-cc -o seq.base
+/usr/bin/time -v clm close -imx ../results/ecoli60.mci --write-cc -o ../results/seq.base
