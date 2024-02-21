@@ -6,14 +6,13 @@
 #$ -pe smp 1
 
 IN_FILE=../results/dump.out.ecoli60.mci.I
-OUT_FILE=../results/dump.out.ecoli60.mci.I
 num=(14 20 60)
 
 ## GET COUNTS IN EACH CLUSTER
 for i in "${num[@]}"
 do
 	echo $i
-	awk -F' ' '{print NF}' ${IN_FILE}${i} > ${OUT_FILE}${i}.number
+	awk -F' ' '{print NF}' ${IN_FILE}${i} > ${IN_FILE}${i}.number
 done
 
 
@@ -35,3 +34,6 @@ do
 done
 
 cd -
+
+mkdir ../results/formated
+mv ../results/*.formated* ../results/*.number* ../results/formated/
