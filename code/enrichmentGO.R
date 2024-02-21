@@ -5,19 +5,29 @@ rm(list=ls())
 
 setwd("/home/felipe/Documents/ecoli-co-expression-network/code")
 
-results_path <-"../results/enrichment/"
-dir.create(results_path)
+# change inflation (new analysis)
+I="I60/"
+I_file="I60"
+inflation <- "I 6.0"
+
+new_path <- paste0("/home/felipe/Documents/ecoli-co-expression-network/results/enrichment/", I)
+results_path <- new_path
+
+# create recursive dir
+dir.create(results_path, recursive = TRUE)
 
 load_files <- function(){
   
   ## read clusters size
-  number.clusters <<- read.table("../results/formated/dump.out.ecoli60.mci.I14.number_2", header = F)
+  f1 = paste0("../results/formated/dump.out.ecoli60.mci.", I_file, ".number")
+  number.clusters <<- read.table(f1, header = F)
   
   ## read list of genes for all the network 
   geneID2GO <<- readMappings(file = "../data/GO_annotations.txt")
   
-  # read genes in graph 
-  genes_in_graph <<- as.data.frame(rownames(read.table("../results/formated/dump.out.ecoli60.mci.I14.formated_2.csv", header =F, row.names=1)))
+  # read genes in graph
+  f2 = paste0("../results/formated/dump.out.ecoli60.mci.", I_file, ".formated.csv")
+  genes_in_graph <<- as.data.frame(rownames(read.table(f2, header =F, row.names=1)))
   colnames(genes_in_graph) <<- "gene"
   
   # filter background genes to genes in the network
@@ -27,7 +37,7 @@ load_files <- function(){
   geneNames <<- genes_in_graph$gene
   
   # read modules
-  dynamicMods <<- read.table(file = "../results/formated/dump.out.ecoli60.mci.I14.formated_2.csv", header = F, row.names=1)
+  dynamicMods <<- read.table(file = f2, header = F, row.names=1)
   colnames(dynamicMods) <<- "module_No"
 }
 
@@ -81,7 +91,7 @@ anot_modules <- function(Module_no, results_path){
   write.table(all_res_final[1:50,], file = paste0(results_path, "module_", Module_no, ".csv"), quote=FALSE, row.names=FALSE, sep = ",")
 
   #### CREATE PLOTS
-  module <- paste0("module_", Module_no)
+  module <- paste0("module_", Module_no, " (", inflation, ")")
   
   # open table 
   #topGO_all_table <- read.table("../results/enrichment/module_1.csv", sep = ",")
@@ -92,6 +102,10 @@ anot_modules <- function(Module_no, results_path){
   
   ntop <- 30
   ggdata <- topGO_all_table[1:ntop,]
+  
+  # Remover valores duplicados da coluna 'Term' # evitar erro por termos duplicados
+  ggdata <- ggdata[!duplicated(ggdata$Term), ]
+  
   ggdata$Term <- factor(ggdata$Term, levels = rev(ggdata$Term)) # fixes order
   
   # Adicionar 0.001 para o log10(1) ser diferente de 0
