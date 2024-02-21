@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0005977,glycogen metabolic process,9,4,0.09,1.1e-06,0.0016
+GO:0006112,energy reserve metabolic process,9,4,0.09,1.1e-06,0.0016
+GO:0005978,glycogen biosynthetic process,4,3,0.04,3.8e-06,0.0037
+GO:0006797,polyphosphate metabolic process,2,2,0.02,0.00010,0.0636
+GO:0044042,glucan metabolic process,26,4,0.26,0.00011,0.0636
+GO:0009250,glucan biosynthetic process,17,3,0.17,0.00059,0.2841
+GO:0005976,polysaccharide metabolic process,98,5,1,0.00271,1
+GO:0019359,nicotinamide nucleotide biosynthetic pro...,9,2,0.09,0.00345,1
+GO:0019363,pyridine nucleotide biosynthetic process,10,2,0.1,0.00429,1
+GO:0019674,NAD metabolic process,10,2,0.1,0.00429,1
+GO:0000271,polysaccharide biosynthetic process,85,4,0.87,0.00998,1
+GO:0006741,NADP biosynthetic process,1,1,0.01,0.01018,1
+GO:0006798,polyphosphate catabolic process,1,1,0.01,0.01018,1
+GO:0006799,polyphosphate biosynthetic process,1,1,0.01,0.01018,1
+GO:0071266,'de novo' L-methionine biosynthetic proc...,1,1,0.01,0.01018,1
+GO:0015980,energy derivation by oxidation of organi...,140,5,1.43,0.01230,1
+GO:0072525,pyridine-containing compound biosyntheti...,19,2,0.19,0.01540,1
+GO:0016051,carbohydrate biosynthetic process,104,4,1.06,0.01982,1
+GO:0000820,regulation of glutamine family amino aci...,2,1,0.02,0.02027,1
+GO:0015969,guanosine tetraphosphate metabolic proce...,2,1,0.02,0.02027,1
+GO:0015970,guanosine tetraphosphate biosynthetic pr...,2,1,0.02,0.02027,1
+GO:0034036,purine ribonucleoside bisphosphate biosy...,2,1,0.02,0.02027,1
+GO:0071265,L-methionine biosynthetic process,2,1,0.02,0.02027,1
+GO:0006164,purine nucleotide biosynthetic process,59,3,0.6,0.02111,1
+GO:0016310,phosphorylation,163,5,1.66,0.02254,1
+GO:0072522,purine-containing compound biosynthetic ...,63,3,0.64,0.02509,1
+GO:0009073,aromatic amino acid family biosynthetic ...,25,2,0.25,0.02601,1
+GO:0046496,nicotinamide nucleotide metabolic proces...,25,2,0.25,0.02601,1
+GO:0019362,pyridine nucleotide metabolic process,26,2,0.26,0.02800,1
+GO:0000920,septum digestion after cytokinesis,3,1,0.03,0.03025,1
+GO:0002943,tRNA dihydrouridine synthesis,3,1,0.03,0.03025,1
+GO:0008153,para-aminobenzoic acid biosynthetic proc...,3,1,0.03,0.03025,1
+GO:0010446,response to alkaline pH,3,1,0.03,0.03025,1
+GO:0019516,lactate oxidation,3,1,0.03,0.03025,1
+GO:0034035,purine ribonucleoside bisphosphate metab...,3,1,0.03,0.03025,1
+GO:0034198,cellular response to amino acid starvati...,3,1,0.03,0.03025,1
+GO:0045900,negative regulation of translational elo...,3,1,0.03,0.03025,1
+GO:0046482,para-aminobenzoic acid metabolic process,3,1,0.03,0.03025,1
+GO:1990928,response to amino acid starvation,3,1,0.03,0.03025,1
+GO:0090407,organophosphate biosynthetic process,182,5,1.85,0.03437,1
+GO:0001676,long-chain fatty acid metabolic process,4,1,0.04,0.04014,1
+GO:0006521,regulation of cellular amino acid metabo...,4,1,0.04,0.04014,1
+GO:0009090,homoserine biosynthetic process,4,1,0.04,0.04014,1
+GO:0033238,regulation of amine metabolic process,4,1,0.04,0.04014,1
+GO:0009072,aromatic amino acid metabolic process,32,2,0.33,0.04116,1
+GO:0006396,RNA processing,79,3,0.8,0.04482,1
+GO:0043650,dicarboxylic acid biosynthetic process,34,2,0.35,0.04598,1
+GO:0005980,glycogen catabolic process,5,1,0.05,0.04992,1
+GO:0019877,diaminopimelate biosynthetic process,5,1,0.05,0.04992,1
+GO:0006091,generation of precursor metabolites and ...,202,5,2.06,0.05044,1

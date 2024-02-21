@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0006635,fatty acid beta-oxidation,19,7,0.15,3.1e-11,0
+GO:0019395,fatty acid oxidation,20,7,0.16,4.7e-11,0
+GO:0034440,lipid oxidation,20,7,0.16,4.7e-11,0
+GO:0030258,lipid modification,24,7,0.19,2.1e-10,0
+GO:0009062,fatty acid catabolic process,27,7,0.21,5.2e-10,0
+GO:0044242,cellular lipid catabolic process,30,7,0.23,1.2e-09,0
+GO:0016042,lipid catabolic process,35,7,0.27,3.8e-09,0
+GO:0046395,carboxylic acid catabolic process,181,11,1.41,2.5e-08,0
+GO:0016054,organic acid catabolic process,191,11,1.49,4.4e-08,0
+GO:0072329,monocarboxylic acid catabolic process,92,8,0.72,2.2e-07,1e-04
+GO:0006631,fatty acid metabolic process,66,7,0.52,3.8e-07,1e-04
+GO:0044248,cellular catabolic process,330,12,2.58,1.4e-06,3e-04
+GO:0044282,small molecule catabolic process,298,11,2.33,4.2e-06,9e-04
+GO:0032787,monocarboxylic acid metabolic process,221,9,1.73,2.1e-05,0.0043
+GO:0044255,cellular lipid metabolic process,122,7,0.95,2.5e-05,0.0048
+GO:0019480,L-alanine oxidation to pyruvate via D-al...,2,2,0.02,5.8e-05,0.0088
+GO:0033542,fatty acid beta-oxidation, unsaturated, ...,2,2,0.02,5.8e-05,0.0088
+GO:0042851,L-alanine metabolic process,2,2,0.02,5.8e-05,0.0088
+GO:0042853,L-alanine catabolic process,2,2,0.02,5.8e-05,0.0088
+GO:0009056,catabolic process,506,12,3.95,0.00013,0.0188
+GO:0006629,lipid metabolic process,171,7,1.34,0.00022,0.0303
+GO:0006524,alanine catabolic process,4,2,0.03,0.00035,0.044
+GO:0009080,pyruvate family amino acid catabolic pro...,4,2,0.03,0.00035,0.044
+GO:0019752,carboxylic acid metabolic process,483,11,3.77,0.00042,0.0506
+GO:1901575,organic substance catabolic process,491,11,3.83,0.00049,0.0566
+GO:0046436,D-alanine metabolic process,5,2,0.04,0.00057,0.0633
+GO:0043436,oxoacid metabolic process,512,11,4,0.00071,0.076
+GO:0006082,organic acid metabolic process,525,11,4.1,0.00089,0.0917
+GO:0015711,organic anion transport,155,6,1.21,0.00092,0.0917
+GO:0006522,alanine metabolic process,7,2,0.05,0.00120,0.1118
+GO:0009078,pyruvate family amino acid metabolic pro...,7,2,0.05,0.00120,0.1118
+GO:0046416,D-amino acid metabolic process,8,2,0.06,0.00159,0.1435
+GO:0015718,monocarboxylic acid transport,37,3,0.29,0.00272,0.2381
+GO:0046942,carboxylic acid transport,138,5,1.08,0.00356,0.3025
+GO:0015849,organic acid transport,139,5,1.09,0.00368,0.3038
+GO:0006637,acyl-CoA metabolic process,17,2,0.13,0.00739,0.4605
+GO:0035383,thioester metabolic process,17,2,0.13,0.00739,0.4605
+GO:0001762,beta-alanine transport,1,1,0.01,0.00781,0.4605
+GO:0006846,acetate transport,1,1,0.01,0.00781,0.4605
+GO:0006847,plasma membrane acetate transport,1,1,0.01,0.00781,0.4605
+GO:0006848,pyruvate transport,1,1,0.01,0.00781,0.4605
+GO:0006849,plasma membrane pyruvate transport,1,1,0.01,0.00781,0.4605
+GO:0033543,fatty acid beta-oxidation, unsaturated, ...,1,1,0.01,0.00781,0.4605
+GO:0034421,post-translational protein acetylation,1,1,0.01,0.00781,0.4605
+GO:0035433,acetate transmembrane transport,1,1,0.01,0.00781,0.4605
+GO:0042391,regulation of membrane potential,1,1,0.01,0.00781,0.4605
+GO:0097339,glycolate transmembrane transport,1,1,0.01,0.00781,0.4605
+GO:1900866,glycolate transport,1,1,0.01,0.00781,0.4605
+GO:1901475,pyruvate transmembrane transport,1,1,0.01,0.00781,0.4605
+GO:0033865,nucleoside bisphosphate metabolic proces...,24,2,0.19,0.01450,0.7255

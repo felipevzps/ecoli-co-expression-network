@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0009409,response to cold,17,5,0.06,8.3e-10,0
+GO:0009266,response to temperature stimulus,86,5,0.29,4.2e-06,0.0061
+GO:0010468,regulation of gene expression,384,7,1.3,5.1e-05,0.0279
+GO:0010556,regulation of macromolecule biosynthetic...,385,7,1.31,5.2e-05,0.0279
+GO:0031326,regulation of cellular biosynthetic proc...,389,7,1.32,5.6e-05,0.0279
+GO:0009889,regulation of biosynthetic process,391,7,1.33,5.8e-05,0.0279
+GO:0031323,regulation of cellular metabolic process,412,7,1.4,8.2e-05,0.03
+GO:0060255,regulation of macromolecule metabolic pr...,413,7,1.4,8.3e-05,0.03
+GO:0019222,regulation of metabolic process,424,7,1.44,9.9e-05,0.0318
+GO:0050794,regulation of cellular process,510,7,1.73,0.00033,0.0953
+GO:0009628,response to abiotic stimulus,242,5,0.82,0.00064,0.1556
+GO:0050789,regulation of biological process,565,7,1.92,0.00065,0.1556
+GO:0009059,macromolecule biosynthetic process,792,8,2.69,0.00070,0.1556
+GO:0043170,macromolecule metabolic process,1081,9,3.67,0.00079,0.163
+GO:0065007,biological regulation,597,7,2.03,0.00092,0.1772
+GO:0010467,gene expression,617,7,2.09,0.00113,0.204
+GO:0044249,cellular biosynthetic process,1176,8,3.99,0.01200,1
+GO:0036103,Kdo2-lipid A metabolic process,4,1,0.01,0.01352,1
+GO:0036104,Kdo2-lipid A biosynthetic process,4,1,0.01,0.01352,1
+GO:1901576,organic substance biosynthetic process,1201,8,4.08,0.01388,1
+GO:0009058,biosynthetic process,1215,8,4.12,0.01503,1
+GO:1901570,fatty acid derivative biosynthetic proce...,6,1,0.02,0.02021,1
+GO:0006950,response to stress,527,5,1.79,0.02059,1
+GO:1901568,fatty acid derivative metabolic process,9,1,0.03,0.03018,1
+GO:0050896,response to stimulus,909,6,3.09,0.05363,1
+GO:0031564,transcription antitermination,20,1,0.07,0.06595,1
+GO:0043242,negative regulation of protein-containin...,20,1,0.07,0.06595,1
+GO:0060567,negative regulation of termination of DN...,20,1,0.07,0.06595,1
+GO:0071978,bacterial-type flagellum-dependent swarm...,22,1,0.07,0.07232,1
+GO:0009245,lipid A biosynthetic process,24,1,0.08,0.07866,1
+GO:0046493,lipid A metabolic process,24,1,0.08,0.07866,1
+GO:0006643,membrane lipid metabolic process,25,1,0.08,0.08181,1
+GO:0006664,glycolipid metabolic process,25,1,0.08,0.08181,1
+GO:0009247,glycolipid biosynthetic process,25,1,0.08,0.08181,1
+GO:0046467,membrane lipid biosynthetic process,25,1,0.08,0.08181,1
+GO:0051129,negative regulation of cellular componen...,25,1,0.08,0.08181,1
+GO:1901269,lipooligosaccharide metabolic process,25,1,0.08,0.08181,1
+GO:1901271,lipooligosaccharide biosynthetic process,25,1,0.08,0.08181,1
+GO:0071704,organic substance metabolic process,1921,9,6.52,0.08768,1
+GO:0031554,regulation of termination of DNA-templat...,27,1,0.09,0.08809,1
+GO:0006353,DNA-templated transcription termination,28,1,0.1,0.09121,1
+GO:0043244,regulation of protein-containing complex...,28,1,0.1,0.09121,1
+GO:0010628,positive regulation of gene expression,30,1,0.1,0.09743,1
+GO:0032984,protein-containing complex disassembly,34,1,0.12,0.10976,1
+GO:0043650,dicarboxylic acid biosynthetic process,34,1,0.12,0.10976,1
+GO:0022411,cellular component disassembly,37,1,0.13,0.11890,1
+GO:0008654,phospholipid biosynthetic process,52,1,0.18,0.16336,1
+GO:0009103,lipopolysaccharide biosynthetic process,52,1,0.18,0.16336,1
+GO:0008653,lipopolysaccharide metabolic process,53,1,0.18,0.16625,1
+GO:0006644,phospholipid metabolic process,55,1,0.19,0.17201,1

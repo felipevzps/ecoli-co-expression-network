@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0006054,N-acetylneuraminate metabolic process,9,7,0.05,1.1e-15,0
+GO:0019262,N-acetylneuraminate catabolic process,9,7,0.05,1.1e-15,0
+GO:0046348,amino sugar catabolic process,14,7,0.08,1.0e-13,0
+GO:0006040,amino sugar metabolic process,22,7,0.12,4.9e-12,0
+GO:1901136,carbohydrate derivative catabolic proces...,62,7,0.34,1.3e-08,0
+GO:0046395,carboxylic acid catabolic process,181,8,0.98,1.5e-06,7e-04
+GO:0016054,organic acid catabolic process,191,8,1.04,2.2e-06,9e-04
+GO:1901565,organonitrogen compound catabolic proces...,198,8,1.08,2.9e-06,0.001
+GO:0044248,cellular catabolic process,330,9,1.79,1.4e-05,0.0045
+GO:0006050,mannosamine metabolic process,2,2,0.01,2.8e-05,0.0067
+GO:0006051,N-acetylmannosamine metabolic process,2,2,0.01,2.8e-05,0.0067
+GO:0015739,sialic acid transport,2,2,0.01,2.8e-05,0.0067
+GO:0044282,small molecule catabolic process,298,8,1.62,6.2e-05,0.0138
+GO:0043603,amide metabolic process,229,7,1.24,9.8e-05,0.0202
+GO:0006046,N-acetylglucosamine catabolic process,4,2,0.02,0.00016,0.0308
+GO:0006044,N-acetylglucosamine metabolic process,5,2,0.03,0.00027,0.0488
+GO:1901575,organic substance catabolic process,491,9,2.67,0.00035,0.0595
+GO:1901072,glucosamine-containing compound cataboli...,6,2,0.03,0.00041,0.0658
+GO:0009056,catabolic process,506,9,2.75,0.00044,0.0669
+GO:1901071,glucosamine-containing compound metaboli...,7,2,0.04,0.00057,0.0823
+GO:1901135,carbohydrate derivative metabolic proces...,337,7,1.83,0.00110,0.1513
+GO:0019752,carboxylic acid metabolic process,483,8,2.62,0.00187,0.2456
+GO:0043436,oxoacid metabolic process,512,8,2.78,0.00275,0.3454
+GO:0006082,organic acid metabolic process,525,8,2.85,0.00325,0.3912
+GO:0046942,carboxylic acid transport,138,4,0.75,0.00540,0.5163
+GO:0006053,N-acetylmannosamine catabolic process,1,1,0.01,0.00543,0.5163
+GO:0036088,D-serine catabolic process,1,1,0.01,0.00543,0.5163
+GO:0046346,mannosamine catabolic process,1,1,0.01,0.00543,0.5163
+GO:0051410,detoxification of nitrogen compound,1,1,0.01,0.00543,0.5163
+GO:0070178,D-serine metabolic process,1,1,0.01,0.00543,0.5163
+GO:0015849,organic acid transport,139,4,0.75,0.00554,0.5163
+GO:0005975,carbohydrate metabolic process,340,6,1.85,0.00660,0.5959
+GO:0015711,organic anion transport,155,4,0.84,0.00816,0.7144
+GO:0006974,DNA damage response,262,5,1.42,0.01031,0.876
+GO:0042942,D-serine transport,2,1,0.01,0.01083,0.8939
+GO:1903825,organic acid transmembrane transport,93,3,0.51,0.01266,0.9885
+GO:1905039,carboxylic acid transmembrane transport,93,3,0.51,0.01266,0.9885
+GO:0006041,glucosamine metabolic process,3,1,0.02,0.01621,1
+GO:0006043,glucosamine catabolic process,3,1,0.02,0.01621,1
+GO:0006048,UDP-N-acetylglucosamine biosynthetic pro...,4,1,0.02,0.02156,1
+GO:0006047,UDP-N-acetylglucosamine metabolic proces...,5,1,0.03,0.02688,1
+GO:0019478,D-amino acid catabolic process,5,1,0.03,0.02688,1
+GO:0032329,serine transport,5,1,0.03,0.02688,1
+GO:0140207,tripeptide import across plasma membrane,5,1,0.03,0.02688,1
+GO:0035443,tripeptide transmembrane transport,6,1,0.03,0.03217,1
+GO:0042939,tripeptide transport,6,1,0.03,0.03217,1
+GO:0046349,amino sugar biosynthetic process,6,1,0.03,0.03217,1
+GO:0140205,oligopeptide import across plasma membra...,6,1,0.03,0.03217,1
+GO:0042940,D-amino acid transport,7,1,0.04,0.03744,1
+GO:0035429,gluconate transmembrane transport,8,1,0.04,0.04268,1

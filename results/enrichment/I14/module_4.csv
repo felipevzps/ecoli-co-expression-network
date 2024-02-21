@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0006950,response to stress,527,63,28.8,4.8e-11,0
+GO:0006979,response to oxidative stress,88,22,4.81,5.6e-10,0
+GO:1901700,response to oxygen-containing compound,73,17,3.99,1.8e-07,2e-04
+GO:0033554,cellular response to stress,381,44,20.82,3.7e-07,2e-04
+GO:0006105,succinate metabolic process,5,5,0.27,4.6e-07,2e-04
+GO:0019544,arginine catabolic process to glutamate,5,5,0.27,4.6e-07,2e-04
+GO:0019545,arginine catabolic process to succinate,5,5,0.27,4.6e-07,2e-04
+GO:0000302,response to reactive oxygen species,34,11,1.86,8.9e-07,3e-04
+GO:0051716,cellular response to stimulus,522,53,28.53,1.2e-06,4e-04
+GO:0006536,glutamate metabolic process,15,7,0.82,5.7e-06,0.0016
+GO:0042542,response to hydrogen peroxide,21,8,1.15,7.4e-06,0.0019
+GO:0062197,cellular response to chemical stress,50,12,2.73,9.3e-06,0.0022
+GO:0010033,response to organic substance,59,13,3.22,1.1e-05,0.0024
+GO:0050896,response to stimulus,909,75,49.68,1.2e-05,0.0025
+GO:0009065,glutamine family amino acid catabolic pr...,17,7,0.93,1.6e-05,0.0031
+GO:0006970,response to osmotic stress,34,9,1.86,5.6e-05,0.0101
+GO:0070887,cellular response to chemical stimulus,135,19,7.38,9.4e-05,0.016
+GO:0034614,cellular response to reactive oxygen spe...,16,6,0.87,0.00012,0.0182
+GO:0071468,cellular response to acidic pH,16,6,0.87,0.00012,0.0182
+GO:0016226,iron-sulfur cluster assembly,23,7,1.26,0.00015,0.0193
+GO:0031163,metallo-sulfur cluster assembly,23,7,1.26,0.00015,0.0193
+GO:0098869,cellular oxidant detoxification,23,7,1.26,0.00015,0.0193
+GO:0045471,response to ethanol,3,3,0.16,0.00016,0.0193
+GO:0006527,arginine catabolic process,11,5,0.6,0.00016,0.0193
+GO:0071214,cellular response to abiotic stimulus,32,8,1.75,0.00023,0.0252
+GO:0104004,cellular response to environmental stimu...,32,8,1.75,0.00023,0.0252
+GO:0071467,cellular response to pH,18,6,0.98,0.00026,0.0252
+GO:0005991,trehalose metabolic process,7,4,0.38,0.00026,0.0252
+GO:0006972,hyperosmotic response,12,5,0.66,0.00027,0.0252
+GO:0043605,amide catabolic process,12,5,0.66,0.00027,0.0252
+GO:0009063,amino acid catabolic process,69,12,3.77,0.00027,0.0252
+GO:0006974,DNA damage response,262,28,14.32,0.00031,0.028
+GO:0097237,cellular response to toxic substance,26,7,1.42,0.00035,0.0297
+GO:1990748,cellular detoxification,26,7,1.42,0.00035,0.0297
+GO:0006097,glyoxylate cycle,8,4,0.44,0.00051,0.0421
+GO:0010447,response to acidic pH,28,7,1.53,0.00057,0.0433
+GO:0034599,cellular response to oxidative stress,28,7,1.53,0.00057,0.0433
+GO:1901701,cellular response to oxygen-containing c...,28,7,1.53,0.00057,0.0433
+GO:0044011,single-species biofilm formation on inan...,14,5,0.77,0.00061,0.0452
+GO:0009268,response to pH,38,8,2.08,0.00080,0.0578
+GO:0070301,cellular response to hydrogen peroxide,9,4,0.49,0.00087,0.0613
+GO:0009628,response to abiotic stimulus,242,25,13.23,0.00111,0.0764
+GO:0097305,response to alcohol,5,3,0.27,0.00148,0.0994
+GO:0042221,response to chemical,363,33,19.84,0.00167,0.1097
+GO:0006525,arginine metabolic process,27,6,1.48,0.00275,0.1619
+GO:0009448,gamma-aminobutyric acid metabolic proces...,6,3,0.33,0.00284,0.1619
+GO:0009450,gamma-aminobutyric acid catabolic proces...,6,3,0.33,0.00284,0.1619
+GO:0005992,trehalose biosynthetic process,2,2,0.11,0.00297,0.1619
+GO:0019249,lactate biosynthetic process,2,2,0.11,0.00297,0.1619
+GO:0070413,trehalose metabolism in response to stre...,2,2,0.11,0.00297,0.1619

@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:1902074,response to salt,20,2,0.07,0.0019,1
+GO:0010167,response to nitrate,2,1,0.01,0.0068,1
+GO:0071249,cellular response to nitrate,2,1,0.01,0.0068,1
+GO:0071250,cellular response to nitrite,2,1,0.01,0.0068,1
+GO:0080033,response to nitrite,2,1,0.01,0.0068,1
+GO:1902170,cellular response to reactive nitrogen s...,3,1,0.01,0.0102,1
+GO:0050896,response to stimulus,909,7,3.09,0.0124,1
+GO:0010041,response to iron(III) ion,6,1,0.02,0.0202,1
+GO:0034661,ncRNA catabolic process,6,1,0.02,0.0202,1
+GO:1902075,cellular response to salt,6,1,0.02,0.0202,1
+GO:0010039,response to iron ion,8,1,0.03,0.0269,1
+GO:1901699,cellular response to nitrogen compound,9,1,0.03,0.0302,1
+GO:0010035,response to inorganic substance,85,2,0.29,0.0319,1
+GO:0140317,export across cell outer membrane,13,1,0.04,0.0433,1
+GO:0140330,xenobiotic detoxification by transmembra...,13,1,0.04,0.0433,1
+GO:0036460,cellular response to cell envelope stres...,16,1,0.05,0.0531,1
+GO:0009297,pilus assembly,18,1,0.06,0.0595,1
+GO:0071241,cellular response to inorganic substance,20,1,0.07,0.0659,1
+GO:1990961,xenobiotic detoxification by transmembra...,21,1,0.07,0.0691,1
+GO:0046618,xenobiotic export from cell,23,1,0.08,0.0755,1
+GO:1901698,response to nitrogen compound,23,1,0.08,0.0755,1
+GO:0009245,lipid A biosynthetic process,24,1,0.08,0.0787,1
+GO:0046493,lipid A metabolic process,24,1,0.08,0.0787,1
+GO:0006643,membrane lipid metabolic process,25,1,0.08,0.0818,1
+GO:0006664,glycolipid metabolic process,25,1,0.08,0.0818,1
+GO:0009247,glycolipid biosynthetic process,25,1,0.08,0.0818,1
+GO:0046467,membrane lipid biosynthetic process,25,1,0.08,0.0818,1
+GO:1901269,lipooligosaccharide metabolic process,25,1,0.08,0.0818,1
+GO:1901271,lipooligosaccharide biosynthetic process,25,1,0.08,0.0818,1
+GO:0010212,response to ionizing radiation,26,1,0.09,0.0850,1
+GO:0042126,nitrate metabolic process,26,1,0.09,0.0850,1
+GO:0042128,nitrate assimilation,26,1,0.09,0.0850,1
+GO:0000003,reproduction,27,1,0.09,0.0881,1
+GO:0019954,asexual reproduction,27,1,0.09,0.0881,1
+GO:0022414,reproductive process,27,1,0.09,0.0881,1
+GO:0032505,reproduction of a single-celled organism,27,1,0.09,0.0881,1
+GO:0043093,FtsZ-dependent cytokinesis,27,1,0.09,0.0881,1
+GO:0010447,response to acidic pH,28,1,0.1,0.0912,1
+GO:1901701,cellular response to oxygen-containing c...,28,1,0.1,0.0912,1
+GO:0140115,export across plasma membrane,29,1,0.1,0.0943,1
+GO:0006401,RNA catabolic process,30,1,0.1,0.0974,1
+GO:0071941,nitrogen cycle metabolic process,30,1,0.1,0.0974,1
+GO:2001057,reactive nitrogen species metabolic proc...,30,1,0.1,0.0974,1
+GO:0000910,cytokinesis,34,1,0.12,0.1098,1
+GO:0042221,response to chemical,363,3,1.23,0.1153,1
+GO:1901264,carbohydrate derivative transport,36,1,0.12,0.1159,1
+GO:0042908,xenobiotic transport,37,1,0.13,0.1189,1
+GO:0009268,response to pH,38,1,0.13,0.1219,1
+GO:0006796,phosphate-containing compound metabolic ...,393,3,1.33,0.1383,1
+GO:0030031,cell projection assembly,44,1,0.15,0.1399,1

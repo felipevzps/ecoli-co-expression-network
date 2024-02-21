@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:1901160,primary amino compound metabolic process,19,15,1.85,1.3e-12,0
+GO:1901161,primary amino compound catabolic process,19,15,1.85,1.3e-12,0
+GO:0034310,primary alcohol catabolic process,22,16,2.14,1.9e-12,0
+GO:0006580,ethanolamine metabolic process,17,13,1.66,9.2e-11,0
+GO:0042439,ethanolamine-containing compound metabol...,17,13,1.66,9.2e-11,0
+GO:0046336,ethanolamine catabolic process,17,13,1.66,9.2e-11,0
+GO:0042402,cellular biogenic amine catabolic proces...,28,16,2.73,4.6e-10,0
+GO:0009310,amine catabolic process,29,16,2.83,9.3e-10,0
+GO:0009437,carnitine metabolic process,12,10,1.17,3.7e-09,0
+GO:0034308,primary alcohol metabolic process,50,20,4.87,9.9e-09,0
+GO:1901616,organic hydroxy compound catabolic proce...,51,20,4.97,1.5e-08,0
+GO:0046377,colanic acid metabolic process,22,12,2.14,1.6e-07,0
+GO:0006577,amino-acid betaine metabolic process,16,10,1.56,3.1e-07,1e-04
+GO:0046164,alcohol catabolic process,45,17,4.38,3.6e-07,1e-04
+GO:0006576,biogenic amine metabolic process,47,17,4.58,7.4e-07,1e-04
+GO:0009308,amine metabolic process,49,17,4.77,1.5e-06,3e-04
+GO:0009242,colanic acid biosynthetic process,19,10,1.85,2.8e-06,5e-04
+GO:0044282,small molecule catabolic process,298,53,29.03,3.9e-06,6e-04
+GO:0045226,extracellular polysaccharide biosyntheti...,24,11,2.34,4.9e-06,7e-04
+GO:0046379,extracellular polysaccharide metabolic p...,24,11,2.34,4.9e-06,7e-04
+GO:0045228,slime layer polysaccharide biosynthetic ...,10,7,0.97,7.2e-06,9e-04
+GO:0045231,slime layer organization,10,7,0.97,7.2e-06,9e-04
+GO:0006066,alcohol metabolic process,92,22,8.96,4.2e-05,0.0053
+GO:0033539,fatty acid beta-oxidation using acyl-CoA...,6,5,0.58,4.7e-05,0.0057
+GO:0010438,cellular response to sulfur starvation,9,6,0.88,5.3e-05,0.0059
+GO:0019694,alkanesulfonate metabolic process,9,6,0.88,5.3e-05,0.0059
+GO:1901615,organic hydroxy compound metabolic proce...,123,26,11.98,8.3e-05,0.0089
+GO:0006635,fatty acid beta-oxidation,19,8,1.85,0.00021,0.0217
+GO:0019395,fatty acid oxidation,20,8,1.95,0.00033,0.0318
+GO:0034440,lipid oxidation,20,8,1.95,0.00033,0.0318
+GO:0006575,cellular modified amino acid metabolic p...,50,13,4.87,0.00070,0.0652
+GO:0030258,lipid modification,24,8,2.34,0.00135,0.1219
+GO:1901575,organic substance catabolic process,491,66,47.83,0.00220,0.1926
+GO:0005976,polysaccharide metabolic process,98,19,9.55,0.00229,0.1946
+GO:0009056,catabolic process,506,67,49.29,0.00301,0.2396
+GO:0009062,fatty acid catabolic process,27,8,2.63,0.00313,0.2396
+GO:0006101,citrate metabolic process,4,3,0.39,0.00340,0.2396
+GO:0006579,amino-acid betaine catabolic process,4,3,0.39,0.00340,0.2396
+GO:0009436,glyoxylate catabolic process,4,3,0.39,0.00340,0.2396
+GO:0042413,carnitine catabolic process,4,3,0.39,0.00340,0.2396
+GO:0046306,alkanesulfonate catabolic process,4,3,0.39,0.00340,0.2396
+GO:1901565,organonitrogen compound catabolic proces...,198,31,19.29,0.00429,0.2951
+GO:0016054,organic acid catabolic process,191,30,18.61,0.00472,0.3171
+GO:0016042,lipid catabolic process,35,9,3.41,0.00503,0.3303
+GO:0042219,cellular modified amino acid catabolic p...,13,5,1.27,0.00565,0.3627
+GO:0044242,cellular lipid catabolic process,30,8,2.92,0.00637,0.3946
+GO:0072329,monocarboxylic acid catabolic process,92,17,8.96,0.00642,0.3946
+GO:0000271,polysaccharide biosynthetic process,85,16,8.28,0.00674,0.4057
+GO:0044273,sulfur compound catabolic process,19,6,1.85,0.00737,0.4216
+GO:0006084,acetyl-CoA metabolic process,9,4,0.88,0.00748,0.4216

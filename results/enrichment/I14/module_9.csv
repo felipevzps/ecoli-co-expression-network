@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0015980,energy derivation by oxidation of organi...,140,30,2.14,1.6e-30,0
+GO:0006091,generation of precursor metabolites and ...,202,30,3.09,2.1e-25,0
+GO:0022904,respiratory electron transport chain,77,20,1.18,3.1e-21,0
+GO:0006119,oxidative phosphorylation,21,13,0.32,7.0e-20,0
+GO:0006099,tricarboxylic acid cycle,29,14,0.44,2.7e-19,0
+GO:0022900,electron transport chain,115,21,1.76,7.2e-19,0
+GO:0019646,aerobic electron transport chain,13,8,0.2,1.9e-12,0
+GO:0015988,energy coupled proton transmembrane tran...,9,7,0.14,4.2e-12,0
+GO:0015990,electron transport coupled proton transp...,9,7,0.14,4.2e-12,0
+GO:0042773,ATP synthesis coupled electron transport,9,6,0.14,7.3e-10,0
+GO:0006108,malate metabolic process,4,4,0.06,4.8e-08,0
+GO:1902600,proton transmembrane transport,55,8,0.84,1.1e-06,3e-04
+GO:0019464,glycine decarboxylation via glycine clea...,3,3,0.05,3.3e-06,7e-04
+GO:0006546,glycine catabolic process,4,3,0.06,1.3e-05,0.0027
+GO:0044237,cellular metabolic process,1909,41,29.16,4.7e-05,0.009
+GO:0008152,metabolic process,2116,43,32.32,5.3e-05,0.0096
+GO:0006544,glycine metabolic process,8,3,0.12,0.00018,0.0306
+GO:0098662,inorganic cation transmembrane transport,120,8,1.83,0.00036,0.0577
+GO:0098655,monoatomic cation transmembrane transpor...,124,8,1.89,0.00046,0.0699
+GO:0098660,inorganic ion transmembrane transport,139,8,2.12,0.00098,0.1415
+GO:0006730,one-carbon metabolic process,15,3,0.23,0.00133,0.1828
+GO:0009071,serine family amino acid catabolic proce...,17,3,0.26,0.00195,0.2559
+GO:0034220,monoatomic ion transmembrane transport,156,8,2.38,0.00208,0.2611
+GO:0006812,monoatomic cation transport,164,8,2.51,0.00286,0.344
+GO:0006097,glyoxylate cycle,8,2,0.12,0.00603,0.6963
+GO:0006811,monoatomic ion transport,203,8,3.1,0.01039,1
+GO:1901606,alpha-amino acid catabolic process,58,4,0.89,0.01106,1
+GO:0017004,cytochrome complex assembly,11,2,0.17,0.01150,1
+GO:0006104,succinyl-CoA metabolic process,1,1,0.02,0.01527,1
+GO:0019474,L-lysine catabolic process to acetyl-CoA,1,1,0.02,0.01527,1
+GO:0019477,L-lysine catabolic process,1,1,0.02,0.01527,1
+GO:0033512,L-lysine catabolic process to acetyl-CoA...,1,1,0.02,0.01527,1
+GO:0046440,L-lysine metabolic process,1,1,0.02,0.01527,1
+GO:0048033,heme O metabolic process,1,1,0.02,0.01527,1
+GO:0048034,heme O biosynthetic process,1,1,0.02,0.01527,1
+GO:0070453,regulation of heme biosynthetic process,1,1,0.02,0.01527,1
+GO:1901401,regulation of tetrapyrrole metabolic pro...,1,1,0.02,0.01527,1
+GO:1901463,regulation of tetrapyrrole biosynthetic ...,1,1,0.02,0.01527,1
+GO:1902280,regulation of RNA helicase activity,1,1,0.02,0.01527,1
+GO:0046487,glyoxylate metabolic process,13,2,0.2,0.01599,1
+GO:0006783,heme biosynthetic process,14,2,0.21,0.01848,1
+GO:0045454,cell redox homeostasis,14,2,0.21,0.01848,1
+GO:0046148,pigment biosynthetic process,14,2,0.21,0.01848,1
+GO:0009063,amino acid catabolic process,69,4,1.05,0.01995,1
+GO:0006637,acyl-CoA metabolic process,17,2,0.26,0.02683,1
+GO:0006779,porphyrin-containing compound biosynthet...,17,2,0.26,0.02683,1
+GO:0035383,thioester metabolic process,17,2,0.26,0.02683,1
+GO:0009069,serine family amino acid metabolic proce...,44,3,0.67,0.02852,1
+GO:0006106,fumarate metabolic process,2,1,0.03,0.03032,1
+GO:0034635,glutathione transport,2,1,0.03,0.03032,1

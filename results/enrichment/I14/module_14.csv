@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0006145,purine nucleobase catabolic process,7,4,0.05,8.1e-08,1e-04
+GO:0006144,purine nucleobase metabolic process,18,5,0.13,1.1e-07,1e-04
+GO:0046113,nucleobase catabolic process,18,5,0.13,1.1e-07,1e-04
+GO:0006166,purine ribonucleoside salvage,8,4,0.06,1.6e-07,1e-04
+GO:0043174,nucleoside salvage,9,4,0.07,2.9e-07,2e-04
+GO:0009114,hypoxanthine catabolic process,3,3,0.02,3.6e-07,2e-04
+GO:0042451,purine nucleoside biosynthetic process,10,4,0.07,4.8e-07,2e-04
+GO:0046129,purine ribonucleoside biosynthetic proce...,10,4,0.07,4.8e-07,2e-04
+GO:0009112,nucleobase metabolic process,47,6,0.35,7.3e-07,2e-04
+GO:0046128,purine ribonucleoside metabolic process,11,4,0.08,7.4e-07,2e-04
+GO:0043101,purine-containing compound salvage,15,4,0.11,3.0e-06,8e-04
+GO:0046100,hypoxanthine metabolic process,5,3,0.04,3.6e-06,9e-04
+GO:0042278,purine nucleoside metabolic process,16,4,0.12,4.0e-06,9e-04
+GO:0009163,nucleoside biosynthetic process,17,4,0.13,5.2e-06,9e-04
+GO:0034404,nucleobase-containing small molecule bio...,17,4,0.13,5.2e-06,9e-04
+GO:0042455,ribonucleoside biosynthetic process,17,4,0.13,5.2e-06,9e-04
+GO:1901659,glycosyl compound biosynthetic process,18,4,0.13,6.7e-06,0.0011
+GO:0072523,purine-containing compound catabolic pro...,20,4,0.15,1.0e-05,0.0016
+GO:0009119,ribonucleoside metabolic process,23,4,0.17,1.9e-05,0.0029
+GO:0009116,nucleoside metabolic process,29,4,0.22,4.9e-05,0.0071
+GO:0043094,cellular metabolic compound salvage,31,4,0.23,6.4e-05,0.0084
+GO:1901657,glycosyl compound metabolic process,31,4,0.23,6.4e-05,0.0084
+GO:0042355,L-fucose catabolic process,6,2,0.04,0.00078,0.098
+GO:0046700,heterocycle catabolic process,106,5,0.79,0.00089,0.105
+GO:0006525,arginine metabolic process,27,3,0.2,0.00094,0.105
+GO:0044270,cellular nitrogen compound catabolic pro...,108,5,0.81,0.00097,0.105
+GO:0072521,purine-containing compound metabolic pro...,109,5,0.81,0.00101,0.105
+GO:0072522,purine-containing compound biosynthetic ...,63,4,0.47,0.00104,0.105
+GO:0019317,fucose catabolic process,7,2,0.05,0.00109,0.105
+GO:0042354,L-fucose metabolic process,7,2,0.05,0.00109,0.105
+GO:0006004,fucose metabolic process,9,2,0.07,0.00186,0.1733
+GO:1901565,organonitrogen compound catabolic proces...,198,6,1.48,0.00257,0.2259
+GO:0044281,small molecule metabolic process,841,13,6.28,0.00258,0.2259
+GO:0019320,hexose catabolic process,39,3,0.29,0.00278,0.2271
+GO:1901361,organic cyclic compound catabolic proces...,137,5,1.02,0.00281,0.2271
+GO:0044238,primary metabolic process,1661,19,12.4,0.00283,0.2271
+GO:0055086,nucleobase-containing small molecule met...,211,6,1.58,0.00355,0.2772
+GO:1901575,organic substance catabolic process,491,9,3.67,0.00594,0.4445
+GO:0006526,arginine biosynthetic process,16,2,0.12,0.00600,0.4445
+GO:0009064,glutamine family amino acid metabolic pr...,54,3,0.4,0.00701,0.4496
+GO:0005996,monosaccharide metabolic process,106,4,0.79,0.00702,0.4496
+GO:0009056,catabolic process,506,9,3.78,0.00729,0.4496
+GO:0006147,guanine catabolic process,1,1,0.01,0.00747,0.4496
+GO:0034313,diol catabolic process,1,1,0.01,0.00747,0.4496
+GO:0042844,glycol metabolic process,1,1,0.01,0.00747,0.4496
+GO:0042846,glycol catabolic process,1,1,0.01,0.00747,0.4496
+GO:0051143,propanediol metabolic process,1,1,0.01,0.00747,0.4496
+GO:1904583,response to polyamine macromolecule,1,1,0.01,0.00747,0.4496
+GO:0046365,monosaccharide catabolic process,63,3,0.47,0.01074,0.6263
+GO:0019439,aromatic compound catabolic process,120,4,0.9,0.01084,0.6263

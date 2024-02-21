@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0071840,cellular component organization or bioge...,487,230,127.45,2.0e-28,0
+GO:1901566,organonitrogen compound biosynthetic pro...,519,238,135.83,4.4e-27,0
+GO:0043170,macromolecule metabolic process,1081,407,282.91,1.2e-26,0
+GO:0009059,macromolecule biosynthetic process,792,320,207.27,2.3e-25,0
+GO:0043603,amide metabolic process,229,130,59.93,1.2e-24,0
+GO:0034641,cellular nitrogen compound metabolic pro...,1044,387,273.23,5.7e-23,0
+GO:0044085,cellular component biogenesis,316,159,82.7,1.5e-22,0
+GO:0022618,protein-RNA complex assembly,43,41,11.25,3.1e-22,0
+GO:0071826,protein-RNA complex organization,43,41,11.25,3.1e-22,0
+GO:0042255,ribosome assembly,45,42,11.78,9.3e-22,0
+GO:0019538,protein metabolic process,355,169,92.91,1.1e-20,0
+GO:0016043,cellular component organization,449,199,117.51,7.3e-20,0
+GO:0034660,ncRNA metabolic process,100,69,26.17,8.2e-20,0
+GO:1901137,carbohydrate derivative biosynthetic pro...,219,115,57.31,4.6e-18,0
+GO:0044271,cellular nitrogen compound biosynthetic ...,710,273,185.81,6.2e-17,0
+GO:0006807,nitrogen compound metabolic process,1513,494,395.97,9.7e-17,0
+GO:0006399,tRNA metabolic process,75,52,19.63,2.7e-15,0
+GO:0010467,gene expression,617,237,161.48,2.9e-14,0
+GO:1901135,carbohydrate derivative metabolic proces...,337,148,88.2,4.2e-14,0
+GO:0071704,organic substance metabolic process,1921,586,502.75,5.4e-14,0
+GO:0007049,cell cycle,79,52,20.68,7.6e-14,0
+GO:0044238,primary metabolic process,1661,521,434.7,1.2e-13,0
+GO:0008610,lipid biosynthetic process,118,68,30.88,1.6e-13,0
+GO:1901564,organonitrogen compound metabolic proces...,903,317,236.32,3.6e-13,0
+GO:0006996,organelle organization,135,74,35.33,4.3e-13,0
+GO:0061024,membrane organization,26,24,6.8,1.5e-12,0
+GO:0006396,RNA processing,79,50,20.68,2.3e-12,0
+GO:0051301,cell division,75,48,19.63,3.5e-12,0
+GO:0070925,organelle assembly,73,47,19.1,4.3e-12,0
+GO:0140694,non-membrane-bounded organelle assembly,73,47,19.1,4.3e-12,0
+GO:0034470,ncRNA processing,71,46,18.58,5.3e-12,0
+GO:0000028,ribosomal small subunit assembly,18,18,4.71,2.9e-11,0
+GO:0000027,ribosomal large subunit assembly,23,21,6.02,7.0e-11,0
+GO:0006418,tRNA aminoacylation for protein translat...,23,21,6.02,7.0e-11,0
+GO:0042273,ribosomal large subunit biogenesis,23,21,6.02,7.0e-11,0
+GO:0042274,ribosomal small subunit biogenesis,23,21,6.02,7.0e-11,0
+GO:0043039,tRNA aminoacylation,23,21,6.02,7.0e-11,0
+GO:0043038,amino acid activation,24,21,6.28,4.2e-10,0
+GO:0006139,nucleobase-containing compound metabolic...,825,283,215.91,4.8e-10,0
+GO:0022607,cellular component assembly,238,104,62.29,7.2e-10,0
+GO:0046483,heterocycle metabolic process,945,316,247.32,7.3e-10,0
+GO:0043933,protein-containing complex organization,178,83,46.58,1.1e-09,0
+GO:0009451,RNA modification,56,36,14.66,1.7e-09,0
+GO:0044237,cellular metabolic process,1909,566,499.61,2.2e-09,0
+GO:0022402,cell cycle process,49,32,12.82,7.8e-09,0
+GO:0009273,peptidoglycan-based cell wall biogenesis,46,30,12.04,2.4e-08,0
+GO:0042546,cell wall biogenesis,46,30,12.04,2.4e-08,0
+GO:0006364,rRNA processing,29,22,7.59,2.7e-08,0
+GO:1901360,organic cyclic compound metabolic proces...,992,322,259.62,2.8e-08,0
+GO:0008152,metabolic process,2116,611,553.78,3.5e-08,0
