@@ -5,6 +5,18 @@
 #$ -V
 #$ -pe smp 1
 
+IN_FILE=../results/dump.out.ecoli60.mci.I
+OUT_FILE=../results/dump.out.ecoli60.mci.I
+num=(14 20 60)
+
+## GET COUNTS IN EACH CLUSTER
+for i in "${num[@]}"
+do
+	echo $i
+	awk -F' ' '{print NF}' ${IN_FILE}${i} > ${OUT_FILE}${i}.number
+done
+
+
 dir=../results/dump.out.ecoli60.mci.I*
 
 # Reformat modules output
