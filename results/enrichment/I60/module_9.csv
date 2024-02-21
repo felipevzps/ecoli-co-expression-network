@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0009246,enterobacterial common antigen biosynthe...,7,4,0.08,4.5e-07,7e-04
+GO:0046378,enterobacterial common antigen metabolic...,7,4,0.08,4.5e-07,7e-04
+GO:0044355,clearance of foreign intracellular DNA,10,3,0.11,0.00015,0.1444
+GO:0099046,clearance of foreign intracellular nucle...,12,3,0.13,0.00026,0.1878
+GO:0043414,macromolecule methylation,31,4,0.35,0.00033,0.1907
+GO:1901137,carbohydrate derivative biosynthetic pro...,219,9,2.45,0.00047,0.1914
+GO:0006952,defense response,15,3,0.17,0.00053,0.1914
+GO:0098542,defense response to other organism,15,3,0.17,0.00053,0.1914
+GO:0043412,macromolecule modification,112,6,1.25,0.00126,0.2947
+GO:0043207,response to external biotic stimulus,20,3,0.22,0.00128,0.2947
+GO:0051707,response to other organism,20,3,0.22,0.00128,0.2947
+GO:0071554,cell wall organization or biogenesis,78,5,0.87,0.00152,0.2947
+GO:0009273,peptidoglycan-based cell wall biogenesis,46,4,0.52,0.00153,0.2947
+GO:0032259,methylation,46,4,0.52,0.00153,0.2947
+GO:0042546,cell wall biogenesis,46,4,0.52,0.00153,0.2947
+GO:0001510,RNA methylation,22,3,0.25,0.00171,0.3088
+GO:0000271,polysaccharide biosynthetic process,85,5,0.95,0.00223,0.379
+GO:0032502,developmental process,53,4,0.59,0.00260,0.3948
+GO:1901135,carbohydrate derivative metabolic proces...,337,10,3.77,0.00276,0.3948
+GO:0009314,response to radiation,90,5,1.01,0.00287,0.3948
+GO:0065008,regulation of biological quality,90,5,1.01,0.00287,0.3948
+GO:0009307,DNA restriction-modification system,8,2,0.09,0.00327,0.4107
+GO:1903785,L-valine transmembrane transport,8,2,0.09,0.00327,0.4107
+GO:0009607,response to biotic stimulus,29,3,0.32,0.00384,0.4622
+GO:0005976,polysaccharide metabolic process,98,5,1.1,0.00416,0.4634
+GO:0015829,valine transport,9,2,0.1,0.00417,0.4634
+GO:0016051,carbohydrate biosynthetic process,104,5,1.16,0.00537,0.5746
+GO:0015803,branched-chain amino acid transport,11,2,0.12,0.00628,0.648
+GO:0000270,peptidoglycan metabolic process,69,4,0.77,0.00676,0.651
+GO:0030203,glycosaminoglycan metabolic process,69,4,0.77,0.00676,0.651
+GO:0006022,aminoglycan metabolic process,71,4,0.8,0.00748,0.6557
+GO:0045017,glycerolipid biosynthetic process,12,2,0.13,0.00749,0.6557
+GO:0046474,glycerophospholipid biosynthetic process,12,2,0.13,0.00749,0.6557
+GO:0030488,tRNA methylation,13,2,0.15,0.00879,0.6765
+GO:0044419,biological process involved in interspec...,41,3,0.46,0.01022,0.6765
+GO:0002938,tRNA guanine ribose methylation,1,1,0.01,0.01120,0.6765
+GO:0007163,establishment or maintenance of cell pol...,1,1,0.01,0.01120,0.6765
+GO:0010164,response to cesium ion,1,1,0.01,0.01120,0.6765
+GO:0046167,glycerol-3-phosphate biosynthetic proces...,1,1,0.01,0.01120,0.6765
+GO:0071278,cellular response to cesium ion,1,1,0.01,0.01120,0.6765
+GO:0071963,establishment or maintenance of cell pol...,1,1,0.01,0.01120,0.6765
+GO:0043170,macromolecule metabolic process,1081,19,12.11,0.01131,0.6765
+GO:0008360,regulation of cell shape,43,3,0.48,0.01165,0.6765
+GO:0022603,regulation of anatomical structure morph...,43,3,0.48,0.01165,0.6765
+GO:0022604,regulation of cell morphogenesis,43,3,0.48,0.01165,0.6765
+GO:0050793,regulation of developmental process,43,3,0.48,0.01165,0.6765
+GO:0000902,cell morphogenesis,44,3,0.49,0.01241,0.6765
+GO:0006023,aminoglycan biosynthetic process,44,3,0.49,0.01241,0.6765
+GO:0006024,glycosaminoglycan biosynthetic process,44,3,0.49,0.01241,0.6765
+GO:0009252,peptidoglycan biosynthetic process,44,3,0.49,0.01241,0.6765

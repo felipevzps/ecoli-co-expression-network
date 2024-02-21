@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0009442,allantoin assimilation pathway,4,2,0.02,0.00016,0.26
+GO:0000255,allantoin metabolic process,5,2,0.03,0.00027,0.26
+GO:0000256,allantoin catabolic process,5,2,0.03,0.00027,0.26
+GO:0045228,slime layer polysaccharide biosynthetic ...,10,2,0.05,0.00121,0.6991
+GO:0045231,slime layer organization,10,2,0.05,0.00121,0.6991
+GO:0043605,amide catabolic process,12,2,0.07,0.00177,0.7594
+GO:0009112,nucleobase metabolic process,47,3,0.26,0.00184,0.7594
+GO:0006144,purine nucleobase metabolic process,18,2,0.1,0.00402,1
+GO:0046113,nucleobase catabolic process,18,2,0.1,0.00402,1
+GO:0009242,colanic acid biosynthetic process,19,2,0.1,0.00448,1
+GO:0043438,acetoacetic acid metabolic process,1,1,0.01,0.00543,1
+GO:0043442,acetoacetic acid catabolic process,1,1,0.01,0.00543,1
+GO:0046377,colanic acid metabolic process,22,2,0.12,0.00600,1
+GO:0045226,extracellular polysaccharide biosyntheti...,24,2,0.13,0.00712,1
+GO:0046379,extracellular polysaccharide metabolic p...,24,2,0.13,0.00712,1
+GO:0046950,cellular ketone body metabolic process,2,1,0.01,0.01083,1
+GO:0046952,ketone body catabolic process,2,1,0.01,0.01083,1
+GO:1902224,ketone body metabolic process,2,1,0.01,0.01083,1
+GO:1901569,fatty acid derivative catabolic process,3,1,0.02,0.01621,1
+GO:0046700,heterocycle catabolic process,106,3,0.58,0.01802,1
+GO:0043711,pilus organization,44,2,0.24,0.02291,1
+GO:0019626,short-chain fatty acid catabolic process,5,1,0.03,0.02688,1
+GO:0009103,lipopolysaccharide biosynthetic process,52,2,0.28,0.03131,1
+GO:0008653,lipopolysaccharide metabolic process,53,2,0.29,0.03244,1
+GO:1901361,organic cyclic compound catabolic proces...,137,3,0.74,0.03531,1
+GO:0006145,purine nucleobase catabolic process,7,1,0.04,0.03744,1
+GO:1903509,liposaccharide metabolic process,63,2,0.34,0.04455,1
+GO:1901568,fatty acid derivative metabolic process,9,1,0.05,0.04789,1
+GO:0006629,lipid metabolic process,171,3,0.93,0.06159,1
+GO:0001522,pseudouridine synthesis,12,1,0.07,0.06338,1
+GO:0008283,cell population proliferation,78,2,0.42,0.06535,1
+GO:0030030,cell projection organization,78,2,0.42,0.06535,1
+GO:0000271,polysaccharide biosynthetic process,85,2,0.46,0.07601,1
+GO:0045229,external encapsulating structure organiz...,88,2,0.48,0.08074,1
+GO:0016043,cellular component organization,449,5,2.44,0.08303,1
+GO:1901565,organonitrogen compound catabolic proces...,198,3,1.08,0.08760,1
+GO:0006508,proteolysis,95,2,0.52,0.09213,1
+GO:0009297,pilus assembly,18,1,0.1,0.09363,1
+GO:0044248,cellular catabolic process,330,4,1.79,0.09500,1
+GO:0005976,polysaccharide metabolic process,98,2,0.53,0.09716,1
+GO:0044010,single-species biofilm formation,99,2,0.54,0.09886,1
+GO:0051703,biological process involved in intraspec...,99,2,0.54,0.09886,1
+GO:0055086,nucleobase-containing small molecule met...,211,3,1.15,0.10162,1
+GO:0046459,short-chain fatty acid metabolic process,20,1,0.11,0.10351,1
+GO:0072523,purine-containing compound catabolic pro...,20,1,0.11,0.10351,1
+GO:0016051,carbohydrate biosynthetic process,104,2,0.56,0.10746,1
+GO:0071840,cellular component organization or bioge...,487,5,2.64,0.10976,1
+GO:0042710,biofilm formation,109,2,0.59,0.11626,1
+GO:0072521,purine-containing compound metabolic pro...,109,2,0.59,0.11626,1
+GO:0098630,aggregation of unicellular organisms,109,2,0.59,0.11626,1

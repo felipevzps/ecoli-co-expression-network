@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0034614,cellular response to reactive oxygen spe...,16,2,0.12,0.0065,1
+GO:0006950,response to stress,527,9,4.11,0.0133,1
+GO:0019853,L-ascorbic acid biosynthetic process,2,1,0.02,0.0156,1
+GO:0042843,D-xylose catabolic process,2,1,0.02,0.0156,1
+GO:0050992,dimethylallyl diphosphate biosynthetic p...,2,1,0.02,0.0156,1
+GO:0050993,dimethylallyl diphosphate metabolic proc...,2,1,0.02,0.0156,1
+GO:0071276,cellular response to cadmium ion,2,1,0.02,0.0156,1
+GO:0034599,cellular response to oxidative stress,28,2,0.22,0.0195,1
+GO:1901701,cellular response to oxygen-containing c...,28,2,0.22,0.0195,1
+GO:0033554,cellular response to stress,381,7,2.97,0.0220,1
+GO:0006554,lysine catabolic process,3,1,0.02,0.0232,1
+GO:0006880,intracellular sequestering of iron ion,3,1,0.02,0.0232,1
+GO:0051235,maintenance of location,3,1,0.02,0.0232,1
+GO:0051238,sequestering of metal ion,3,1,0.02,0.0232,1
+GO:0051651,maintenance of location in cell,3,1,0.02,0.0232,1
+GO:0061615,glycolytic process through fructose-6-ph...,3,1,0.02,0.0232,1
+GO:0097577,sequestering of iron ion,3,1,0.02,0.0232,1
+GO:0050896,response to stimulus,909,12,7.1,0.0263,1
+GO:0000302,response to reactive oxygen species,34,2,0.27,0.0281,1
+GO:0006979,response to oxidative stress,88,3,0.69,0.0296,1
+GO:0015920,lipopolysaccharide transport,4,1,0.03,0.0309,1
+GO:0015968,stringent response,4,1,0.03,0.0309,1
+GO:0046686,response to cadmium ion,4,1,0.03,0.0309,1
+GO:0042732,D-xylose metabolic process,5,1,0.04,0.0385,1
+GO:0030261,chromosome condensation,6,1,0.05,0.0460,1
+GO:0006974,DNA damage response,262,5,2.05,0.0476,1
+GO:0042594,response to starvation,46,2,0.36,0.0490,1
+GO:0006879,intracellular iron ion homeostasis,48,2,0.37,0.0529,1
+GO:0030244,cellulose biosynthetic process,7,1,0.05,0.0534,1
+GO:0032297,negative regulation of DNA-templated DNA...,7,1,0.05,0.0534,1
+GO:0062197,cellular response to chemical stress,50,2,0.39,0.0569,1
+GO:0016036,cellular response to phosphate starvatio...,8,1,0.06,0.0608,1
+GO:0019852,L-ascorbic acid metabolic process,8,1,0.06,0.0608,1
+GO:0030243,cellulose metabolic process,8,1,0.06,0.0608,1
+GO:0051596,methylglyoxal catabolic process,8,1,0.06,0.0608,1
+GO:0009438,methylglyoxal metabolic process,9,1,0.07,0.0682,1
+GO:0030174,regulation of DNA-templated DNA replicat...,9,1,0.07,0.0682,1
+GO:0051274,beta-glucan biosynthetic process,9,1,0.07,0.0682,1
+GO:0070301,cellular response to hydrogen peroxide,9,1,0.07,0.0682,1
+GO:1901336,lactone biosynthetic process,9,1,0.07,0.0682,1
+GO:0051273,beta-glucan metabolic process,10,1,0.08,0.0755,1
+GO:2000104,negative regulation of DNA-templated DNA...,10,1,0.08,0.0755,1
+GO:0098771,inorganic ion homeostasis,61,2,0.48,0.0808,1
+GO:0008156,negative regulation of DNA replication,11,1,0.09,0.0827,1
+GO:0042182,ketone catabolic process,11,1,0.09,0.0827,1
+GO:0051053,negative regulation of DNA metabolic pro...,11,1,0.09,0.0827,1
+GO:0090329,regulation of DNA-templated DNA replicat...,12,1,0.09,0.0899,1
+GO:0006873,intracellular monoatomic ion homeostasis,67,2,0.52,0.0949,1
+GO:0030003,intracellular monoatomic cation homeosta...,67,2,0.52,0.0949,1
+GO:0051716,cellular response to stimulus,522,7,4.08,0.0969,1

@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0006743,ubiquinone metabolic process,14,5,0.24,2.1e-06,0.003
+GO:0006744,ubiquinone biosynthetic process,14,5,0.24,2.1e-06,0.003
+GO:1901661,quinone metabolic process,19,5,0.32,1.1e-05,0.0079
+GO:1901663,quinone biosynthetic process,19,5,0.32,1.1e-05,0.0079
+GO:0042181,ketone biosynthetic process,20,5,0.34,1.5e-05,0.0087
+GO:0006785,heme B biosynthetic process,2,2,0.03,0.00028,0.1156
+GO:0046492,heme B metabolic process,2,2,0.03,0.00028,0.1156
+GO:0042180,cellular ketone metabolic process,45,5,0.76,0.00084,0.3033
+GO:0006002,fructose 6-phosphate metabolic process,4,2,0.07,0.00166,0.4382
+GO:0006048,UDP-N-acetylglucosamine biosynthetic pro...,4,2,0.07,0.00166,0.4382
+GO:0009085,lysine biosynthetic process,15,3,0.25,0.00181,0.4382
+GO:1901576,organic substance biosynthetic process,1201,31,20.38,0.00182,0.4382
+GO:0009058,biosynthetic process,1215,31,20.62,0.00227,0.4726
+GO:0044283,small molecule biosynthetic process,286,12,4.85,0.00229,0.4726
+GO:0006047,UDP-N-acetylglucosamine metabolic proces...,5,2,0.08,0.00273,0.504
+GO:0044249,cellular biosynthetic process,1176,30,19.96,0.00301,0.504
+GO:0006270,DNA replication initiation,18,3,0.31,0.00314,0.504
+GO:0006553,lysine metabolic process,18,3,0.31,0.00314,0.504
+GO:0046349,amino sugar biosynthetic process,6,2,0.1,0.00405,0.6158
+GO:0006261,DNA-templated DNA replication,43,4,0.73,0.00557,0.7732
+GO:0032297,negative regulation of DNA-templated DNA...,7,2,0.12,0.00562,0.7732
+GO:0071704,organic substance metabolic process,1921,41,32.6,0.00688,0.9035
+GO:0006782,protoporphyrinogen IX biosynthetic proce...,9,2,0.15,0.00942,1
+GO:0030174,regulation of DNA-templated DNA replicat...,9,2,0.15,0.00942,1
+GO:0006268,DNA unwinding involved in DNA replicatio...,10,2,0.17,0.01165,1
+GO:0046501,protoporphyrinogen IX metabolic process,10,2,0.17,0.01165,1
+GO:2000104,negative regulation of DNA-templated DNA...,10,2,0.17,0.01165,1
+GO:0006807,nitrogen compound metabolic process,1513,34,25.68,0.01216,1
+GO:0008156,negative regulation of DNA replication,11,2,0.19,0.01408,1
+GO:0051053,negative regulation of DNA metabolic pro...,11,2,0.19,0.01408,1
+GO:0071103,DNA conformation change,31,3,0.53,0.01481,1
+GO:0090329,regulation of DNA-templated DNA replicat...,12,2,0.2,0.01672,1
+GO:0005985,sucrose metabolic process,1,1,0.02,0.01697,1
+GO:0005986,sucrose biosynthetic process,1,1,0.02,0.01697,1
+GO:0010566,regulation of ketone biosynthetic proces...,1,1,0.02,0.01697,1
+GO:0010795,regulation of ubiquinone biosynthetic pr...,1,1,0.02,0.01697,1
+GO:0015883,FAD transport,1,1,0.02,0.01697,1
+GO:0032150,ubiquinone biosynthetic process from cho...,1,1,0.02,0.01697,1
+GO:0035350,FAD transmembrane transport,1,1,0.02,0.01697,1
+GO:0046710,GDP metabolic process,1,1,0.02,0.01697,1
+GO:0070929,trans-translation,1,1,0.02,0.01697,1
+GO:0070930,trans-translation-dependent protein tagg...,1,1,0.02,0.01697,1
+GO:1901679,nucleotide transmembrane transport,1,1,0.02,0.01697,1
+GO:0009067,aspartate family amino acid biosynthetic...,34,3,0.58,0.01902,1
+GO:0006275,regulation of DNA replication,13,2,0.22,0.01954,1
+GO:0009089,lysine biosynthetic process via diaminop...,13,2,0.22,0.01954,1
+GO:0046451,diaminopimelate metabolic process,13,2,0.22,0.01954,1
+GO:1901566,organonitrogen compound biosynthetic pro...,519,15,8.81,0.02132,1
+GO:0006260,DNA replication,64,4,1.09,0.02209,1
+GO:0006783,heme biosynthetic process,14,2,0.24,0.02256,1

@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0019594,mannitol metabolic process,5,2,0.03,0.00031,0.8956
+GO:0019400,alditol metabolic process,33,3,0.19,0.00078,1
+GO:0019751,polyol metabolic process,37,3,0.21,0.00110,1
+GO:0006059,hexitol metabolic process,11,2,0.06,0.00167,1
+GO:0032025,response to cobalt ion,1,1,0.01,0.00577,1
+GO:0030420,establishment of competence for transfor...,2,1,0.01,0.01151,1
+GO:0006066,alcohol metabolic process,92,3,0.53,0.01459,1
+GO:0010045,response to nickel cation,3,1,0.02,0.01722,1
+GO:0001907,killing by symbiont of host cells,4,1,0.02,0.02289,1
+GO:0006824,cobalt ion transport,4,1,0.02,0.02289,1
+GO:0001906,cell killing,5,1,0.03,0.02854,1
+GO:0031640,killing of cells of another organism,5,1,0.03,0.02854,1
+GO:0141060,disruption of anatomical structure in an...,5,1,0.03,0.02854,1
+GO:0141061,disruption of cell in another organism,5,1,0.03,0.02854,1
+GO:1901615,organic hydroxy compound metabolic proce...,123,3,0.71,0.03147,1
+GO:0006351,DNA-templated transcription,334,5,1.93,0.03556,1
+GO:0032774,RNA biosynthetic process,342,5,1.97,0.03892,1
+GO:0009292,horizontal gene transfer,7,1,0.04,0.03974,1
+GO:0009294,DNA-mediated transformation,7,1,0.04,0.03974,1
+GO:0015675,nickel cation transport,7,1,0.04,0.03974,1
+GO:0035444,nickel cation transmembrane transport,7,1,0.04,0.03974,1
+GO:0051084,'de novo' post-translational protein fol...,7,1,0.04,0.03974,1
+GO:0051085,chaperone cofactor-dependent protein ref...,7,1,0.04,0.03974,1
+GO:0006458,'de novo' protein folding,8,1,0.05,0.04530,1
+GO:0022611,dormancy process,9,1,0.05,0.05082,1
+GO:0042026,protein refolding,11,1,0.06,0.06178,1
+GO:0051701,biological process involved in interacti...,19,1,0.11,0.10443,1
+GO:0040007,growth,20,1,0.12,0.10963,1
+GO:0040008,regulation of growth,20,1,0.12,0.10963,1
+GO:0044403,biological process involved in symbiotic...,20,1,0.12,0.10963,1
+GO:0044010,single-species biofilm formation,99,2,0.57,0.10967,1
+GO:0051703,biological process involved in intraspec...,99,2,0.57,0.10967,1
+GO:0006355,regulation of DNA-templated transcriptio...,326,4,1.88,0.10994,1
+GO:2001141,regulation of RNA biosynthetic process,326,4,1.88,0.10994,1
+GO:0016070,RNA metabolic process,464,5,2.68,0.11559,1
+GO:0051252,regulation of RNA metabolic process,335,4,1.93,0.11868,1
+GO:0006071,glycerol metabolic process,22,1,0.13,0.11995,1
+GO:0005975,carbohydrate metabolic process,340,4,1.96,0.12368,1
+GO:0010467,gene expression,617,6,3.56,0.12535,1
+GO:0042710,biofilm formation,109,2,0.63,0.12871,1
+GO:0098630,aggregation of unicellular organisms,109,2,0.63,0.12871,1
+GO:0098743,cell aggregation,109,2,0.63,0.12871,1
+GO:0034654,nucleobase-containing compound biosynthe...,484,5,2.79,0.13274,1
+GO:0019219,regulation of nucleobase-containing comp...,350,4,2.02,0.13397,1
+GO:0010447,response to acidic pH,28,1,0.16,0.15023,1
+GO:0043709,cell adhesion involved in single-species...,31,1,0.18,0.16500,1
+GO:0010468,regulation of gene expression,384,4,2.22,0.17166,1
+GO:0010556,regulation of macromolecule biosynthetic...,385,4,2.22,0.17282,1
+GO:0031326,regulation of cellular biosynthetic proc...,389,4,2.24,0.17753,1
+GO:0045892,negative regulation of DNA-templated tra...,134,2,0.77,0.17935,1

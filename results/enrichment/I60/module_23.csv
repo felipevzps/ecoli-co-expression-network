@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0009968,negative regulation of signal transducti...,2,1,0.01,0.0095,1
+GO:0010648,negative regulation of cell communicatio...,2,1,0.01,0.0095,1
+GO:0023057,negative regulation of signaling,2,1,0.01,0.0095,1
+GO:0048585,negative regulation of response to stimu...,2,1,0.01,0.0095,1
+GO:0019645,anaerobic electron transport chain,46,2,0.22,0.0193,1
+GO:0006310,DNA recombination,62,2,0.29,0.0337,1
+GO:0009966,regulation of signal transduction,8,1,0.04,0.0374,1
+GO:0010646,regulation of cell communication,8,1,0.04,0.0374,1
+GO:0023051,regulation of signaling,8,1,0.04,0.0374,1
+GO:0009061,anaerobic respiration,67,2,0.32,0.0389,1
+GO:0015774,polysaccharide transport,9,1,0.04,0.0420,1
+GO:0033037,polysaccharide localization,9,1,0.04,0.0420,1
+GO:0022904,respiratory electron transport chain,77,2,0.37,0.0501,1
+GO:0090304,nucleic acid metabolic process,625,6,2.97,0.0563,1
+GO:2000143,negative regulation of DNA-templated tra...,13,1,0.06,0.0602,1
+GO:0006259,DNA metabolic process,200,3,0.95,0.0644,1
+GO:0006885,regulation of pH,14,1,0.07,0.0647,1
+GO:0048523,negative regulation of cellular process,212,3,1.01,0.0741,1
+GO:0048519,negative regulation of biological proces...,214,3,1.02,0.0758,1
+GO:0006635,fatty acid beta-oxidation,19,1,0.09,0.0868,1
+GO:0019395,fatty acid oxidation,20,1,0.1,0.0912,1
+GO:0034440,lipid oxidation,20,1,0.1,0.0912,1
+GO:0022900,electron transport chain,115,2,0.55,0.1013,1
+GO:0048583,regulation of response to stimulus,23,1,0.11,0.1041,1
+GO:0030258,lipid modification,24,1,0.11,0.1084,1
+GO:0032392,DNA geometric change,24,1,0.11,0.1084,1
+GO:0032508,DNA duplex unwinding,24,1,0.11,0.1084,1
+GO:0045333,cellular respiration,120,2,0.57,0.1089,1
+GO:0009062,fatty acid catabolic process,27,1,0.13,0.1212,1
+GO:0045892,negative regulation of DNA-templated tra...,134,2,0.64,0.1309,1
+GO:1902679,negative regulation of RNA biosynthetic ...,134,2,0.64,0.1309,1
+GO:0044242,cellular lipid catabolic process,30,1,0.14,0.1338,1
+GO:0051253,negative regulation of RNA metabolic pro...,138,2,0.66,0.1373,1
+GO:0043709,cell adhesion involved in single-species...,31,1,0.15,0.1379,1
+GO:0071103,DNA conformation change,31,1,0.15,0.1379,1
+GO:0015980,energy derivation by oxidation of organi...,140,2,0.67,0.1406,1
+GO:0045934,negative regulation of nucleobase-contai...,148,2,0.7,0.1539,1
+GO:0016042,lipid catabolic process,35,1,0.17,0.1544,1
+GO:0043708,cell adhesion involved in biofilm format...,36,1,0.17,0.1585,1
+GO:0031589,cell-substrate adhesion,38,1,0.18,0.1665,1
+GO:2000142,regulation of DNA-templated transcriptio...,38,1,0.18,0.1665,1
+GO:0006139,nucleobase-containing compound metabolic...,825,6,3.92,0.1714,1
+GO:0006352,DNA-templated transcription initiation,40,1,0.19,0.1745,1
+GO:0051172,negative regulation of nitrogen compound...,167,2,0.79,0.1864,1
+GO:0043711,pilus organization,44,1,0.21,0.1903,1
+GO:0006355,regulation of DNA-templated transcriptio...,326,3,1.55,0.1959,1
+GO:2001141,regulation of RNA biosynthetic process,326,3,1.55,0.1959,1
+GO:0090609,single-species submerged biofilm formati...,46,1,0.22,0.1981,1
+GO:0010558,negative regulation of macromolecule bio...,174,2,0.83,0.1986,1
+GO:0009890,negative regulation of biosynthetic proc...,175,2,0.83,0.2004,1

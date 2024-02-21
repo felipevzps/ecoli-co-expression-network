@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0019538,protein metabolic process,355,104,35.79,1.5e-28,0
+GO:1901566,organonitrogen compound biosynthetic pro...,519,127,52.32,3.3e-27,0
+GO:0010467,gene expression,617,140,62.2,7.0e-27,0
+GO:0043170,macromolecule metabolic process,1081,193,108.98,1.5e-25,0
+GO:0034641,cellular nitrogen compound metabolic pro...,1044,187,105.25,2.0e-24,0
+GO:0070925,organelle assembly,73,42,7.36,2.1e-24,0
+GO:0140694,non-membrane-bounded organelle assembly,73,42,7.36,2.1e-24,0
+GO:0044271,cellular nitrogen compound biosynthetic ...,710,145,71.58,8.4e-23,0
+GO:0006996,organelle organization,135,54,13.61,2.6e-21,0
+GO:0071840,cellular component organization or bioge...,487,111,49.1,2.4e-20,0
+GO:0044085,cellular component biogenesis,316,85,31.86,4.9e-20,0
+GO:0043933,protein-containing complex organization,178,60,17.95,3.1e-19,0
+GO:0044238,primary metabolic process,1661,235,167.45,4.7e-18,0
+GO:0000028,ribosomal small subunit assembly,18,17,1.81,1.2e-16,0
+GO:0000027,ribosomal large subunit assembly,23,19,2.32,4.2e-16,0
+GO:0042273,ribosomal large subunit biogenesis,23,19,2.32,4.2e-16,0
+GO:0042274,ribosomal small subunit biogenesis,23,19,2.32,4.2e-16,0
+GO:0006807,nitrogen compound metabolic process,1513,217,152.53,7.5e-16,0
+GO:0065003,protein-containing complex assembly,147,49,14.82,1.7e-15,0
+GO:0016043,cellular component organization,449,94,45.27,3.1e-14,0
+GO:1901564,organonitrogen compound metabolic proces...,903,149,91.04,9.1e-14,0
+GO:0034660,ncRNA metabolic process,100,36,10.08,9.9e-13,0
+GO:0071704,organic substance metabolic process,1921,246,193.66,1.2e-12,0
+GO:0022607,cellular component assembly,238,60,23.99,1.3e-12,0
+GO:0044237,cellular metabolic process,1909,240,192.46,1.6e-10,0
+GO:0006399,tRNA metabolic process,75,27,7.56,8.4e-10,0
+GO:0061024,membrane organization,26,15,2.62,2.2e-09,0
+GO:0010608,post-transcriptional regulation of gene ...,50,21,5.04,2.7e-09,0
+GO:0006417,regulation of translation,46,20,4.64,3.1e-09,0
+GO:0006396,RNA processing,79,27,7.96,3.2e-09,0
+GO:0034248,regulation of amide metabolic process,47,20,4.74,5.0e-09,0
+GO:0008610,lipid biosynthetic process,118,33,11.9,1.7e-08,0
+GO:0022411,cellular component disassembly,37,17,3.73,1.8e-08,0
+GO:0017148,negative regulation of translation,22,13,2.22,1.9e-08,0
+GO:0051205,protein insertion into membrane,13,10,1.31,2.0e-08,0
+GO:0034470,ncRNA processing,71,24,7.16,3.2e-08,0
+GO:0034249,negative regulation of amide metabolic p...,23,13,2.32,3.9e-08,0
+GO:1901137,carbohydrate derivative biosynthetic pro...,219,48,22.08,5.2e-08,0
+GO:0051246,regulation of protein metabolic process,59,21,5.95,8.8e-08,0
+GO:0006139,nucleobase-containing compound metabolic...,825,123,83.17,1.1e-07,0
+GO:0051248,negative regulation of protein metabolic...,25,13,2.52,1.5e-07,0
+GO:0090150,establishment of protein localization to...,18,11,1.81,1.5e-07,0
+GO:0006364,rRNA processing,29,14,2.92,1.6e-07,0
+GO:0032984,protein-containing complex disassembly,34,15,3.43,2.5e-07,0
+GO:0008152,metabolic process,2116,249,213.32,2.7e-07,0
+GO:0016072,rRNA metabolic process,30,14,3.02,2.7e-07,0
+GO:0006418,tRNA aminoacylation for protein translat...,23,12,2.32,4.3e-07,0
+GO:0043039,tRNA aminoacylation,23,12,2.32,4.3e-07,0
+GO:0010629,negative regulation of gene expression,45,17,4.54,5.9e-07,0
+GO:0032978,protein insertion into membrane from inn...,8,7,0.81,7.3e-07,0

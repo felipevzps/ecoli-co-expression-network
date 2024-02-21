@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0006113,fermentation,19,6,0.1,2.3e-10,0
+GO:0022607,cellular component assembly,238,10,1.29,5.1e-08,1e-04
+GO:0044085,cellular component biogenesis,316,10,1.72,7.8e-07,8e-04
+GO:0006091,generation of precursor metabolites and ...,202,8,1.1,3.4e-06,0.0022
+GO:0015980,energy derivation by oxidation of organi...,140,7,0.76,3.8e-06,0.0022
+GO:0044780,bacterial-type flagellum assembly,27,4,0.15,9.5e-06,0.0046
+GO:0009061,anaerobic respiration,67,5,0.36,1.9e-05,0.0076
+GO:0016043,cellular component organization,449,10,2.44,2.1e-05,0.0076
+GO:0044781,bacterial-type flagellum organization,34,4,0.18,2.4e-05,0.0077
+GO:0110147,protein maturation by nickel ion transfe...,2,2,0.01,2.8e-05,0.0081
+GO:0071840,cellular component organization or bioge...,487,10,2.64,4.3e-05,0.0113
+GO:0051604,protein maturation,83,5,0.45,5.4e-05,0.013
+GO:0030031,cell projection assembly,44,4,0.24,6.9e-05,0.0153
+GO:0065003,protein-containing complex assembly,147,6,0.8,7.4e-05,0.0153
+GO:0019645,anaerobic electron transport chain,46,4,0.25,8.3e-05,0.016
+GO:0015741,fumarate transport,4,2,0.02,0.00016,0.0272
+GO:0071422,succinate transmembrane transport,4,2,0.02,0.00016,0.0272
+GO:0043933,protein-containing complex organization,178,6,0.97,0.00022,0.0353
+GO:0022900,electron transport chain,115,5,0.62,0.00026,0.0395
+GO:0045333,cellular respiration,120,5,0.65,0.00031,0.0448
+GO:0015744,succinate transport,6,2,0.03,0.00041,0.0564
+GO:0070925,organelle assembly,73,4,0.4,0.00050,0.0628
+GO:0140694,non-membrane-bounded organelle assembly,73,4,0.4,0.00050,0.0628
+GO:0022904,respiratory electron transport chain,77,4,0.42,0.00062,0.0722
+GO:0008283,cell population proliferation,78,4,0.42,0.00065,0.0722
+GO:0030030,cell projection organization,78,4,0.42,0.00065,0.0722
+GO:0015740,C4-dicarboxylate transport,12,2,0.07,0.00177,0.1894
+GO:0006835,dicarboxylic acid transport,15,2,0.08,0.00279,0.2879
+GO:0008152,metabolic process,2116,16,11.49,0.00494,0.4805
+GO:0006996,organelle organization,135,4,0.73,0.00499,0.4805
+GO:0019538,protein metabolic process,355,6,1.93,0.00817,0.7614
+GO:0044237,cellular metabolic process,1909,15,10.37,0.00923,0.8333
+GO:0006106,fumarate metabolic process,2,1,0.01,0.01083,0.8939
+GO:0006116,NADH oxidation,2,1,0.01,0.01083,0.8939
+GO:0006530,asparagine catabolic process,2,1,0.01,0.01083,0.8939
+GO:0006528,asparagine metabolic process,4,1,0.02,0.02156,1
+GO:0019664,mixed acid fermentation,5,1,0.03,0.02688,1
+GO:0140009,L-aspartate import across plasma membran...,5,1,0.03,0.02688,1
+GO:0015810,aspartate transmembrane transport,6,1,0.03,0.03217,1
+GO:0019660,glycolytic fermentation,6,1,0.03,0.03217,1
+GO:0070778,L-aspartate transmembrane transport,6,1,0.03,0.03217,1
+GO:0009065,glutamine family amino acid catabolic pr...,17,1,0.09,0.08865,1
+GO:0009068,aspartate family amino acid catabolic pr...,17,1,0.09,0.08865,1
+GO:1903825,organic acid transmembrane transport,93,2,0.51,0.08883,1
+GO:1905039,carboxylic acid transmembrane transport,93,2,0.51,0.08883,1
+GO:0042126,nitrate metabolic process,26,1,0.14,0.13255,1
+GO:0042128,nitrate assimilation,26,1,0.14,0.13255,1
+GO:0006099,tricarboxylic acid cycle,29,1,0.16,0.14674,1
+GO:0089718,amino acid import across plasma membrane,29,1,0.16,0.14674,1
+GO:0071941,nitrogen cycle metabolic process,30,1,0.16,0.15142,1

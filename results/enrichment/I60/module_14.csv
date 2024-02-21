@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0006355,regulation of DNA-templated transcriptio...,326,6,1.44,0.0015,0.8346
+GO:2001141,regulation of RNA biosynthetic process,326,6,1.44,0.0015,0.8346
+GO:0006351,DNA-templated transcription,334,6,1.47,0.0017,0.8346
+GO:0051252,regulation of RNA metabolic process,335,6,1.48,0.0018,0.8346
+GO:0032774,RNA biosynthetic process,342,6,1.51,0.0020,0.8346
+GO:0015628,protein secretion by the type II secreti...,16,2,0.07,0.0021,0.8346
+GO:0019219,regulation of nucleobase-containing comp...,350,6,1.54,0.0022,0.8346
+GO:0098776,protein transport across the cell outer ...,19,2,0.08,0.0029,0.8346
+GO:0010468,regulation of gene expression,384,6,1.69,0.0036,0.8346
+GO:0010556,regulation of macromolecule biosynthetic...,385,6,1.7,0.0037,0.8346
+GO:0031326,regulation of cellular biosynthetic proc...,389,6,1.72,0.0039,0.8346
+GO:0009889,regulation of biosynthetic process,391,6,1.73,0.0040,0.8346
+GO:0051171,regulation of nitrogen compound metaboli...,395,6,1.74,0.0042,0.8346
+GO:0080090,regulation of primary metabolic process,400,6,1.77,0.0045,0.8346
+GO:0045893,positive regulation of DNA-templated tra...,83,3,0.37,0.0050,0.8346
+GO:1902680,positive regulation of RNA biosynthetic ...,83,3,0.37,0.0050,0.8346
+GO:0031323,regulation of cellular metabolic process,412,6,1.82,0.0052,0.8346
+GO:0060255,regulation of macromolecule metabolic pr...,413,6,1.82,0.0053,0.8346
+GO:0051254,positive regulation of RNA metabolic pro...,86,3,0.38,0.0056,0.8346
+GO:0019222,regulation of metabolic process,424,6,1.87,0.0060,0.8346
+GO:0045935,positive regulation of nucleobase-contai...,90,3,0.4,0.0063,0.8346
+GO:0046483,heterocycle metabolic process,945,9,4.17,0.0065,0.8346
+GO:0018130,heterocycle biosynthetic process,586,7,2.59,0.0067,0.8346
+GO:1901362,organic cyclic compound biosynthetic pro...,601,7,2.65,0.0077,0.8346
+GO:0009306,protein secretion,31,2,0.14,0.0078,0.8346
+GO:0035592,establishment of protein localization to...,31,2,0.14,0.0078,0.8346
+GO:0071692,protein localization to extracellular re...,31,2,0.14,0.0078,0.8346
+GO:0032940,secretion by cell,33,2,0.15,0.0088,0.8486
+GO:0046903,secretion,33,2,0.15,0.0088,0.8486
+GO:1901360,organic cyclic compound metabolic proces...,992,9,4.38,0.0094,0.8486
+GO:0016070,RNA metabolic process,464,6,2.05,0.0094,0.8486
+GO:0051173,positive regulation of nitrogen compound...,104,3,0.46,0.0094,0.8486
+GO:0090304,nucleic acid metabolic process,625,7,2.76,0.0097,0.8492
+GO:0034654,nucleobase-containing compound biosynthe...,484,6,2.14,0.0116,0.9217
+GO:0006139,nucleobase-containing compound metabolic...,825,8,3.64,0.0116,0.9217
+GO:0010557,positive regulation of macromolecule bio...,113,3,0.5,0.0119,0.9217
+GO:0031328,positive regulation of cellular biosynth...,113,3,0.5,0.0119,0.9217
+GO:0009891,positive regulation of biosynthetic proc...,115,3,0.51,0.0124,0.9217
+GO:0036447,cellular response to sugar-phosphate str...,3,1,0.01,0.0132,0.9217
+GO:0036448,cellular response to glucose-phosphate s...,3,1,0.01,0.0132,0.9217
+GO:0055129,L-proline biosynthetic process,3,1,0.01,0.0132,0.9217
+GO:0071806,protein transmembrane transport,41,2,0.18,0.0134,0.9217
+GO:0031325,positive regulation of cellular metaboli...,121,3,0.53,0.0143,0.9608
+GO:0050794,regulation of cellular process,510,6,2.25,0.0150,0.9849
+GO:0010604,positive regulation of macromolecule met...,125,3,0.55,0.0156,1
+GO:0009893,positive regulation of metabolic process,129,3,0.57,0.0170,1
+GO:0006560,proline metabolic process,4,1,0.02,0.0175,1
+GO:0006561,proline biosynthetic process,4,1,0.02,0.0175,1
+GO:0048522,positive regulation of cellular process,137,3,0.6,0.0200,1
+GO:0015767,lactose transport,5,1,0.02,0.0219,1

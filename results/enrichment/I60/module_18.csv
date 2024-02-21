@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0016926,protein desumoylation,1,1,0,0.0037,1
+GO:0070646,protein modification by small protein re...,1,1,0,0.0037,1
+GO:0070647,protein modification by small protein co...,1,1,0,0.0037,1
+GO:0044010,single-species biofilm formation,99,3,0.37,0.0050,1
+GO:0051703,biological process involved in intraspec...,99,3,0.37,0.0050,1
+GO:0043709,cell adhesion involved in single-species...,31,2,0.12,0.0056,1
+GO:0042710,biofilm formation,109,3,0.41,0.0065,1
+GO:0098630,aggregation of unicellular organisms,109,3,0.41,0.0065,1
+GO:0098743,cell aggregation,109,3,0.41,0.0065,1
+GO:0043708,cell adhesion involved in biofilm format...,36,2,0.13,0.0075,1
+GO:0031589,cell-substrate adhesion,38,2,0.14,0.0083,1
+GO:0043711,pilus organization,44,2,0.16,0.0110,1
+GO:0090609,single-species submerged biofilm formati...,46,2,0.17,0.0120,1
+GO:0007155,cell adhesion,47,2,0.18,0.0125,1
+GO:0090605,submerged biofilm formation,57,2,0.21,0.0181,1
+GO:0042780,tRNA 3'-end processing,5,1,0.02,0.0185,1
+GO:0031123,RNA 3'-end processing,6,1,0.02,0.0222,1
+GO:0043687,post-translational protein modification,6,1,0.02,0.0222,1
+GO:0018205,peptidyl-lysine modification,7,1,0.03,0.0259,1
+GO:0018193,peptidyl-amino acid modification,8,1,0.03,0.0295,1
+GO:0008283,cell population proliferation,78,2,0.29,0.0326,1
+GO:0030030,cell projection organization,78,2,0.29,0.0326,1
+GO:0018962,3-phenylpropionate metabolic process,11,1,0.04,0.0404,1
+GO:0019380,3-phenylpropionate catabolic process,11,1,0.04,0.0404,1
+GO:0015721,bile acid and bile salt transport,12,1,0.04,0.0440,1
+GO:0140317,export across cell outer membrane,13,1,0.05,0.0476,1
+GO:0140330,xenobiotic detoxification by transmembra...,13,1,0.05,0.0476,1
+GO:0009297,pilus assembly,18,1,0.07,0.0653,1
+GO:0009242,colanic acid biosynthetic process,19,1,0.07,0.0688,1
+GO:1990961,xenobiotic detoxification by transmembra...,21,1,0.08,0.0758,1
+GO:0046377,colanic acid metabolic process,22,1,0.08,0.0793,1
+GO:0046618,xenobiotic export from cell,23,1,0.09,0.0827,1
+GO:0006869,lipid transport,25,1,0.09,0.0896,1
+GO:0010876,lipid localization,25,1,0.09,0.0896,1
+GO:0042178,xenobiotic catabolic process,26,1,0.1,0.0931,1
+GO:0006805,xenobiotic metabolic process,29,1,0.11,0.1033,1
+GO:0071466,cellular response to xenobiotic stimulus,29,1,0.11,0.1033,1
+GO:0140115,export across plasma membrane,29,1,0.11,0.1033,1
+GO:0042537,benzene-containing compound metabolic pr...,32,1,0.12,0.1134,1
+GO:0015718,monocarboxylic acid transport,37,1,0.14,0.1300,1
+GO:0042908,xenobiotic transport,37,1,0.14,0.1300,1
+GO:0015850,organic hydroxy compound transport,39,1,0.15,0.1366,1
+GO:0036211,protein modification process,40,1,0.15,0.1398,1
+GO:0030031,cell projection assembly,44,1,0.16,0.1528,1
+GO:0009410,response to xenobiotic stimulus,48,1,0.18,0.1656,1
+GO:0008033,tRNA processing,50,1,0.19,0.1719,1
+GO:0140352,export from cell,64,1,0.24,0.2150,1
+GO:0098754,detoxification,65,1,0.24,0.2180,1
+GO:0009061,anaerobic respiration,67,1,0.25,0.2239,1
+GO:0034470,ncRNA processing,71,1,0.27,0.2357,1

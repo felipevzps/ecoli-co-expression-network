@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0015848,spermidine transport,6,2,0.03,0.00041,0.4117
+GO:1903711,spermidine transmembrane transport,6,2,0.03,0.00041,0.4117
+GO:0006399,tRNA metabolic process,75,4,0.41,0.00056,0.4117
+GO:1902047,polyamine transmembrane transport,7,2,0.04,0.00057,0.4117
+GO:0034660,ncRNA metabolic process,100,4,0.54,0.00166,0.9591
+GO:0015847,putrescine transport,14,2,0.08,0.00242,1
+GO:0015846,polyamine transport,17,2,0.09,0.00359,1
+GO:0006423,cysteinyl-tRNA aminoacylation,1,1,0.01,0.00543,1
+GO:0035600,tRNA methylthiolation,1,1,0.01,0.00543,1
+GO:0036198,dTMP salvage,1,1,0.01,0.00543,1
+GO:0006418,tRNA aminoacylation for protein translat...,23,2,0.12,0.00655,1
+GO:0043039,tRNA aminoacylation,23,2,0.12,0.00655,1
+GO:0043038,amino acid activation,24,2,0.13,0.00712,1
+GO:0002937,tRNA 4-thiouridine biosynthesis,2,1,0.01,0.01083,1
+GO:0006231,dTMP biosynthetic process,2,1,0.01,0.01083,1
+GO:0006420,arginyl-tRNA aminoacylation,2,1,0.01,0.01083,1
+GO:0009581,detection of external stimulus,2,1,0.01,0.01083,1
+GO:0009582,detection of abiotic stimulus,2,1,0.01,0.01083,1
+GO:0009583,detection of light stimulus,2,1,0.01,0.01083,1
+GO:0009589,detection of UV,2,1,0.01,0.01083,1
+GO:0010139,pyrimidine deoxyribonucleotide salvage,2,1,0.01,0.01083,1
+GO:0034204,lipid translocation,2,1,0.01,0.01083,1
+GO:0044208,'de novo' AMP biosynthetic process,2,1,0.01,0.01083,1
+GO:0046073,dTMP metabolic process,2,1,0.01,0.01083,1
+GO:0046104,thymidine metabolic process,2,1,0.01,0.01083,1
+GO:0089705,protein localization to outer membrane,2,1,0.01,0.01083,1
+GO:0097035,regulation of membrane lipid distributio...,2,1,0.01,0.01083,1
+GO:0015695,organic cation transport,30,2,0.16,0.01101,1
+GO:0006139,nucleobase-containing compound metabolic...,825,9,4.48,0.01604,1
+GO:0046125,pyrimidine deoxyribonucleoside metabolic...,3,1,0.02,0.01621,1
+GO:0052837,thiazole biosynthetic process,3,1,0.02,0.01621,1
+GO:0052838,thiazole metabolic process,3,1,0.02,0.01621,1
+GO:1900725,osmoregulated periplasmic glucan metabol...,3,1,0.02,0.01621,1
+GO:1900727,osmoregulated periplasmic glucan biosynt...,3,1,0.02,0.01621,1
+GO:1990778,protein localization to cell periphery,3,1,0.02,0.01621,1
+GO:0006400,tRNA modification,37,2,0.2,0.01649,1
+GO:0009124,nucleoside monophosphate biosynthetic pr...,41,2,0.22,0.02005,1
+GO:0072528,pyrimidine-containing compound biosynthe...,41,2,0.22,0.02005,1
+GO:0006011,UDP-glucose metabolic process,4,1,0.02,0.02156,1
+GO:0009120,deoxyribonucleoside metabolic process,4,1,0.02,0.02156,1
+GO:0015920,lipopolysaccharide transport,4,1,0.02,0.02156,1
+GO:0018131,oxazole or thiazole biosynthetic process,4,1,0.02,0.02156,1
+GO:0034227,tRNA thio-modification,4,1,0.02,0.02156,1
+GO:0046484,oxazole or thiazole metabolic process,4,1,0.02,0.02156,1
+GO:0034641,cellular nitrogen compound metabolic pro...,1044,10,5.67,0.02470,1
+GO:0006167,AMP biosynthetic process,5,1,0.03,0.02688,1
+GO:0009157,deoxyribonucleoside monophosphate biosyn...,5,1,0.03,0.02688,1
+GO:0009162,deoxyribonucleoside monophosphate metabo...,5,1,0.03,0.02688,1
+GO:0009176,pyrimidine deoxyribonucleoside monophosp...,5,1,0.03,0.02688,1
+GO:0009177,pyrimidine deoxyribonucleoside monophosp...,5,1,0.03,0.02688,1

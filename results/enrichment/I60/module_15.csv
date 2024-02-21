@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0071702,organic substance transport,446,12,2.57,3.8e-07,0.0011
+GO:0006810,transport,674,13,3.89,4.0e-06,0.0035
+GO:0051234,establishment of localization,681,13,3.93,4.5e-06,0.0035
+GO:0051179,localization,685,13,3.95,4.9e-06,0.0035
+GO:0008643,carbohydrate transport,123,6,0.71,4.0e-05,0.0231
+GO:0055085,transmembrane transport,594,11,3.43,7.7e-05,0.0371
+GO:0034219,carbohydrate transmembrane transport,107,5,0.62,0.00025,0.1032
+GO:0009306,protein secretion,31,3,0.18,0.00065,0.1878
+GO:0035592,establishment of protein localization to...,31,3,0.18,0.00065,0.1878
+GO:0071692,protein localization to extracellular re...,31,3,0.18,0.00065,0.1878
+GO:0032940,secretion by cell,33,3,0.19,0.00078,0.1878
+GO:0046903,secretion,33,3,0.19,0.00078,0.1878
+GO:0015628,protein secretion by the type II secreti...,16,2,0.09,0.00359,0.7978
+GO:0098776,protein transport across the cell outer ...,19,2,0.11,0.00506,0.966
+GO:0033036,macromolecule localization,128,4,0.74,0.00521,0.966
+GO:0140352,export from cell,64,3,0.37,0.00535,0.966
+GO:0006814,sodium ion transport,24,2,0.14,0.00803,1
+GO:0015031,protein transport,84,3,0.48,0.01139,1
+GO:0006266,DNA ligation,2,1,0.01,0.01151,1
+GO:0042875,D-galactonate transmembrane transport,2,1,0.01,0.01151,1
+GO:0051103,DNA ligation involved in DNA repair,2,1,0.01,0.01151,1
+GO:0045184,establishment of protein localization,90,3,0.52,0.01375,1
+GO:0008104,protein localization,94,3,0.54,0.01546,1
+GO:0070727,cellular macromolecule localization,94,3,0.54,0.01546,1
+GO:0015712,hexose phosphate transport,3,1,0.02,0.01722,1
+GO:0015760,glucose-6-phosphate transport,3,1,0.02,0.01722,1
+GO:0019583,galactonate metabolic process,3,1,0.02,0.01722,1
+GO:0019584,galactonate catabolic process,3,1,0.02,0.01722,1
+GO:0019588,anaerobic glycerol catabolic process,3,1,0.02,0.01722,1
+GO:0019662,non-glycolytic fermentation,3,1,0.02,0.01722,1
+GO:0034192,D-galactonate metabolic process,3,1,0.02,0.01722,1
+GO:0034194,D-galactonate catabolic process,3,1,0.02,0.01722,1
+GO:0071806,protein transmembrane transport,41,2,0.24,0.02252,1
+GO:0015753,D-xylose transmembrane transport,4,1,0.02,0.02289,1
+GO:0006811,monoatomic ion transport,203,4,1.17,0.02558,1
+GO:0042732,D-xylose metabolic process,5,1,0.03,0.02854,1
+GO:0046685,response to arsenic-containing substance,5,1,0.03,0.02854,1
+GO:0015749,monosaccharide transmembrane transport,48,2,0.28,0.03026,1
+GO:0051641,cellular localization,128,3,0.74,0.03487,1
+GO:0046942,carboxylic acid transport,138,3,0.8,0.04223,1
+GO:0015849,organic acid transport,139,3,0.8,0.04301,1
+GO:0006012,galactose metabolic process,9,1,0.05,0.05082,1
+GO:0015774,polysaccharide transport,9,1,0.05,0.05082,1
+GO:0033037,polysaccharide localization,9,1,0.05,0.05082,1
+GO:0015748,organophosphate ester transport,10,1,0.06,0.05631,1
+GO:0042873,aldonate transmembrane transport,10,1,0.06,0.05631,1
+GO:1904659,glucose transmembrane transport,10,1,0.06,0.05631,1
+GO:0015711,organic anion transport,155,3,0.89,0.05644,1
+GO:0035435,phosphate ion transmembrane transport,11,1,0.06,0.06178,1
+GO:0071705,nitrogen compound transport,268,4,1.55,0.06180,1

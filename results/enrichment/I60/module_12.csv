@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0006633,fatty acid biosynthetic process,25,5,0.23,2.1e-06,0.0061
+GO:0008610,lipid biosynthetic process,118,8,1.08,6.1e-06,0.0088
+GO:0044281,small molecule metabolic process,841,18,7.71,4.1e-05,0.0303
+GO:0072330,monocarboxylic acid biosynthetic process,45,5,0.41,4.2e-05,0.0303
+GO:0044249,cellular biosynthetic process,1176,21,10.78,6.6e-05,0.0305
+GO:0009106,lipoate metabolic process,2,2,0.02,8.1e-05,0.0305
+GO:0009107,lipoate biosynthetic process,2,2,0.02,8.1e-05,0.0305
+GO:0006629,lipid metabolic process,171,8,1.57,9.4e-05,0.0305
+GO:1901576,organic substance biosynthetic process,1201,21,11.01,9.5e-05,0.0305
+GO:0009058,biosynthetic process,1215,21,11.14,0.00012,0.0315
+GO:0044283,small molecule biosynthetic process,286,10,2.62,0.00012,0.0315
+GO:0071704,organic substance metabolic process,1921,26,17.61,0.00014,0.0337
+GO:0016053,organic acid biosynthetic process,195,8,1.79,0.00024,0.0495
+GO:0046394,carboxylic acid biosynthetic process,195,8,1.79,0.00024,0.0495
+GO:0006631,fatty acid metabolic process,66,5,0.6,0.00027,0.052
+GO:0019752,carboxylic acid metabolic process,483,12,4.43,0.00054,0.0975
+GO:0044255,cellular lipid metabolic process,122,6,1.12,0.00065,0.1105
+GO:0043436,oxoacid metabolic process,512,12,4.69,0.00093,0.1493
+GO:0006082,organic acid metabolic process,525,12,4.81,0.00117,0.1779
+GO:0008152,metabolic process,2116,26,19.39,0.00147,0.2123
+GO:0042364,water-soluble vitamin biosynthetic proce...,63,4,0.58,0.00230,0.3164
+GO:0009110,vitamin biosynthetic process,64,4,0.59,0.00244,0.3204
+GO:0032787,monocarboxylic acid metabolic process,221,7,2.03,0.00294,0.3693
+GO:0006767,water-soluble vitamin metabolic process,75,4,0.69,0.00436,0.5178
+GO:0006766,vitamin metabolic process,76,4,0.7,0.00458,0.5178
+GO:0044237,cellular metabolic process,1909,24,17.5,0.00466,0.5178
+GO:0006422,aspartyl-tRNA aminoacylation,1,1,0.01,0.00916,0.8821
+GO:0008215,spermine metabolic process,1,1,0.01,0.00916,0.8821
+GO:0046203,spermidine catabolic process,1,1,0.01,0.00916,0.8821
+GO:0046208,spermine catabolic process,1,1,0.01,0.00916,0.8821
+GO:0046483,heterocycle metabolic process,945,15,8.66,0.00955,0.89
+GO:1901566,organonitrogen compound biosynthetic pro...,519,10,4.76,0.01272,1
+GO:1901360,organic cyclic compound metabolic proces...,992,15,9.09,0.01546,1
+GO:0006418,tRNA aminoacylation for protein translat...,23,2,0.21,0.01818,1
+GO:0043039,tRNA aminoacylation,23,2,0.21,0.01818,1
+GO:0002143,tRNA wobble position uridine thiolation,2,1,0.02,0.01825,1
+GO:0006424,glutamyl-tRNA aminoacylation,2,1,0.02,0.01825,1
+GO:0008285,negative regulation of cell population p...,2,1,0.02,0.01825,1
+GO:0031345,negative regulation of cell projection o...,2,1,0.02,0.01825,1
+GO:0036001,'de novo' pyridoxal 5'-phosphate biosynt...,2,1,0.02,0.01825,1
+GO:1902116,negative regulation of organelle assembl...,2,1,0.02,0.01825,1
+GO:1902209,negative regulation of bacterial-type fl...,2,1,0.02,0.01825,1
+GO:0043038,amino acid activation,24,2,0.22,0.01972,1
+GO:0044272,sulfur compound biosynthetic process,64,3,0.59,0.01973,1
+GO:0043604,amide biosynthetic process,180,5,1.65,0.02165,1
+GO:0010212,response to ionizing radiation,26,2,0.24,0.02296,1
+GO:0006015,5-phosphoribose 1-diphosphate biosynthet...,3,1,0.03,0.02725,1
+GO:0009249,protein lipoylation,3,1,0.03,0.02725,1
+GO:0010639,negative regulation of organelle organiz...,3,1,0.03,0.02725,1
+GO:0030497,fatty acid elongation,3,1,0.03,0.02725,1
