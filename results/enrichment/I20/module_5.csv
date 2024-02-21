@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:1901566,organonitrogen compound biosynthetic pro...,519,64,16.56,3.8e-28,0
+GO:0019752,carboxylic acid metabolic process,483,58,15.41,6.1e-24,0
+GO:0043436,oxoacid metabolic process,512,58,16.34,1.5e-22,0
+GO:0006082,organic acid metabolic process,525,58,16.75,5.7e-22,0
+GO:0044281,small molecule metabolic process,841,69,26.83,6.3e-20,0
+GO:1901564,organonitrogen compound metabolic proces...,903,67,28.81,2.0e-16,0
+GO:0009073,aromatic amino acid family biosynthetic ...,25,13,0.8,5.8e-14,0
+GO:0043648,dicarboxylic acid metabolic process,81,20,2.58,1.5e-13,0
+GO:0009067,aspartate family amino acid biosynthetic...,34,14,1.08,3.5e-13,0
+GO:0009084,glutamine family amino acid biosynthetic...,25,12,0.8,2.0e-12,0
+GO:0009072,aromatic amino acid metabolic process,32,13,1.02,3.2e-12,0
+GO:0009066,aspartate family amino acid metabolic pr...,56,16,1.79,4.7e-12,0
+GO:0000105,histidine biosynthetic process,10,8,0.32,3.4e-11,0
+GO:0006547,histidine metabolic process,10,8,0.32,3.4e-11,0
+GO:0009229,thiamine diphosphate biosynthetic proces...,11,8,0.35,1.2e-10,0
+GO:0042357,thiamine diphosphate metabolic process,11,8,0.35,1.2e-10,0
+GO:0006526,arginine biosynthetic process,16,9,0.51,2.2e-10,0
+GO:0015823,phenylalanine transport,6,6,0.19,9.0e-10,0
+GO:1901576,organic substance biosynthetic process,1201,67,38.32,1.2e-09,0
+GO:0044249,cellular biosynthetic process,1176,66,37.52,1.5e-09,0
+GO:0009058,biosynthetic process,1215,67,38.77,2.1e-09,0
+GO:0043650,dicarboxylic acid biosynthetic process,34,11,1.08,3.0e-09,0
+GO:0009228,thiamine biosynthetic process,15,8,0.48,4.3e-09,0
+GO:0009064,glutamine family amino acid metabolic pr...,54,13,1.72,5.8e-09,0
+GO:0046165,alcohol biosynthetic process,22,9,0.7,8.3e-09,0
+GO:0042724,thiamine-containing compound biosyntheti...,16,8,0.51,8.3e-09,0
+GO:1901617,organic hydroxy compound biosynthetic pr...,39,11,1.24,1.6e-08,0
+GO:0009081,branched-chain amino acid metabolic proc...,24,9,0.77,2.1e-08,0
+GO:0009082,branched-chain amino acid biosynthetic p...,24,9,0.77,2.1e-08,0
+GO:0006551,leucine metabolic process,8,6,0.26,2.4e-08,0
+GO:0009098,leucine biosynthetic process,8,6,0.26,2.4e-08,0
+GO:0006772,thiamine metabolic process,18,8,0.57,2.7e-08,0
+GO:0042723,thiamine-containing compound metabolic p...,18,8,0.57,2.7e-08,0
+GO:0009089,lysine biosynthetic process via diaminop...,13,7,0.41,4.0e-08,0
+GO:0046451,diaminopimelate metabolic process,13,7,0.41,4.0e-08,0
+GO:0034309,primary alcohol biosynthetic process,19,8,0.61,4.5e-08,0
+GO:0006525,arginine metabolic process,27,9,0.86,6.8e-08,0
+GO:0000162,tryptophan biosynthetic process,9,6,0.29,7.0e-08,0
+GO:0042435,indole-containing compound biosynthetic ...,9,6,0.29,7.0e-08,0
+GO:0046219,indolalkylamine biosynthetic process,9,6,0.29,7.0e-08,0
+GO:0009085,lysine biosynthetic process,15,7,0.48,1.4e-07,0
+GO:0046417,chorismate metabolic process,16,7,0.51,2.4e-07,0
+GO:0015803,branched-chain amino acid transport,11,6,0.35,3.7e-07,0
+GO:0044272,sulfur compound biosynthetic process,64,12,2.04,4.6e-07,0
+GO:0015818,isoleucine transport,7,5,0.22,5.9e-07,0
+GO:0006553,lysine metabolic process,18,7,0.57,6.4e-07,0
+GO:0006568,tryptophan metabolic process,12,6,0.38,7.1e-07,0
+GO:0006586,indolalkylamine metabolic process,12,6,0.38,7.1e-07,0
+GO:0042430,indole-containing compound metabolic pro...,12,6,0.38,7.1e-07,0
+GO:0042450,arginine biosynthetic process via ornith...,8,5,0.26,1.5e-06,1e-04

@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0015716,organic phosphonate transport,10,7,0.07,2.4e-14,0
+GO:0019700,organic phosphonate catabolic process,8,4,0.05,1.1e-07,2e-04
+GO:0019634,organic phosphonate metabolic process,10,4,0.07,3.2e-07,3e-04
+GO:0019637,organophosphate metabolic process,265,9,1.8,2.3e-05,0.0166
+GO:0046434,organophosphate catabolic process,36,4,0.24,7.9e-05,0.0456
+GO:0071702,organic substance transport,446,10,3.03,0.00025,0.1204
+GO:0061720,6-sulfoquinovose(1-) catabolic process t...,5,2,0.03,0.00043,0.1553
+GO:1902652,secondary alcohol metabolic process,5,2,0.03,0.00043,0.1553
+GO:1902776,6-sulfoquinovose(1-) metabolic process,6,2,0.04,0.00065,0.1878
+GO:1902777,6-sulfoquinovose(1-) catabolic process,6,2,0.04,0.00065,0.1878
+GO:0006793,phosphorus metabolic process,416,9,2.82,0.00081,0.2127
+GO:0019694,alkanesulfonate metabolic process,9,2,0.06,0.00153,0.3683
+GO:0006810,transport,674,11,4.58,0.00178,0.3948
+GO:0051234,establishment of localization,681,11,4.62,0.00195,0.3948
+GO:0051179,localization,685,11,4.65,0.00205,0.3948
+GO:1901575,organic substance catabolic process,491,9,3.33,0.00274,0.4947
+GO:0009056,catabolic process,506,9,3.44,0.00340,0.5778
+GO:0030389,fructosamine metabolic process,1,1,0.01,0.00679,0.9179
+GO:0030392,fructosamine catabolic process,1,1,0.01,0.00679,0.9179
+GO:0030393,fructoselysine metabolic process,1,1,0.01,0.00679,0.9179
+GO:1901281,fructoselysine catabolic process,1,1,0.01,0.00679,0.9179
+GO:0044273,sulfur compound catabolic process,19,2,0.13,0.00699,0.9179
+GO:1901136,carbohydrate derivative catabolic proces...,62,3,0.42,0.00784,0.9848
+GO:0006040,amino sugar metabolic process,22,2,0.15,0.00933,1
+GO:0005990,lactose catabolic process,2,1,0.01,0.01353,1
+GO:0006487,protein N-linked glycosylation,2,1,0.01,0.01353,1
+GO:0005988,lactose metabolic process,3,1,0.02,0.02024,1
+GO:0006486,protein glycosylation,3,1,0.02,0.02024,1
+GO:0009100,glycoprotein metabolic process,3,1,0.02,0.02024,1
+GO:0009101,glycoprotein biosynthetic process,3,1,0.02,0.02024,1
+GO:0043413,macromolecule glycosylation,3,1,0.02,0.02024,1
+GO:0006002,fructose 6-phosphate metabolic process,4,1,0.03,0.02689,1
+GO:0006047,UDP-N-acetylglucosamine metabolic proces...,5,1,0.03,0.03351,1
+GO:0006083,acetate metabolic process,5,1,0.03,0.03351,1
+GO:0070085,glycosylation,5,1,0.03,0.03351,1
+GO:0043711,pilus organization,44,2,0.3,0.03494,1
+GO:0042180,cellular ketone metabolic process,45,2,0.31,0.03641,1
+GO:0006081,cellular aldehyde metabolic process,47,2,0.32,0.03944,1
+GO:0006790,sulfur compound metabolic process,117,3,0.79,0.04251,1
+GO:0034308,primary alcohol metabolic process,50,2,0.34,0.04416,1
+GO:0035429,gluconate transmembrane transport,8,1,0.05,0.05310,1
+GO:0006084,acetyl-CoA metabolic process,9,1,0.06,0.05955,1
+GO:0046352,disaccharide catabolic process,9,1,0.06,0.05955,1
+GO:0006308,DNA catabolic process,10,1,0.07,0.06595,1
+GO:0042873,aldonate transmembrane transport,10,1,0.07,0.06595,1
+GO:1901135,carbohydrate derivative metabolic proces...,337,5,2.29,0.06941,1
+GO:0015976,carbon utilization,11,1,0.07,0.07231,1
+GO:2000144,positive regulation of DNA-templated tra...,11,1,0.07,0.07231,1
+GO:0034214,protein hexamerization,12,1,0.08,0.07863,1
+GO:0046348,amino sugar catabolic process,14,1,0.1,0.09115,1

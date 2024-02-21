@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0032954,regulation of cytokinetic process,3,2,0.03,0.00021,0.1661
+GO:0032955,regulation of division septum assembly,3,2,0.03,0.00021,0.1661
+GO:1901891,regulation of cell septum assembly,3,2,0.03,0.00021,0.1661
+GO:0051302,regulation of cell division,15,3,0.13,0.00023,0.1661
+GO:0000917,division septum assembly,18,3,0.15,0.00041,0.1974
+GO:0090529,cell septum assembly,18,3,0.15,0.00041,0.1974
+GO:0032506,cytokinetic process,20,3,0.17,0.00056,0.2311
+GO:0010564,regulation of cell cycle process,6,2,0.05,0.00102,0.3274
+GO:0051726,regulation of cell cycle,6,2,0.05,0.00102,0.3274
+GO:0000910,cytokinesis,34,3,0.29,0.00272,0.7858
+GO:0044087,regulation of cellular component biogene...,14,2,0.12,0.00591,1
+GO:0065007,biological regulation,597,11,5.07,0.00596,1
+GO:0022402,cell cycle process,49,3,0.42,0.00769,1
+GO:0034614,cellular response to reactive oxygen spe...,16,2,0.14,0.00772,1
+GO:0062197,cellular response to chemical stress,50,3,0.42,0.00814,1
+GO:0050789,regulation of biological process,565,10,4.79,0.01264,1
+GO:0000918,division septum site selection,2,1,0.02,0.01690,1
+GO:0006813,potassium ion transport,24,2,0.2,0.01702,1
+GO:0050794,regulation of cellular process,510,9,4.33,0.01943,1
+GO:0034599,cellular response to oxidative stress,28,2,0.24,0.02284,1
+GO:1901701,cellular response to oxygen-containing c...,28,2,0.24,0.02284,1
+GO:0051301,cell division,75,3,0.64,0.02438,1
+GO:0006272,leading strand elongation,3,1,0.03,0.02525,1
+GO:0006884,cell volume homeostasis,3,1,0.03,0.02525,1
+GO:0019243,methylglyoxal catabolic process to D-lac...,3,1,0.03,0.02525,1
+GO:0007049,cell cycle,79,3,0.67,0.02792,1
+GO:0000302,response to reactive oxygen species,34,2,0.29,0.03286,1
+GO:0006273,lagging strand elongation,4,1,0.03,0.03353,1
+GO:0008361,regulation of cell size,4,1,0.03,0.03353,1
+GO:0032535,regulation of cellular component size,4,1,0.03,0.03353,1
+GO:0036103,Kdo2-lipid A metabolic process,4,1,0.03,0.03353,1
+GO:0036104,Kdo2-lipid A biosynthetic process,4,1,0.03,0.03353,1
+GO:0045004,DNA replication proofreading,4,1,0.03,0.03353,1
+GO:0061727,methylglyoxal catabolic process to lacta...,4,1,0.03,0.03353,1
+GO:0090066,regulation of anatomical structure size,4,1,0.03,0.03353,1
+GO:0034654,nucleobase-containing compound biosynthe...,484,8,4.11,0.04082,1
+GO:0006801,superoxide metabolic process,5,1,0.04,0.04174,1
+GO:0019430,removal of superoxide radicals,5,1,0.04,0.04174,1
+GO:0033228,cysteine export across plasma membrane,5,1,0.04,0.04174,1
+GO:0042883,cysteine transport,5,1,0.04,0.04174,1
+GO:0071450,cellular response to oxygen radical,5,1,0.04,0.04174,1
+GO:0071451,cellular response to superoxide,5,1,0.04,0.04174,1
+GO:1903712,cysteine transmembrane transport,5,1,0.04,0.04174,1
+GO:0018130,heterocycle biosynthetic process,586,9,4.97,0.04464,1
+GO:0006508,proteolysis,95,3,0.81,0.04472,1
+GO:0006271,DNA strand elongation involved in DNA re...,6,1,0.05,0.04989,1
+GO:0008616,queuosine biosynthetic process,6,1,0.05,0.04989,1
+GO:0016998,cell wall macromolecule catabolic proces...,6,1,0.05,0.04989,1
+GO:0022616,DNA strand elongation,6,1,0.05,0.04989,1
+GO:0032973,amino acid export across plasma membrane,6,1,0.05,0.04989,1

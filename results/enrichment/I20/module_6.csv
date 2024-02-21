@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0043709,cell adhesion involved in single-species...,31,9,0.53,8.4e-10,0
+GO:0043711,pilus organization,44,10,0.75,1.2e-09,0
+GO:0043708,cell adhesion involved in biofilm format...,36,9,0.61,3.7e-09,0
+GO:0031589,cell-substrate adhesion,38,9,0.64,6.2e-09,0
+GO:0090609,single-species submerged biofilm formati...,46,9,0.78,3.8e-08,0
+GO:0007155,cell adhesion,47,9,0.8,4.6e-08,0
+GO:0090605,submerged biofilm formation,57,9,0.97,2.7e-07,1e-04
+GO:0008283,cell population proliferation,78,10,1.32,4.1e-07,1e-04
+GO:0030030,cell projection organization,78,10,1.32,4.1e-07,1e-04
+GO:0044010,single-species biofilm formation,99,10,1.68,3.9e-06,0.001
+GO:0051703,biological process involved in intraspec...,99,10,1.68,3.9e-06,0.001
+GO:0042710,biofilm formation,109,10,1.85,9.4e-06,0.0019
+GO:0098630,aggregation of unicellular organisms,109,10,1.85,9.4e-06,0.0019
+GO:0098743,cell aggregation,109,10,1.85,9.4e-06,0.0019
+GO:0033609,oxalate metabolic process,2,2,0.03,0.00028,0.0404
+GO:0033611,oxalate catabolic process,2,2,0.03,0.00028,0.0404
+GO:0052777,diacetylchitobiose catabolic process,2,2,0.03,0.00028,0.0404
+GO:0052778,diacetylchitobiose metabolic process,2,2,0.03,0.00028,0.0404
+GO:0052779,amino disaccharide metabolic process,2,2,0.03,0.00028,0.0404
+GO:0052782,amino disaccharide catabolic process,2,2,0.03,0.00028,0.0404
+GO:0001907,killing by symbiont of host cells,4,2,0.07,0.00166,0.2284
+GO:0001906,cell killing,5,2,0.08,0.00273,0.3033
+GO:0019594,mannitol metabolic process,5,2,0.08,0.00273,0.3033
+GO:0031640,killing of cells of another organism,5,2,0.08,0.00273,0.3033
+GO:0141060,disruption of anatomical structure in an...,5,2,0.08,0.00273,0.3033
+GO:0141061,disruption of cell in another organism,5,2,0.08,0.00273,0.3033
+GO:0010447,response to acidic pH,28,3,0.48,0.01118,1
+GO:0006059,hexitol metabolic process,11,2,0.19,0.01408,1
+GO:0001561,fatty acid alpha-oxidation,1,1,0.02,0.01697,1
+GO:0032025,response to cobalt ion,1,1,0.02,0.01697,1
+GO:0019400,alditol metabolic process,33,3,0.56,0.01755,1
+GO:0043649,dicarboxylic acid catabolic process,13,2,0.22,0.01954,1
+GO:0019751,polyol metabolic process,37,3,0.63,0.02384,1
+GO:0009268,response to pH,38,3,0.64,0.02558,1
+GO:0051302,regulation of cell division,15,2,0.25,0.02575,1
+GO:0071468,cellular response to acidic pH,16,2,0.27,0.02911,1
+GO:0006030,chitin metabolic process,2,1,0.03,0.03366,1
+GO:0006032,chitin catabolic process,2,1,0.03,0.03366,1
+GO:0030420,establishment of competence for transfor...,2,1,0.03,0.03366,1
+GO:0009297,pilus assembly,18,2,0.31,0.03633,1
+GO:0071467,cellular response to pH,18,2,0.31,0.03633,1
+GO:0051701,biological process involved in interacti...,19,2,0.32,0.04017,1
+GO:0071805,potassium ion transmembrane transport,19,2,0.32,0.04017,1
+GO:0044403,biological process involved in symbiotic...,20,2,0.34,0.04416,1
+GO:0001897,cytolysis by symbiont of host cells,3,1,0.05,0.05007,1
+GO:0010045,response to nickel cation,3,1,0.05,0.05007,1
+GO:0019076,viral release from host cell,3,1,0.05,0.05007,1
+GO:0035891,exit from host cell,3,1,0.05,0.05007,1
+GO:0044659,viral release from host cell by cytolysi...,3,1,0.05,0.05007,1
+GO:0051673,disruption of plasma membrane integrity ...,3,1,0.05,0.05007,1

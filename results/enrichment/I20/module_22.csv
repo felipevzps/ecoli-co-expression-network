@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0006144,purine nucleobase metabolic process,18,5,0.06,1.2e-09,0
+GO:0046113,nucleobase catabolic process,18,5,0.06,1.2e-09,0
+GO:0006145,purine nucleobase catabolic process,7,4,0.02,2.3e-09,0
+GO:0009112,nucleobase metabolic process,47,6,0.16,2.4e-09,0
+GO:0006166,purine ribonucleoside salvage,8,4,0.03,4.7e-09,0
+GO:0043174,nucleoside salvage,9,4,0.03,8.4e-09,0
+GO:0042451,purine nucleoside biosynthetic process,10,4,0.03,1.4e-08,0
+GO:0046129,purine ribonucleoside biosynthetic proce...,10,4,0.03,1.4e-08,0
+GO:0046128,purine ribonucleoside metabolic process,11,4,0.04,2.2e-08,0
+GO:0009114,hypoxanthine catabolic process,3,3,0.01,2.8e-08,0
+GO:0043101,purine-containing compound salvage,15,4,0.05,9.0e-08,0
+GO:0042278,purine nucleoside metabolic process,16,4,0.05,1.2e-07,0
+GO:0009163,nucleoside biosynthetic process,17,4,0.06,1.6e-07,0
+GO:0034404,nucleobase-containing small molecule bio...,17,4,0.06,1.6e-07,0
+GO:0042455,ribonucleoside biosynthetic process,17,4,0.06,1.6e-07,0
+GO:1901659,glycosyl compound biosynthetic process,18,4,0.06,2.0e-07,0
+GO:0046100,hypoxanthine metabolic process,5,3,0.02,2.8e-07,0
+GO:0072523,purine-containing compound catabolic pro...,20,4,0.07,3.2e-07,1e-04
+GO:0009119,ribonucleoside metabolic process,23,4,0.08,5.8e-07,1e-04
+GO:0009116,nucleoside metabolic process,29,4,0.1,1.5e-06,2e-04
+GO:0043094,cellular metabolic compound salvage,31,4,0.11,2.0e-06,3e-04
+GO:1901657,glycosyl compound metabolic process,31,4,0.11,2.0e-06,3e-04
+GO:0046700,heterocycle catabolic process,106,5,0.36,1.2e-05,0.0015
+GO:0044270,cellular nitrogen compound catabolic pro...,108,5,0.37,1.3e-05,0.0016
+GO:0072521,purine-containing compound metabolic pro...,109,5,0.37,1.4e-05,0.0016
+GO:1901565,organonitrogen compound catabolic proces...,198,6,0.67,1.4e-05,0.0016
+GO:0055086,nucleobase-containing small molecule met...,211,6,0.72,2.1e-05,0.0022
+GO:0072522,purine-containing compound biosynthetic ...,63,4,0.21,3.6e-05,0.0037
+GO:1901361,organic cyclic compound catabolic proces...,137,5,0.47,4.2e-05,0.0042
+GO:0006525,arginine metabolic process,27,3,0.09,7.9e-05,0.0076
+GO:0044281,small molecule metabolic process,841,9,2.85,9.1e-05,0.0085
+GO:0044283,small molecule biosynthetic process,286,6,0.97,0.00012,0.0108
+GO:1901564,organonitrogen compound metabolic proces...,903,9,3.07,0.00017,0.0149
+GO:0044248,cellular catabolic process,330,6,1.12,0.00027,0.0229
+GO:0019439,aromatic compound catabolic process,120,4,0.41,0.00045,0.0371
+GO:0009064,glutamine family amino acid metabolic pr...,54,3,0.18,0.00064,0.0514
+GO:0006526,arginine biosynthetic process,16,2,0.05,0.00121,0.0945
+GO:1901575,organic substance catabolic process,491,6,1.67,0.00239,0.1817
+GO:0009056,catabolic process,506,6,1.72,0.00281,0.2082
+GO:0009084,glutamine family amino acid biosynthetic...,25,2,0.08,0.00298,0.2152
+GO:1901566,organonitrogen compound biosynthetic pro...,519,6,1.76,0.00322,0.2269
+GO:0006147,guanine catabolic process,1,1,0,0.00339,0.2332
+GO:1901137,carbohydrate derivative biosynthetic pro...,219,4,0.74,0.00436,0.2929
+GO:0019546,arginine deiminase pathway,2,1,0.01,0.00678,0.4353
+GO:0046098,guanine metabolic process,2,1,0.01,0.00678,0.4353
+GO:0000052,citrulline metabolic process,3,1,0.01,0.01015,0.6239
+GO:0019240,citrulline biosynthetic process,3,1,0.01,0.01015,0.6239
+GO:0006807,nitrogen compound metabolic process,1513,9,5.14,0.01325,0.7975
+GO:0030308,negative regulation of cell growth,5,1,0.02,0.01687,0.9747
+GO:0045926,negative regulation of growth,5,1,0.02,0.01687,0.9747

@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0072524,pyridine-containing compound metabolic p...,36,5,0.4,3.8e-05,0.0419
+GO:0072525,pyridine-containing compound biosyntheti...,19,4,0.21,4.5e-05,0.0419
+GO:0042364,water-soluble vitamin biosynthetic proce...,63,6,0.71,5.3e-05,0.0419
+GO:0009110,vitamin biosynthetic process,64,6,0.72,5.8e-05,0.0419
+GO:0042819,vitamin B6 biosynthetic process,9,3,0.1,0.00010,0.0542
+GO:0006767,water-soluble vitamin metabolic process,75,6,0.84,0.00014,0.0542
+GO:0042816,vitamin B6 metabolic process,10,3,0.11,0.00015,0.0542
+GO:0006766,vitamin metabolic process,76,6,0.85,0.00015,0.0542
+GO:0042724,thiamine-containing compound biosyntheti...,16,3,0.18,0.00065,0.2086
+GO:1901617,organic hydroxy compound biosynthetic pr...,39,4,0.44,0.00081,0.2239
+GO:0006772,thiamine metabolic process,18,3,0.2,0.00093,0.2239
+GO:0042723,thiamine-containing compound metabolic p...,18,3,0.2,0.00093,0.2239
+GO:0006974,DNA damage response,262,9,2.93,0.00173,0.3568
+GO:1901615,organic hydroxy compound metabolic proce...,123,6,1.38,0.00205,0.3568
+GO:0006522,alanine metabolic process,7,2,0.08,0.00247,0.3568
+GO:0008614,pyridoxine metabolic process,7,2,0.08,0.00247,0.3568
+GO:0008615,pyridoxine biosynthetic process,7,2,0.08,0.00247,0.3568
+GO:0009078,pyruvate family amino acid metabolic pro...,7,2,0.08,0.00247,0.3568
+GO:0042823,pyridoxal phosphate biosynthetic process,7,2,0.08,0.00247,0.3568
+GO:0071824,protein-DNA complex organization,7,2,0.08,0.00247,0.3568
+GO:0044283,small molecule biosynthetic process,286,9,3.2,0.00319,0.4294
+GO:0042822,pyridoxal phosphate metabolic process,8,2,0.09,0.00327,0.4294
+GO:0006281,DNA repair,95,5,1.06,0.00364,0.4572
+GO:0046184,aldehyde biosynthetic process,9,2,0.1,0.00417,0.4981
+GO:0044281,small molecule metabolic process,841,17,9.42,0.00431,0.4981
+GO:0043094,cellular metabolic compound salvage,31,3,0.35,0.00465,0.5167
+GO:0072527,pyrimidine-containing compound metabolic...,65,4,0.73,0.00546,0.5842
+GO:0046483,heterocycle metabolic process,945,18,10.59,0.00600,0.6048
+GO:0006284,base-excision repair,11,2,0.12,0.00628,0.6048
+GO:0032261,purine nucleotide salvage,11,2,0.12,0.00628,0.6048
+GO:0019637,organophosphate metabolic process,265,8,2.97,0.00730,0.6803
+GO:0072528,pyrimidine-containing compound biosynthe...,41,3,0.46,0.01022,0.8027
+GO:1901360,organic cyclic compound metabolic proces...,992,18,11.11,0.01052,0.8027
+GO:0000716,transcription-coupled nucleotide-excisio...,1,1,0.01,0.01120,0.8027
+GO:0006283,transcription-coupled nucleotide-excisio...,1,1,0.01,0.01120,0.8027
+GO:0009298,GDP-mannose biosynthetic process,1,1,0.01,0.01120,0.8027
+GO:0019309,mannose catabolic process,1,1,0.01,0.01120,0.8027
+GO:0046470,phosphatidylcholine metabolic process,1,1,0.01,0.01120,0.8027
+GO:1903066,regulation of protein localization to ce...,1,1,0.01,0.01120,0.8027
+GO:1990151,protein localization to cell tip,1,1,0.01,0.01120,0.8027
+GO:0009228,thiamine biosynthetic process,15,2,0.17,0.01167,0.8027
+GO:0043101,purine-containing compound salvage,15,2,0.17,0.01167,0.8027
+GO:0043173,nucleotide salvage,17,2,0.19,0.01490,1
+GO:0006163,purine nucleotide metabolic process,90,4,1.01,0.01693,1
+GO:0006725,cellular aromatic compound metabolic pro...,956,17,10.71,0.01738,1
+GO:0034308,primary alcohol metabolic process,50,3,0.56,0.01755,1
+GO:0034309,primary alcohol biosynthetic process,19,2,0.21,0.01848,1
+GO:0034641,cellular nitrogen compound metabolic pro...,1044,18,11.69,0.01855,1
+GO:0033554,cellular response to stress,381,9,4.27,0.02054,1
+GO:1901566,organonitrogen compound biosynthetic pro...,519,11,5.81,0.02124,1

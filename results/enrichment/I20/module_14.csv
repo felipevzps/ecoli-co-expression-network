@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0006879,intracellular iron ion homeostasis,48,13,0.41,4.5e-18,0
+GO:0009238,enterobactin metabolic process,8,8,0.07,7.8e-18,0
+GO:0030638,polyketide metabolic process,8,8,0.07,7.8e-18,0
+GO:0033067,macrolide metabolic process,8,8,0.07,7.8e-18,0
+GO:0006826,iron ion transport,51,13,0.43,1.1e-17,0
+GO:0033214,siderophore-dependent iron import into c...,19,10,0.16,2.2e-17,0
+GO:0098771,inorganic ion homeostasis,61,13,0.52,1.4e-16,0
+GO:0009237,siderophore metabolic process,10,8,0.08,3.5e-16,0
+GO:0009712,catechol-containing compound metabolic p...,10,8,0.08,3.5e-16,0
+GO:0016999,antibiotic metabolic process,10,8,0.08,3.5e-16,0
+GO:0006873,intracellular monoatomic ion homeostasis,67,13,0.57,5.4e-16,0
+GO:0030003,intracellular monoatomic cation homeosta...,67,13,0.57,5.4e-16,0
+GO:1901678,iron coordination entity transport,36,11,0.31,6.7e-16,0
+GO:0000041,transition metal ion transport,71,13,0.6,1.2e-15,0
+GO:0018958,phenol-containing compound metabolic pro...,11,8,0.09,1.3e-15,0
+GO:0009239,enterobactin biosynthetic process,7,7,0.06,1.3e-15,0
+GO:0017000,antibiotic biosynthetic process,7,7,0.06,1.3e-15,0
+GO:0019540,catechol-containing siderophore biosynth...,7,7,0.06,1.3e-15,0
+GO:0030639,polyketide biosynthetic process,7,7,0.06,1.3e-15,0
+GO:0033068,macrolide biosynthetic process,7,7,0.06,1.3e-15,0
+GO:0050801,monoatomic ion homeostasis,74,13,0.63,2.2e-15,0
+GO:0055080,monoatomic cation homeostasis,74,13,0.63,2.2e-15,0
+GO:0019725,cellular homeostasis,98,14,0.83,2.6e-15,0
+GO:0033212,iron import into cell,30,10,0.25,6.7e-15,0
+GO:0042592,homeostatic process,105,14,0.89,7.2e-15,0
+GO:0009713,catechol-containing compound biosyntheti...,8,7,0.07,1.0e-14,0
+GO:0046189,phenol-containing compound biosynthetic ...,8,7,0.07,1.0e-14,0
+GO:0055082,intracellular chemical homeostasis,84,13,0.71,1.3e-14,0
+GO:0048878,chemical homeostasis,91,13,0.77,3.8e-14,0
+GO:0019290,siderophore biosynthetic process,9,7,0.08,4.5e-14,0
+GO:1901336,lactone biosynthetic process,9,7,0.08,4.5e-14,0
+GO:1901334,lactone metabolic process,16,8,0.14,9.6e-14,0
+GO:0019748,secondary metabolic process,19,8,0.16,5.5e-13,0
+GO:0051649,establishment of localization in cell,46,10,0.39,8.4e-13,0
+GO:0030001,metal ion transport,116,13,0.98,9.8e-13,0
+GO:0019184,nonribosomal peptide biosynthetic proces...,12,7,0.1,9.8e-13,0
+GO:0044550,secondary metabolite biosynthetic proces...,12,7,0.1,9.8e-13,0
+GO:0015891,siderophore transport,10,6,0.08,4.0e-11,0
+GO:0006812,monoatomic cation transport,164,13,1.39,9.0e-11,0
+GO:0015685,ferric-enterobactin import into cell,6,5,0.05,1.7e-10,0
+GO:0006811,monoatomic ion transport,203,13,1.72,1.4e-09,0
+GO:1901617,organic hydroxy compound biosynthetic pr...,39,7,0.33,1.6e-08,0
+GO:0051641,cellular localization,128,10,1.09,3.2e-08,0
+GO:0044718,siderophore transmembrane transport,6,4,0.05,6.0e-08,0
+GO:0098657,import into cell,137,10,1.16,6.1e-08,0
+GO:1901615,organic hydroxy compound metabolic proce...,123,8,1.04,4.4e-06,3e-04
+GO:0034755,iron ion transmembrane transport,25,4,0.21,4.5e-05,0.0028
+GO:0043043,peptide biosynthetic process,146,7,1.24,0.00014,0.0084
+GO:0042930,enterobactin transport,3,2,0.03,0.00021,0.0124
+GO:0006518,peptide metabolic process,157,7,1.33,0.00023,0.0133

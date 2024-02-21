@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:1902421,hydrogen metabolic process,3,3,0.01,5.2e-08,2e-04
+GO:0022904,respiratory electron transport chain,77,5,0.31,7.4e-06,0.0106
+GO:0009267,cellular response to starvation,38,4,0.15,1.1e-05,0.0106
+GO:0031669,cellular response to nutrient levels,41,4,0.17,1.5e-05,0.0108
+GO:0042594,response to starvation,46,4,0.19,2.4e-05,0.0139
+GO:0006113,fermentation,19,3,0.08,4.8e-05,0.0219
+GO:0022900,electron transport chain,115,5,0.47,5.3e-05,0.0219
+GO:0045333,cellular respiration,120,5,0.49,6.5e-05,0.0235
+GO:0015980,energy derivation by oxidation of organi...,140,5,0.57,0.00014,0.0409
+GO:0031668,cellular response to extracellular stimu...,74,4,0.3,0.00016,0.0409
+GO:0071496,cellular response to external stimulus,74,4,0.3,0.00016,0.0409
+GO:0031667,response to nutrient levels,76,4,0.31,0.00017,0.0409
+GO:0009991,response to extracellular stimulus,109,4,0.44,0.00070,0.1465
+GO:0019645,anaerobic electron transport chain,46,3,0.19,0.00071,0.1465
+GO:0006091,generation of precursor metabolites and ...,202,5,0.82,0.00077,0.1483
+GO:0019646,aerobic electron transport chain,13,2,0.05,0.00116,0.2095
+GO:0009061,anaerobic respiration,67,3,0.27,0.00214,0.3637
+GO:0006119,oxidative phosphorylation,21,2,0.09,0.00306,0.4911
+GO:0007154,cell communication,165,4,0.67,0.00330,0.5018
+GO:0009605,response to external stimulus,171,4,0.7,0.00376,0.5345
+GO:0034059,response to anoxia,1,1,0,0.00407,0.5345
+GO:0071454,cellular response to anoxia,1,1,0,0.00407,0.5345
+GO:0036293,response to decreased oxygen levels,2,1,0.01,0.00813,0.9786
+GO:0036294,cellular response to decreased oxygen le...,2,1,0.01,0.00813,0.9786
+GO:0071453,cellular response to oxygen levels,4,1,0.02,0.01620,1
+GO:0006855,xenobiotic transmembrane transport,5,1,0.02,0.02021,1
+GO:0070482,response to oxygen levels,5,1,0.02,0.02021,1
+GO:0009060,aerobic respiration,58,2,0.24,0.02215,1
+GO:0051084,'de novo' post-translational protein fol...,7,1,0.03,0.02820,1
+GO:0051085,chaperone cofactor-dependent protein ref...,7,1,0.03,0.02820,1
+GO:0006458,'de novo' protein folding,8,1,0.03,0.03216,1
+GO:0016036,cellular response to phosphate starvatio...,8,1,0.03,0.03216,1
+GO:0016311,dephosphorylation,8,1,0.03,0.03216,1
+GO:0051604,protein maturation,83,2,0.34,0.04310,1
+GO:0042026,protein refolding,11,1,0.04,0.04398,1
+GO:0051716,cellular response to stimulus,522,5,2.13,0.04573,1
+GO:0015721,bile acid and bile salt transport,12,1,0.05,0.04789,1
+GO:0016485,protein processing,13,1,0.05,0.05178,1
+GO:0006508,proteolysis,95,2,0.39,0.05504,1
+GO:0033554,cellular response to stress,381,4,1.55,0.05837,1
+GO:0071468,cellular response to acidic pH,16,1,0.07,0.06338,1
+GO:0071467,cellular response to pH,18,1,0.07,0.07103,1
+GO:0006869,lipid transport,25,1,0.1,0.09739,1
+GO:0010876,lipid localization,25,1,0.1,0.09739,1
+GO:0010447,response to acidic pH,28,1,0.11,0.10847,1
+GO:0071214,cellular response to abiotic stimulus,32,1,0.13,0.12305,1
+GO:0104004,cellular response to environmental stimu...,32,1,0.13,0.12305,1
+GO:0050896,response to stimulus,909,6,3.7,0.13141,1
+GO:0061077,chaperone-mediated protein folding,35,1,0.14,0.13384,1
+GO:0015718,monocarboxylic acid transport,37,1,0.15,0.14097,1

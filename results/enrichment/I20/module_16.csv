@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0000160,phosphorelay signal transduction system,72,3,0.39,0.0062,1
+GO:0035556,intracellular signal transduction,74,3,0.4,0.0067,1
+GO:0007165,signal transduction,85,3,0.46,0.0099,1
+GO:0010167,response to nitrate,2,1,0.01,0.0108,1
+GO:0019632,shikimate metabolic process,2,1,0.01,0.0108,1
+GO:0071249,cellular response to nitrate,2,1,0.01,0.0108,1
+GO:0071250,cellular response to nitrite,2,1,0.01,0.0108,1
+GO:0080033,response to nitrite,2,1,0.01,0.0108,1
+GO:0120009,intermembrane lipid transfer,2,1,0.01,0.0108,1
+GO:0023052,signaling,94,3,0.51,0.0130,1
+GO:1902170,cellular response to reactive nitrogen s...,3,1,0.02,0.0162,1
+GO:0046777,protein autophosphorylation,4,1,0.02,0.0216,1
+GO:0006355,regulation of DNA-templated transcriptio...,326,5,1.77,0.0251,1
+GO:2001141,regulation of RNA biosynthetic process,326,5,1.77,0.0251,1
+GO:0080134,regulation of response to stress,5,1,0.03,0.0269,1
+GO:0080135,regulation of cellular response to stres...,5,1,0.03,0.0269,1
+GO:0006351,DNA-templated transcription,334,5,1.81,0.0276,1
+GO:0051252,regulation of RNA metabolic process,335,5,1.82,0.0279,1
+GO:1901362,organic cyclic compound biosynthetic pro...,601,7,3.26,0.0291,1
+GO:0032774,RNA biosynthetic process,342,5,1.86,0.0303,1
+GO:1902075,cellular response to salt,6,1,0.03,0.0322,1
+GO:0019219,regulation of nucleobase-containing comp...,350,5,1.9,0.0331,1
+GO:0045892,negative regulation of DNA-templated tra...,134,3,0.73,0.0334,1
+GO:1902679,negative regulation of RNA biosynthetic ...,134,3,0.73,0.0334,1
+GO:0051253,negative regulation of RNA metabolic pro...,138,3,0.75,0.0360,1
+GO:0006468,protein phosphorylation,7,1,0.04,0.0374,1
+GO:0042884,microcin transport,7,1,0.04,0.0374,1
+GO:0006768,biotin metabolic process,8,1,0.04,0.0427,1
+GO:0009102,biotin biosynthetic process,8,1,0.04,0.0427,1
+GO:0045934,negative regulation of nucleobase-contai...,148,3,0.8,0.0430,1
+GO:0050794,regulation of cellular process,510,6,2.77,0.0441,1
+GO:0010468,regulation of gene expression,384,5,2.09,0.0471,1
+GO:0010556,regulation of macromolecule biosynthetic...,385,5,2.09,0.0476,1
+GO:1901699,cellular response to nitrogen compound,9,1,0.05,0.0479,1
+GO:0031326,regulation of cellular biosynthetic proc...,389,5,2.11,0.0494,1
+GO:0009889,regulation of biosynthetic process,391,5,2.12,0.0504,1
+GO:0051171,regulation of nitrogen compound metaboli...,395,5,2.15,0.0523,1
+GO:0045228,slime layer polysaccharide biosynthetic ...,10,1,0.05,0.0531,1
+GO:0045231,slime layer organization,10,1,0.05,0.0531,1
+GO:0080090,regulation of primary metabolic process,400,5,2.17,0.0548,1
+GO:0007154,cell communication,165,3,0.9,0.0564,1
+GO:0051172,negative regulation of nitrogen compound...,167,3,0.91,0.0581,1
+GO:0009423,chorismate biosynthetic process,11,1,0.06,0.0582,1
+GO:0031323,regulation of cellular metabolic process,412,5,2.24,0.0611,1
+GO:0060255,regulation of macromolecule metabolic pr...,413,5,2.24,0.0616,1
+GO:0010558,negative regulation of macromolecule bio...,174,3,0.95,0.0643,1
+GO:0009890,negative regulation of biosynthetic proc...,175,3,0.95,0.0652,1
+GO:0031327,negative regulation of cellular biosynth...,175,3,0.95,0.0652,1
+GO:0019222,regulation of metabolic process,424,5,2.3,0.0677,1
+GO:0050789,regulation of biological process,565,6,3.07,0.0683,1

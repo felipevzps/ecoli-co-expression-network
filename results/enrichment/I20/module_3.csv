@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0015628,protein secretion by the type II secreti...,16,8,0.73,1.5e-07,4e-04
+GO:0008643,carbohydrate transport,123,20,5.64,3.8e-07,5e-04
+GO:0098776,protein transport across the cell outer ...,19,8,0.87,7.8e-07,7e-04
+GO:0034219,carbohydrate transmembrane transport,107,18,4.9,9.3e-07,7e-04
+GO:0009306,protein secretion,31,9,1.42,5.8e-06,0.0024
+GO:0035592,establishment of protein localization to...,31,9,1.42,5.8e-06,0.0024
+GO:0071692,protein localization to extracellular re...,31,9,1.42,5.8e-06,0.0024
+GO:0032940,secretion by cell,33,9,1.51,1.0e-05,0.0032
+GO:0046903,secretion,33,9,1.51,1.0e-05,0.0032
+GO:0019583,galactonate metabolic process,3,3,0.14,9.4e-05,0.0209
+GO:0019584,galactonate catabolic process,3,3,0.14,9.4e-05,0.0209
+GO:0034192,D-galactonate metabolic process,3,3,0.14,9.4e-05,0.0209
+GO:0034194,D-galactonate catabolic process,3,3,0.14,9.4e-05,0.0209
+GO:0071702,organic substance transport,446,37,20.44,0.00012,0.0248
+GO:0015749,monosaccharide transmembrane transport,48,9,2.2,0.00025,0.0469
+GO:0019852,L-ascorbic acid metabolic process,8,4,0.37,0.00026,0.0469
+GO:0019321,pentose metabolic process,22,6,1.01,0.00034,0.0578
+GO:0016052,carbohydrate catabolic process,136,16,6.23,0.00036,0.0578
+GO:0071806,protein transmembrane transport,41,8,1.88,0.00042,0.0639
+GO:0140352,export from cell,64,10,2.93,0.00053,0.0766
+GO:0019324,L-lyxose metabolic process,5,3,0.23,0.00088,0.113
+GO:0019854,L-ascorbic acid catabolic process,5,3,0.23,0.00088,0.113
+GO:0005996,monosaccharide metabolic process,106,13,4.86,0.00090,0.113
+GO:0046176,aldonic acid catabolic process,18,5,0.82,0.00099,0.1192
+GO:0005975,carbohydrate metabolic process,340,28,15.58,0.00114,0.1317
+GO:0019520,aldonic acid metabolic process,20,5,0.92,0.00167,0.1754
+GO:1901335,lactone catabolic process,6,3,0.27,0.00170,0.1754
+GO:1902075,cellular response to salt,6,3,0.27,0.00170,0.1754
+GO:0051179,localization,685,46,31.39,0.00226,0.2251
+GO:0055085,transmembrane transport,594,41,27.22,0.00258,0.2485
+GO:0006810,transport,674,45,30.89,0.00293,0.2731
+GO:0008104,protein localization,94,11,4.31,0.00328,0.2871
+GO:0070727,cellular macromolecule localization,94,11,4.31,0.00328,0.2871
+GO:0051234,establishment of localization,681,45,31.21,0.00362,0.3076
+GO:0008645,hexose transmembrane transport,34,6,1.56,0.00386,0.313
+GO:0009401,phosphoenolpyruvate-dependent sugar phos...,57,8,2.61,0.00390,0.313
+GO:0015031,protein transport,84,10,3.85,0.00443,0.3296
+GO:0009111,vitamin catabolic process,8,3,0.37,0.00445,0.3296
+GO:0042365,water-soluble vitamin catabolic process,8,3,0.37,0.00445,0.3296
+GO:1901334,lactone metabolic process,16,4,0.73,0.00499,0.3523
+GO:0033036,macromolecule localization,128,13,5.87,0.00500,0.3523
+GO:0098704,carbohydrate import across plasma membra...,61,8,2.8,0.00595,0.4093
+GO:0045184,establishment of protein localization,90,10,4.12,0.00725,0.4871
+GO:1904659,glucose transmembrane transport,10,3,0.46,0.00891,0.585
+GO:0015753,D-xylose transmembrane transport,4,2,0.18,0.01177,0.6939
+GO:0019523,L-idonate metabolic process,4,2,0.18,0.01177,0.6939
+GO:0046183,L-idonate catabolic process,4,2,0.18,0.01177,0.6939
+GO:0051595,response to methylglyoxal,4,2,0.18,0.01177,0.6939
+GO:1901654,response to ketone,4,2,0.18,0.01177,0.6939
+GO:0006235,dTTP biosynthetic process,5,2,0.23,0.01903,1

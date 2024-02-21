@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0009408,response to heat,64,10,0.26,7.2e-16,0
+GO:0009266,response to temperature stimulus,86,10,0.35,1.7e-14,0
+GO:0034605,cellular response to heat,13,5,0.05,5.4e-10,0
+GO:0009628,response to abiotic stimulus,242,10,0.99,6.7e-10,0
+GO:0043335,protein unfolding,7,4,0.03,5.5e-09,0
+GO:0051604,protein maturation,83,7,0.34,7.7e-09,0
+GO:0006457,protein folding,50,6,0.2,1.5e-08,0
+GO:0019538,protein metabolic process,355,10,1.45,3.0e-08,0
+GO:0042026,protein refolding,11,4,0.04,5.1e-08,0
+GO:0006950,response to stress,527,11,2.15,5.5e-08,0
+GO:0051084,'de novo' post-translational protein fol...,7,3,0.03,1.8e-06,4e-04
+GO:0051085,chaperone cofactor-dependent protein ref...,7,3,0.03,1.8e-06,4e-04
+GO:0006458,'de novo' protein folding,8,3,0.03,2.9e-06,6e-04
+GO:0051603,proteolysis involved in protein cataboli...,11,3,0.04,8.4e-06,0.0017
+GO:0050896,response to stimulus,909,11,3.7,2.0e-05,0.0039
+GO:0033554,cellular response to stress,381,8,1.55,2.3e-05,0.0042
+GO:0030163,protein catabolic process,16,3,0.07,2.8e-05,0.0048
+GO:0030164,protein denaturation,3,2,0.01,4.6e-05,0.0074
+GO:0043170,macromolecule metabolic process,1081,11,4.4,0.00013,0.0198
+GO:0051716,cellular response to stimulus,522,8,2.13,0.00023,0.033
+GO:1901564,organonitrogen compound metabolic proces...,903,10,3.68,0.00024,0.033
+GO:0061077,chaperone-mediated protein folding,35,3,0.14,0.00031,0.0407
+GO:0006508,proteolysis,95,4,0.39,0.00041,0.0515
+GO:0006260,DNA replication,64,3,0.26,0.00187,0.2251
+GO:0009057,macromolecule catabolic process,83,3,0.34,0.00395,0.3948
+GO:0006986,response to unfolded protein,1,1,0,0.00407,0.3948
+GO:0034620,cellular response to unfolded protein,1,1,0,0.00407,0.3948
+GO:0061136,regulation of proteasomal protein catabo...,1,1,0,0.00407,0.3948
+GO:1901800,positive regulation of proteasomal prote...,1,1,0,0.00407,0.3948
+GO:0006807,nitrogen compound metabolic process,1513,11,6.16,0.00410,0.3948
+GO:0010467,gene expression,617,7,2.51,0.00504,0.4697
+GO:0006259,DNA metabolic process,200,4,0.81,0.00662,0.5977
+GO:0010498,proteasomal protein catabolic process,2,1,0.01,0.00813,0.6181
+GO:0035966,response to topologically incorrect prot...,2,1,0.01,0.00813,0.6181
+GO:0035967,cellular response to topologically incor...,2,1,0.01,0.00813,0.6181
+GO:0045732,positive regulation of protein catabolic...,2,1,0.01,0.00813,0.6181
+GO:1903050,regulation of proteolysis involved in pr...,2,1,0.01,0.00813,0.6181
+GO:1903052,positive regulation of proteolysis invol...,2,1,0.01,0.00813,0.6181
+GO:0044238,primary metabolic process,1661,11,6.77,0.01049,0.7771
+GO:0036506,maintenance of unfolded protein,3,1,0.01,0.01217,0.8371
+GO:0042176,regulation of protein catabolic process,3,1,0.01,0.01217,0.8371
+GO:0045862,positive regulation of proteolysis,3,1,0.01,0.01217,0.8371
+GO:0065003,protein-containing complex assembly,147,3,0.6,0.01921,1
+GO:0006465,signal peptide processing,5,1,0.02,0.02021,1
+GO:0030162,regulation of proteolysis,5,1,0.02,0.02021,1
+GO:0009059,macromolecule biosynthetic process,792,7,3.23,0.02114,1
+GO:0006515,protein quality control for misfolded or...,6,1,0.02,0.02421,1
+GO:0009896,positive regulation of catabolic process,6,1,0.02,0.02421,1
+GO:0043933,protein-containing complex organization,178,3,0.73,0.03183,1
+GO:0016311,dephosphorylation,8,1,0.03,0.03216,1
