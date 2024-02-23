@@ -20,9 +20,9 @@ GO:0098656,monoatomic anion transmembrane transport,13,3,0.08,4.4e-05,0.0071
 GO:0009069,serine family amino acid metabolic proce...,44,4,0.25,8.9e-05,0.0135
 GO:0006535,cysteine biosynthetic process from serin...,5,2,0.03,0.00031,0.0448
 GO:1901607,alpha-amino acid biosynthetic process,113,5,0.65,0.00033,0.0454
-GO:0008652,amino acid biosynthetic process,137,5,0.79,0.00080,0.1051
+GO:0008652,amino acid biosynthetic process,137,5,0.79,8e-04,0.1051
 GO:0006563,L-serine metabolic process,14,2,0.08,0.00274,0.337
-GO:0071705,nitrogen compound transport,268,6,1.55,0.00280,0.337
+GO:0071705,nitrogen compound transport,268,6,1.55,0.0028,0.337
 GO:1901605,alpha-amino acid metabolic process,184,5,1.06,0.00301,0.3478
 GO:0016053,organic acid biosynthetic process,195,5,1.13,0.00388,0.4152
 GO:0046394,carboxylic acid biosynthetic process,195,5,1.13,0.00388,0.4152
@@ -41,9 +41,9 @@ GO:0006528,asparagine metabolic process,4,1,0.02,0.02289,1
 GO:0055085,transmembrane transport,594,7,3.43,0.03876,1
 GO:0019448,L-cysteine catabolic process,7,1,0.04,0.03974,1
 GO:0046439,L-cysteine metabolic process,7,1,0.04,0.03974,1
-GO:0000098,sulfur amino acid catabolic process,8,1,0.05,0.04530,1
-GO:0009093,cysteine catabolic process,8,1,0.05,0.04530,1
-GO:0015833,peptide transport,60,2,0.35,0.04560,1
+GO:0000098,sulfur amino acid catabolic process,8,1,0.05,0.0453,1
+GO:0009093,cysteine catabolic process,8,1,0.05,0.0453,1
+GO:0015833,peptide transport,60,2,0.35,0.0456,1
 GO:0042886,amide transport,67,2,0.39,0.05564,1
 GO:0034220,monoatomic ion transmembrane transport,156,3,0.9,0.05735,1
 GO:0009063,amino acid catabolic process,69,2,0.4,0.05864,1

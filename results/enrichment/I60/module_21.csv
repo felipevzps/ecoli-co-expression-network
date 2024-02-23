@@ -8,13 +8,13 @@ GO:0006006,glucose metabolic process,41,2,0.17,0.0114,1
 GO:0019645,anaerobic electron transport chain,46,2,0.19,0.0143,1
 GO:0015980,energy derivation by oxidation of organi...,140,3,0.57,0.0168,1
 GO:0046365,monosaccharide catabolic process,63,2,0.26,0.0259,1
-GO:0009061,anaerobic respiration,67,2,0.27,0.0290,1
+GO:0009061,anaerobic respiration,67,2,0.27,0.029,1
 GO:0019318,hexose metabolic process,70,2,0.29,0.0315,1
 GO:0022904,respiratory electron transport chain,77,2,0.31,0.0376,1
 GO:0002098,tRNA wobble uridine modification,10,1,0.04,0.0401,1
 GO:0006308,DNA catabolic process,10,1,0.04,0.0401,1
-GO:0015976,carbon utilization,11,1,0.04,0.0440,1
-GO:0035435,phosphate ion transmembrane transport,11,1,0.04,0.0440,1
+GO:0015976,carbon utilization,11,1,0.04,0.044,1
+GO:0035435,phosphate ion transmembrane transport,11,1,0.04,0.044,1
 GO:0006091,generation of precursor metabolites and ...,202,3,0.82,0.0441,1
 GO:0006817,phosphate ion transport,13,1,0.05,0.0518,1
 GO:0030488,tRNA methylation,13,1,0.05,0.0518,1
@@ -28,11 +28,11 @@ GO:0098661,inorganic anion transmembrane transport,23,1,0.09,0.0899,1
 GO:0016052,carbohydrate catabolic process,136,2,0.55,0.1032,1
 GO:0015698,inorganic anion transport,31,1,0.13,0.1194,1
 GO:0043414,macromolecule methylation,31,1,0.13,0.1194,1
-GO:0006400,tRNA modification,37,1,0.15,0.1410,1
+GO:0006400,tRNA modification,37,1,0.15,0.141,1
 GO:2000142,regulation of DNA-templated transcriptio...,38,1,0.15,0.1445,1
 GO:0006352,DNA-templated transcription initiation,40,1,0.16,0.1516,1
 GO:0032259,methylation,46,1,0.19,0.1724,1
-GO:0008033,tRNA processing,50,1,0.2,0.1860,1
+GO:0008033,tRNA processing,50,1,0.2,0.186,1
 GO:0009451,RNA modification,56,1,0.23,0.2061,1
 GO:0009401,phosphoenolpyruvate-dependent sugar phos...,57,1,0.23,0.2093,1
 GO:0009060,aerobic respiration,58,1,0.24,0.2126,1

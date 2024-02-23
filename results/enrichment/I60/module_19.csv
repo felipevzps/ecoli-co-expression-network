@@ -43,7 +43,7 @@ GO:0015920,lipopolysaccharide transport,4,1,0.02,0.02156,1
 GO:0018131,oxazole or thiazole biosynthetic process,4,1,0.02,0.02156,1
 GO:0034227,tRNA thio-modification,4,1,0.02,0.02156,1
 GO:0046484,oxazole or thiazole metabolic process,4,1,0.02,0.02156,1
-GO:0034641,cellular nitrogen compound metabolic pro...,1044,10,5.67,0.02470,1
+GO:0034641,cellular nitrogen compound metabolic pro...,1044,10,5.67,0.0247,1
 GO:0006167,AMP biosynthetic process,5,1,0.03,0.02688,1
 GO:0009157,deoxyribonucleoside monophosphate biosyn...,5,1,0.03,0.02688,1
 GO:0009162,deoxyribonucleoside monophosphate metabo...,5,1,0.03,0.02688,1

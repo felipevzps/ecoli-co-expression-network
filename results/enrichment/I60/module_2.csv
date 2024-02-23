@@ -8,10 +8,10 @@ GO:0019545,arginine catabolic process to succinate,5,4,0.12,1.5e-06,7e-04
 GO:0006972,hyperosmotic response,12,5,0.29,4.9e-06,0.0019
 GO:0006979,response to oxidative stress,88,11,2.12,5.3e-06,0.0019
 GO:0010033,response to organic substance,59,9,1.42,7.9e-06,0.0025
-GO:0005991,trehalose metabolic process,7,4,0.17,1.0e-05,0.0029
+GO:0005991,trehalose metabolic process,7,4,0.17,1e-05,0.0029
 GO:0045471,response to ethanol,3,3,0.07,1.3e-05,0.0034
 GO:0033554,cellular response to stress,381,22,9.18,4.5e-05,0.0108
-GO:0006527,arginine catabolic process,11,4,0.27,9.0e-05,0.02
+GO:0006527,arginine catabolic process,11,4,0.27,9e-05,0.02
 GO:0097305,response to alcohol,5,3,0.12,0.00013,0.025
 GO:0043605,amide catabolic process,12,4,0.29,0.00013,0.025
 GO:0009448,gamma-aminobutyric acid metabolic proces...,6,3,0.14,0.00025,0.0425
@@ -34,18 +34,18 @@ GO:0006995,cellular response to nitrogen starvation,3,2,0.07,0.00169,0.147
 GO:0043562,cellular response to nitrogen levels,3,2,0.07,0.00169,0.147
 GO:0050896,response to stimulus,909,34,21.91,0.00173,0.147
 GO:0098869,cellular oxidant detoxification,23,4,0.55,0.00194,0.1601
-GO:0097237,cellular response to toxic substance,26,4,0.63,0.00310,0.2346
-GO:1990748,cellular detoxification,26,4,0.63,0.00310,0.2346
+GO:0097237,cellular response to toxic substance,26,4,0.63,0.0031,0.2346
+GO:1990748,cellular detoxification,26,4,0.63,0.0031,0.2346
 GO:0005993,trehalose catabolic process,4,2,0.1,0.00333,0.2346
 GO:0046351,disaccharide biosynthetic process,4,2,0.1,0.00333,0.2346
 GO:0061727,methylglyoxal catabolic process to lacta...,4,2,0.1,0.00333,0.2346
 GO:0071474,cellular hyperosmotic response,4,2,0.1,0.00333,0.2346
 GO:0044011,single-species biofilm formation on inan...,14,3,0.34,0.00404,0.2755
-GO:1901701,cellular response to oxygen-containing c...,28,4,0.67,0.00410,0.2755
+GO:1901701,cellular response to oxygen-containing c...,28,4,0.67,0.0041,0.2755
 GO:0042221,response to chemical,363,17,8.75,0.00448,0.2895
 GO:0070887,cellular response to chemical stimulus,135,9,3.25,0.00451,0.2895
 GO:0070417,cellular response to cold,5,2,0.12,0.00546,0.3429
-GO:0034614,cellular response to reactive oxygen spe...,16,3,0.39,0.00600,0.3688
+GO:0034614,cellular response to reactive oxygen spe...,16,3,0.39,0.006,0.3688
 GO:0062197,cellular response to chemical stress,50,5,1.21,0.00644,0.3876
 GO:0046185,aldehyde catabolic process,17,3,0.41,0.00716,0.4221
 GO:0009064,glutamine family amino acid metabolic pr...,54,5,1.3,0.00892,0.5154

@@ -16,7 +16,7 @@ GO:0032259,methylation,46,4,0.52,0.00153,0.2947
 GO:0042546,cell wall biogenesis,46,4,0.52,0.00153,0.2947
 GO:0001510,RNA methylation,22,3,0.25,0.00171,0.3088
 GO:0000271,polysaccharide biosynthetic process,85,5,0.95,0.00223,0.379
-GO:0032502,developmental process,53,4,0.59,0.00260,0.3948
+GO:0032502,developmental process,53,4,0.59,0.0026,0.3948
 GO:1901135,carbohydrate derivative metabolic proces...,337,10,3.77,0.00276,0.3948
 GO:0009314,response to radiation,90,5,1.01,0.00287,0.3948
 GO:0065008,regulation of biological quality,90,5,1.01,0.00287,0.3948
@@ -34,12 +34,12 @@ GO:0045017,glycerolipid biosynthetic process,12,2,0.13,0.00749,0.6557
 GO:0046474,glycerophospholipid biosynthetic process,12,2,0.13,0.00749,0.6557
 GO:0030488,tRNA methylation,13,2,0.15,0.00879,0.6765
 GO:0044419,biological process involved in interspec...,41,3,0.46,0.01022,0.6765
-GO:0002938,tRNA guanine ribose methylation,1,1,0.01,0.01120,0.6765
-GO:0007163,establishment or maintenance of cell pol...,1,1,0.01,0.01120,0.6765
-GO:0010164,response to cesium ion,1,1,0.01,0.01120,0.6765
-GO:0046167,glycerol-3-phosphate biosynthetic proces...,1,1,0.01,0.01120,0.6765
-GO:0071278,cellular response to cesium ion,1,1,0.01,0.01120,0.6765
-GO:0071963,establishment or maintenance of cell pol...,1,1,0.01,0.01120,0.6765
+GO:0002938,tRNA guanine ribose methylation,1,1,0.01,0.0112,0.6765
+GO:0007163,establishment or maintenance of cell pol...,1,1,0.01,0.0112,0.6765
+GO:0010164,response to cesium ion,1,1,0.01,0.0112,0.6765
+GO:0046167,glycerol-3-phosphate biosynthetic proces...,1,1,0.01,0.0112,0.6765
+GO:0071278,cellular response to cesium ion,1,1,0.01,0.0112,0.6765
+GO:0071963,establishment or maintenance of cell pol...,1,1,0.01,0.0112,0.6765
 GO:0043170,macromolecule metabolic process,1081,19,12.11,0.01131,0.6765
 GO:0008360,regulation of cell shape,43,3,0.48,0.01165,0.6765
 GO:0022603,regulation of anatomical structure morph...,43,3,0.48,0.01165,0.6765

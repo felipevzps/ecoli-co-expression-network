@@ -10,7 +10,7 @@ GO:0009201,ribonucleoside triphosphate biosynthetic...,14,7,0.14,1.8e-11,0
 GO:0009144,purine nucleoside triphosphate metabolic...,15,7,0.15,3.3e-11,0
 GO:0009199,ribonucleoside triphosphate metabolic pr...,15,7,0.15,3.3e-11,0
 GO:0009142,nucleoside triphosphate biosynthetic pro...,19,7,0.19,2.5e-10,0
-GO:0006163,purine nucleotide metabolic process,90,11,0.92,4.0e-10,0
+GO:0006163,purine nucleotide metabolic process,90,11,0.92,4e-10,0
 GO:0009141,nucleoside triphosphate metabolic proces...,24,7,0.24,1.7e-09,0
 GO:0072521,purine-containing compound metabolic pro...,109,11,1.11,3.3e-09,0
 GO:0009152,purine ribonucleotide biosynthetic proce...,46,8,0.47,8.5e-09,0
@@ -40,12 +40,12 @@ GO:0006811,monoatomic ion transport,203,9,2.07,0.00012,0.0091
 GO:0098662,inorganic cation transmembrane transport,120,7,1.22,0.00015,0.0111
 GO:0006812,monoatomic cation transport,164,8,1.67,0.00016,0.0116
 GO:0098655,monoatomic cation transmembrane transpor...,124,7,1.26,0.00018,0.0127
-GO:0006098,pentose-phosphate shunt,12,3,0.12,0.00020,0.0138
+GO:0006098,pentose-phosphate shunt,12,3,0.12,2e-04,0.0138
 GO:1901137,carbohydrate derivative biosynthetic pro...,219,9,2.23,0.00021,0.0141
-GO:0042867,pyruvate catabolic process,3,2,0.03,0.00030,0.0197
+GO:0042867,pyruvate catabolic process,3,2,0.03,3e-04,0.0197
 GO:0006740,NADPH regeneration,14,3,0.14,0.00032,0.0205
 GO:0098660,inorganic ion transmembrane transport,139,7,1.42,0.00037,0.0232
-GO:0051156,glucose 6-phosphate metabolic process,15,3,0.15,0.00040,0.0241
-GO:0046483,heterocycle metabolic process,945,19,9.62,0.00040,0.0241
+GO:0051156,glucose 6-phosphate metabolic process,15,3,0.15,4e-04,0.0241
+GO:0046483,heterocycle metabolic process,945,19,9.62,4e-04,0.0241
 GO:0034641,cellular nitrogen compound metabolic pro...,1044,20,10.63,0.00046,0.0271
 GO:0006725,cellular aromatic compound metabolic pro...,956,19,9.74,0.00047,0.0272

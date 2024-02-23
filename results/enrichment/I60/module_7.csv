@@ -23,21 +23,21 @@ GO:0006580,ethanolamine metabolic process,17,2,0.2,0.0158,1
 GO:0042439,ethanolamine-containing compound metabol...,17,2,0.2,0.0158,1
 GO:0046336,ethanolamine catabolic process,17,2,0.2,0.0158,1
 GO:0006576,biogenic amine metabolic process,47,3,0.54,0.0161,1
-GO:0009308,amine metabolic process,49,3,0.57,0.0180,1
-GO:0034308,primary alcohol metabolic process,50,3,0.58,0.0190,1
+GO:0009308,amine metabolic process,49,3,0.57,0.018,1
+GO:0034308,primary alcohol metabolic process,50,3,0.58,0.019,1
 GO:0006635,fatty acid beta-oxidation,19,2,0.22,0.0196,1
 GO:1901160,primary amino compound metabolic process,19,2,0.22,0.0196,1
 GO:1901161,primary amino compound catabolic process,19,2,0.22,0.0196,1
 GO:1901616,organic hydroxy compound catabolic proce...,51,3,0.59,0.0201,1
 GO:0019395,fatty acid oxidation,20,2,0.23,0.0216,1
 GO:0034440,lipid oxidation,20,2,0.23,0.0216,1
-GO:0019628,urate catabolic process,2,1,0.02,0.0230,1
-GO:0031388,organic acid phosphorylation,2,1,0.02,0.0230,1
-GO:0033387,putrescine biosynthetic process from orn...,2,1,0.02,0.0230,1
-GO:0042350,GDP-L-fucose biosynthetic process,2,1,0.02,0.0230,1
-GO:0042351,'de novo' GDP-L-fucose biosynthetic proc...,2,1,0.02,0.0230,1
-GO:0046368,GDP-L-fucose metabolic process,2,1,0.02,0.0230,1
-GO:0046415,urate metabolic process,2,1,0.02,0.0230,1
+GO:0019628,urate catabolic process,2,1,0.02,0.023,1
+GO:0031388,organic acid phosphorylation,2,1,0.02,0.023,1
+GO:0033387,putrescine biosynthetic process from orn...,2,1,0.02,0.023,1
+GO:0042350,GDP-L-fucose biosynthetic process,2,1,0.02,0.023,1
+GO:0042351,'de novo' GDP-L-fucose biosynthetic proc...,2,1,0.02,0.023,1
+GO:0046368,GDP-L-fucose metabolic process,2,1,0.02,0.023,1
+GO:0046415,urate metabolic process,2,1,0.02,0.023,1
 GO:0016051,carbohydrate biosynthetic process,104,4,1.2,0.0301,1
 GO:0030258,lipid modification,24,2,0.28,0.0305,1
 GO:0045226,extracellular polysaccharide biosyntheti...,24,2,0.28,0.0305,1

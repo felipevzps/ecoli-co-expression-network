@@ -8,7 +8,7 @@ GO:0050993,dimethylallyl diphosphate metabolic proc...,2,1,0.02,0.0156,1
 GO:0071276,cellular response to cadmium ion,2,1,0.02,0.0156,1
 GO:0034599,cellular response to oxidative stress,28,2,0.22,0.0195,1
 GO:1901701,cellular response to oxygen-containing c...,28,2,0.22,0.0195,1
-GO:0033554,cellular response to stress,381,7,2.97,0.0220,1
+GO:0033554,cellular response to stress,381,7,2.97,0.022,1
 GO:0006554,lysine catabolic process,3,1,0.02,0.0232,1
 GO:0006880,intracellular sequestering of iron ion,3,1,0.02,0.0232,1
 GO:0051235,maintenance of location,3,1,0.02,0.0232,1
@@ -23,9 +23,9 @@ GO:0015920,lipopolysaccharide transport,4,1,0.03,0.0309,1
 GO:0015968,stringent response,4,1,0.03,0.0309,1
 GO:0046686,response to cadmium ion,4,1,0.03,0.0309,1
 GO:0042732,D-xylose metabolic process,5,1,0.04,0.0385,1
-GO:0030261,chromosome condensation,6,1,0.05,0.0460,1
+GO:0030261,chromosome condensation,6,1,0.05,0.046,1
 GO:0006974,DNA damage response,262,5,2.05,0.0476,1
-GO:0042594,response to starvation,46,2,0.36,0.0490,1
+GO:0042594,response to starvation,46,2,0.36,0.049,1
 GO:0006879,intracellular iron ion homeostasis,48,2,0.37,0.0529,1
 GO:0030244,cellulose biosynthetic process,7,1,0.05,0.0534,1
 GO:0032297,negative regulation of DNA-templated DNA...,7,1,0.05,0.0534,1

@@ -1,11 +1,12 @@
 GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0009432,SOS response,30,18,0.21,1e-30,0
 GO:0031668,cellular response to extracellular stimu...,74,18,0.53,2.2e-27,0
 GO:0071496,cellular response to external stimulus,74,18,0.53,2.2e-27,0
 GO:0009991,response to extracellular stimulus,109,18,0.78,4.9e-24,0
 GO:0006974,DNA damage response,262,20,1.87,9.4e-21,0
 GO:0007154,cell communication,165,18,1.18,1.4e-20,0
 GO:0009605,response to external stimulus,171,18,1.22,2.7e-20,0
-GO:0033554,cellular response to stress,381,20,2.72,2.0e-17,0
+GO:0033554,cellular response to stress,381,20,2.72,2e-17,0
 GO:0006281,DNA repair,95,14,0.68,4.8e-17,0
 GO:0051716,cellular response to stimulus,522,20,3.72,1.2e-14,0
 GO:0006950,response to stress,527,20,3.76,1.5e-14,0
@@ -14,38 +15,37 @@ GO:0050896,response to stimulus,909,20,6.48,7.9e-10,0
 GO:0019985,translesion synthesis,6,4,0.04,2.8e-08,0
 GO:0006301,postreplication repair,8,4,0.06,1.3e-07,0
 GO:0000731,DNA synthesis involved in DNA repair,10,4,0.07,3.9e-07,1e-04
-GO:0090304,nucleic acid metabolic process,625,15,4.46,1.0e-06,2e-04
-GO:0071897,DNA biosynthetic process,21,4,0.15,1.1e-05,0.0019
-GO:0006139,nucleobase-containing compound metabolic...,825,15,5.88,4.2e-05,0.0067
-GO:0042276,error-prone translesion synthesis,3,2,0.02,0.00014,0.0213
-GO:0046483,heterocycle metabolic process,945,15,6.74,0.00024,0.0347
-GO:0006725,cellular aromatic compound metabolic pro...,956,15,6.81,0.00028,0.0385
-GO:1901360,organic cyclic compound metabolic proces...,992,15,7.07,0.00044,0.0578
-GO:0010212,response to ionizing radiation,26,3,0.19,0.00073,0.0917
-GO:0034641,cellular nitrogen compound metabolic pro...,1044,15,7.44,0.00082,0.0987
-GO:0043170,macromolecule metabolic process,1081,15,7.71,0.00125,0.1444
-GO:0009314,response to radiation,90,4,0.64,0.00327,0.3632
-GO:0051276,chromosome organization,49,3,0.35,0.00466,0.4984
-GO:0010165,response to X-ray,16,2,0.11,0.00547,0.5642
-GO:0000725,recombinational repair,17,2,0.12,0.00617,0.6144
-GO:0006282,regulation of DNA repair,1,1,0.01,0.00713,0.6435
-GO:0035825,homologous recombination,1,1,0.01,0.00713,0.6435
-GO:0036298,recombinational interstrand cross-link r...,1,1,0.01,0.00713,0.6435
-GO:0040007,growth,20,2,0.14,0.00851,0.7228
-GO:0040008,regulation of growth,20,2,0.14,0.00851,0.7228
-GO:0006310,DNA recombination,62,3,0.44,0.00901,0.7435
-GO:0031333,negative regulation of protein-containin...,2,1,0.01,0.01421,0.912
-GO:0032271,regulation of protein polymerization,2,1,0.01,0.01421,0.912
-GO:0032272,negative regulation of protein polymeriz...,2,1,0.01,0.01421,0.912
-GO:0036297,interstrand cross-link repair,2,1,0.01,0.01421,0.912
-GO:0070987,error-free translesion synthesis,2,1,0.01,0.01421,0.912
-GO:0090143,nucleoid organization,2,1,0.01,0.01421,0.912
-GO:2000241,regulation of reproductive process,2,1,0.01,0.01421,0.912
-GO:2000242,negative regulation of reproductive proc...,2,1,0.01,0.01421,0.912
-GO:2000244,regulation of FtsZ-dependent cytokinesis,2,1,0.01,0.01421,0.912
-GO:2000245,negative regulation of FtsZ-dependent cy...,2,1,0.01,0.01421,0.912
+GO:0090304,nucleic acid metabolic process,625,15,4.46,1e-06,2e-04
+GO:0071897,DNA biosynthetic process,21,4,0.15,1.1e-05,0.0018
+GO:0006139,nucleobase-containing compound metabolic...,825,15,5.88,4.2e-05,0.0064
+GO:0042276,error-prone translesion synthesis,3,2,0.02,0.00014,0.0202
+GO:0046483,heterocycle metabolic process,945,15,6.74,0.00024,0.033
+GO:0006725,cellular aromatic compound metabolic pro...,956,15,6.81,0.00028,0.0368
+GO:1901360,organic cyclic compound metabolic proces...,992,15,7.07,0.00044,0.0553
+GO:0010212,response to ionizing radiation,26,3,0.19,0.00073,0.0879
+GO:0034641,cellular nitrogen compound metabolic pro...,1044,15,7.44,0.00082,0.0948
+GO:0043170,macromolecule metabolic process,1081,15,7.71,0.00125,0.1389
+GO:0009314,response to radiation,90,4,0.64,0.00327,0.3499
+GO:0051276,chromosome organization,49,3,0.35,0.00466,0.4808
+GO:0010165,response to X-ray,16,2,0.11,0.00547,0.5449
+GO:0000725,recombinational repair,17,2,0.12,0.00617,0.5942
+GO:0006282,regulation of DNA repair,1,1,0.01,0.00713,0.6242
+GO:0035825,homologous recombination,1,1,0.01,0.00713,0.6242
+GO:0036298,recombinational interstrand cross-link r...,1,1,0.01,0.00713,0.6242
+GO:0040007,growth,20,2,0.14,0.00851,0.7024
+GO:0040008,regulation of growth,20,2,0.14,0.00851,0.7024
+GO:0006310,DNA recombination,62,3,0.44,0.00901,0.7231
+GO:0031333,negative regulation of protein-containin...,2,1,0.01,0.01421,0.8924
+GO:0032271,regulation of protein polymerization,2,1,0.01,0.01421,0.8924
+GO:0032272,negative regulation of protein polymeriz...,2,1,0.01,0.01421,0.8924
+GO:0036297,interstrand cross-link repair,2,1,0.01,0.01421,0.8924
+GO:0070987,error-free translesion synthesis,2,1,0.01,0.01421,0.8924
+GO:0090143,nucleoid organization,2,1,0.01,0.01421,0.8924
+GO:2000241,regulation of reproductive process,2,1,0.01,0.01421,0.8924
+GO:2000242,negative regulation of reproductive proc...,2,1,0.01,0.01421,0.8924
+GO:2000244,regulation of FtsZ-dependent cytokinesis,2,1,0.01,0.01421,0.8924
+GO:2000245,negative regulation of FtsZ-dependent cy...,2,1,0.01,0.01421,0.8924
 GO:0000715,nucleotide-excision repair, DNA damage r...,3,1,0.02,0.02124,1
 GO:0006294,nucleotide-excision repair, preincision ...,3,1,0.02,0.02124,1
 GO:0010948,negative regulation of cell cycle proces...,3,1,0.02,0.02124,1
 GO:0032465,regulation of cytokinesis,3,1,0.02,0.02124,1
-GO:0032466,negative regulation of cytokinesis,3,1,0.02,0.02124,1

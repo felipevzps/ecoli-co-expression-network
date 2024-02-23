@@ -9,8 +9,8 @@ GO:0009966,regulation of signal transduction,8,1,0.04,0.0374,1
 GO:0010646,regulation of cell communication,8,1,0.04,0.0374,1
 GO:0023051,regulation of signaling,8,1,0.04,0.0374,1
 GO:0009061,anaerobic respiration,67,2,0.32,0.0389,1
-GO:0015774,polysaccharide transport,9,1,0.04,0.0420,1
-GO:0033037,polysaccharide localization,9,1,0.04,0.0420,1
+GO:0015774,polysaccharide transport,9,1,0.04,0.042,1
+GO:0033037,polysaccharide localization,9,1,0.04,0.042,1
 GO:0022904,respiratory electron transport chain,77,2,0.37,0.0501,1
 GO:0090304,nucleic acid metabolic process,625,6,2.97,0.0563,1
 GO:2000143,negative regulation of DNA-templated tra...,13,1,0.06,0.0602,1

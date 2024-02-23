@@ -9,7 +9,7 @@ GO:0009111,vitamin catabolic process,8,2,0.09,0.00347,1
 GO:0042365,water-soluble vitamin catabolic process,8,2,0.09,0.00347,1
 GO:0019323,pentose catabolic process,15,2,0.17,0.01236,1
 GO:0015628,protein secretion by the type II secreti...,16,2,0.18,0.01402,1
-GO:0016052,carbohydrate catabolic process,136,5,1.57,0.01840,1
+GO:0016052,carbohydrate catabolic process,136,5,1.57,0.0184,1
 GO:0098776,protein transport across the cell outer ...,19,2,0.22,0.01956,1
 GO:0030153,bacteriocin immunity,2,1,0.02,0.02295,1
 GO:0005996,monosaccharide metabolic process,106,4,1.22,0.03202,1
@@ -35,9 +35,9 @@ GO:0019572,L-arabinose catabolic process,4,1,0.05,0.04539,1
 GO:0042245,RNA repair,4,1,0.05,0.04539,1
 GO:0046373,L-arabinose metabolic process,4,1,0.05,0.04539,1
 GO:0000160,phosphorelay signal transduction system,72,3,0.83,0.04877,1
-GO:0009306,protein secretion,31,2,0.36,0.04880,1
-GO:0035592,establishment of protein localization to...,31,2,0.36,0.04880,1
-GO:0071692,protein localization to extracellular re...,31,2,0.36,0.04880,1
+GO:0009306,protein secretion,31,2,0.36,0.0488,1
+GO:0035592,establishment of protein localization to...,31,2,0.36,0.0488,1
+GO:0071692,protein localization to extracellular re...,31,2,0.36,0.0488,1
 GO:0008643,carbohydrate transport,123,4,1.42,0.05101,1
 GO:0035556,intracellular signal transduction,74,3,0.85,0.05219,1
 GO:0006767,water-soluble vitamin metabolic process,75,3,0.87,0.05395,1

@@ -15,14 +15,14 @@ GO:0006434,seryl-tRNA aminoacylation,1,1,0.01,0.00645,1
 GO:0098655,monoatomic cation transmembrane transpor...,124,4,0.8,0.00709,1
 GO:0098660,inorganic ion transmembrane transport,139,4,0.9,0.01057,1
 GO:0034220,monoatomic ion transmembrane transport,156,4,1.01,0.01571,1
-GO:0006812,monoatomic cation transport,164,4,1.06,0.01860,1
+GO:0006812,monoatomic cation transport,164,4,1.06,0.0186,1
 GO:0016260,selenocysteine biosynthetic process,3,1,0.02,0.01923,1
 GO:0006108,malate metabolic process,4,1,0.03,0.02556,1
 GO:0007062,sister chromatid cohesion,4,1,0.03,0.02556,1
 GO:0015861,cytidine transport,4,1,0.03,0.02556,1
 GO:0015862,uridine transport,4,1,0.03,0.02556,1
 GO:0015864,pyrimidine nucleoside transport,4,1,0.03,0.02556,1
-GO:0006811,monoatomic ion transport,203,4,1.31,0.03740,1
+GO:0006811,monoatomic ion transport,203,4,1.31,0.0374,1
 GO:0016259,selenocysteine metabolic process,6,1,0.04,0.03811,1
 GO:0030261,chromosome condensation,6,1,0.04,0.03811,1
 GO:0044237,cellular metabolic process,1909,16,12.31,0.05652,1
@@ -32,14 +32,14 @@ GO:0008152,metabolic process,2116,17,13.65,0.06403,1
 GO:0006094,gluconeogenesis,13,1,0.08,0.08083,1
 GO:0019319,hexose biosynthetic process,13,1,0.08,0.08083,1
 GO:0007059,chromosome segregation,14,1,0.09,0.08679,1
-GO:0015931,nucleobase-containing compound transport,15,1,0.1,0.09270,1
+GO:0015931,nucleobase-containing compound transport,15,1,0.1,0.0927,1
 GO:0046364,monosaccharide biosynthetic process,19,1,0.12,0.11601,1
 GO:0006418,tRNA aminoacylation for protein translat...,23,1,0.15,0.13876,1
 GO:0043039,tRNA aminoacylation,23,1,0.15,0.13876,1
 GO:0043038,amino acid activation,24,1,0.15,0.14435,1
 GO:0009070,serine family amino acid biosynthetic pr...,26,1,0.17,0.15545,1
 GO:0006090,pyruvate metabolic process,32,1,0.21,0.18792,1
-GO:1901264,carbohydrate derivative transport,36,1,0.23,0.20890,1
+GO:1901264,carbohydrate derivative transport,36,1,0.23,0.2089,1
 GO:0009987,cellular process,2728,19,17.59,0.23099,1
 GO:0006006,glucose metabolic process,41,1,0.26,0.23441,1
 GO:0009069,serine family amino acid metabolic proce...,44,1,0.28,0.24934,1
