@@ -24,8 +24,8 @@ GO:0055080,monoatomic cation homeostasis,74,13,0.63,2.2e-15,0
 GO:0019725,cellular homeostasis,98,14,0.83,2.6e-15,0
 GO:0033212,iron import into cell,30,10,0.25,6.7e-15,0
 GO:0042592,homeostatic process,105,14,0.89,7.2e-15,0
-GO:0009713,catechol-containing compound biosyntheti...,8,7,0.07,1.0e-14,0
-GO:0046189,phenol-containing compound biosynthetic ...,8,7,0.07,1.0e-14,0
+GO:0009713,catechol-containing compound biosyntheti...,8,7,0.07,1e-14,0
+GO:0046189,phenol-containing compound biosynthetic ...,8,7,0.07,1e-14,0
 GO:0055082,intracellular chemical homeostasis,84,13,0.71,1.3e-14,0
 GO:0048878,chemical homeostasis,91,13,0.77,3.8e-14,0
 GO:0019290,siderophore biosynthetic process,9,7,0.08,4.5e-14,0
@@ -36,13 +36,13 @@ GO:0051649,establishment of localization in cell,46,10,0.39,8.4e-13,0
 GO:0030001,metal ion transport,116,13,0.98,9.8e-13,0
 GO:0019184,nonribosomal peptide biosynthetic proces...,12,7,0.1,9.8e-13,0
 GO:0044550,secondary metabolite biosynthetic proces...,12,7,0.1,9.8e-13,0
-GO:0015891,siderophore transport,10,6,0.08,4.0e-11,0
-GO:0006812,monoatomic cation transport,164,13,1.39,9.0e-11,0
+GO:0015891,siderophore transport,10,6,0.08,4e-11,0
+GO:0006812,monoatomic cation transport,164,13,1.39,9e-11,0
 GO:0015685,ferric-enterobactin import into cell,6,5,0.05,1.7e-10,0
 GO:0006811,monoatomic ion transport,203,13,1.72,1.4e-09,0
 GO:1901617,organic hydroxy compound biosynthetic pr...,39,7,0.33,1.6e-08,0
 GO:0051641,cellular localization,128,10,1.09,3.2e-08,0
-GO:0044718,siderophore transmembrane transport,6,4,0.05,6.0e-08,0
+GO:0044718,siderophore transmembrane transport,6,4,0.05,6e-08,0
 GO:0098657,import into cell,137,10,1.16,6.1e-08,0
 GO:1901615,organic hydroxy compound metabolic proce...,123,8,1.04,4.4e-06,3e-04
 GO:0034755,iron ion transmembrane transport,25,4,0.21,4.5e-05,0.0028

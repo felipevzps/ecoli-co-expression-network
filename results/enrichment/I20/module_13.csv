@@ -1,7 +1,7 @@
 GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
 GO:0015871,choline transport,4,1,0.01,0.0054,1
 GO:0010041,response to iron(III) ion,6,1,0.01,0.0081,1
-GO:0050896,response to stimulus,909,4,1.23,0.0090,1
+GO:0050896,response to stimulus,909,4,1.23,0.009,1
 GO:0010039,response to iron ion,8,1,0.01,0.0108,1
 GO:0031460,glycine betaine transport,10,1,0.01,0.0135,1
 GO:0015697,quaternary ammonium group transport,11,1,0.01,0.0149,1
@@ -26,7 +26,7 @@ GO:0140115,export across plasma membrane,29,1,0.04,0.0388,1
 GO:0015695,organic cation transport,30,1,0.04,0.0401,1
 GO:0006974,DNA damage response,262,2,0.36,0.0419,1
 GO:0006970,response to osmotic stress,34,1,0.05,0.0454,1
-GO:1901264,carbohydrate derivative transport,36,1,0.05,0.0480,1
+GO:1901264,carbohydrate derivative transport,36,1,0.05,0.048,1
 GO:0042908,xenobiotic transport,37,1,0.05,0.0493,1
 GO:0009268,response to pH,38,1,0.05,0.0506,1
 GO:0009410,response to xenobiotic stimulus,48,1,0.07,0.0636,1
@@ -47,5 +47,5 @@ GO:0071702,organic substance transport,446,2,0.61,0.1112,1
 GO:0005976,polysaccharide metabolic process,98,1,0.13,0.1266,1
 GO:0044010,single-species biofilm formation,99,1,0.13,0.1279,1
 GO:0051703,biological process involved in intraspec...,99,1,0.13,0.1279,1
-GO:0016051,carbohydrate biosynthetic process,104,1,0.14,0.1340,1
+GO:0016051,carbohydrate biosynthetic process,104,1,0.14,0.134,1
 GO:0042710,biofilm formation,109,1,0.15,0.1401,1

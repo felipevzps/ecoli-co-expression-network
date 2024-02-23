@@ -9,18 +9,18 @@ GO:0042451,purine nucleoside biosynthetic process,10,4,0.03,1.4e-08,0
 GO:0046129,purine ribonucleoside biosynthetic proce...,10,4,0.03,1.4e-08,0
 GO:0046128,purine ribonucleoside metabolic process,11,4,0.04,2.2e-08,0
 GO:0009114,hypoxanthine catabolic process,3,3,0.01,2.8e-08,0
-GO:0043101,purine-containing compound salvage,15,4,0.05,9.0e-08,0
+GO:0043101,purine-containing compound salvage,15,4,0.05,9e-08,0
 GO:0042278,purine nucleoside metabolic process,16,4,0.05,1.2e-07,0
 GO:0009163,nucleoside biosynthetic process,17,4,0.06,1.6e-07,0
 GO:0034404,nucleobase-containing small molecule bio...,17,4,0.06,1.6e-07,0
 GO:0042455,ribonucleoside biosynthetic process,17,4,0.06,1.6e-07,0
-GO:1901659,glycosyl compound biosynthetic process,18,4,0.06,2.0e-07,0
+GO:1901659,glycosyl compound biosynthetic process,18,4,0.06,2e-07,0
 GO:0046100,hypoxanthine metabolic process,5,3,0.02,2.8e-07,0
 GO:0072523,purine-containing compound catabolic pro...,20,4,0.07,3.2e-07,1e-04
 GO:0009119,ribonucleoside metabolic process,23,4,0.08,5.8e-07,1e-04
 GO:0009116,nucleoside metabolic process,29,4,0.1,1.5e-06,2e-04
-GO:0043094,cellular metabolic compound salvage,31,4,0.11,2.0e-06,3e-04
-GO:1901657,glycosyl compound metabolic process,31,4,0.11,2.0e-06,3e-04
+GO:0043094,cellular metabolic compound salvage,31,4,0.11,2e-06,3e-04
+GO:1901657,glycosyl compound metabolic process,31,4,0.11,2e-06,3e-04
 GO:0046700,heterocycle catabolic process,106,5,0.36,1.2e-05,0.0015
 GO:0044270,cellular nitrogen compound catabolic pro...,108,5,0.37,1.3e-05,0.0016
 GO:0072521,purine-containing compound metabolic pro...,109,5,0.37,1.4e-05,0.0016

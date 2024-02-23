@@ -1,7 +1,7 @@
 GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
-GO:0070813,hydrogen sulfide metabolic process,6,6,0.04,6.0e-14,0
-GO:0070814,hydrogen sulfide biosynthetic process,6,6,0.04,6.0e-14,0
-GO:0000103,sulfate assimilation,9,6,0.06,5.0e-12,0
+GO:0070813,hydrogen sulfide metabolic process,6,6,0.04,6e-14,0
+GO:0070814,hydrogen sulfide biosynthetic process,6,6,0.04,6e-14,0
+GO:0000103,sulfate assimilation,9,6,0.06,5e-12,0
 GO:0006790,sulfur compound metabolic process,117,10,0.83,1.6e-09,0
 GO:0044272,sulfur compound biosynthetic process,64,8,0.46,5.2e-09,0
 GO:0015709,thiosulfate transport,5,4,0.04,9.5e-09,0
@@ -9,8 +9,8 @@ GO:0008272,sulfate transport,6,4,0.04,2.8e-08,0
 GO:1902358,sulfate transmembrane transport,6,4,0.04,2.8e-08,0
 GO:0006534,cysteine metabolic process,20,5,0.14,1.6e-07,1e-04
 GO:0019344,cysteine biosynthetic process,12,4,0.09,9.1e-07,3e-04
-GO:0000096,sulfur amino acid metabolic process,32,5,0.23,2.0e-06,5e-04
-GO:0009069,serine family amino acid metabolic proce...,44,5,0.31,1.0e-05,0.0024
+GO:0000096,sulfur amino acid metabolic process,32,5,0.23,2e-06,5e-04
+GO:0009069,serine family amino acid metabolic proce...,44,5,0.31,1e-05,0.0024
 GO:0098661,inorganic anion transmembrane transport,23,4,0.16,1.5e-05,0.0033
 GO:0072348,sulfur compound transport,24,4,0.17,1.9e-05,0.0039
 GO:0000097,sulfur amino acid biosynthetic process,25,4,0.18,2.2e-05,0.0042

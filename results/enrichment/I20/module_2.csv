@@ -15,8 +15,8 @@ GO:0042402,cellular biogenic amine catabolic proces...,28,10,2.37,5.2e-05,0.0107
 GO:0072329,monocarboxylic acid catabolic process,92,20,7.78,5.2e-05,0.0107
 GO:0009310,amine catabolic process,29,10,2.45,7.4e-05,0.0128
 GO:0006635,fatty acid beta-oxidation,19,8,1.61,7.7e-05,0.0128
-GO:0045226,extracellular polysaccharide biosyntheti...,24,9,2.03,8.0e-05,0.0128
-GO:0046379,extracellular polysaccharide metabolic p...,24,9,2.03,8.0e-05,0.0128
+GO:0045226,extracellular polysaccharide biosyntheti...,24,9,2.03,8e-05,0.0128
+GO:0046379,extracellular polysaccharide metabolic p...,24,9,2.03,8e-05,0.0128
 GO:0019395,fatty acid oxidation,20,8,1.69,0.00012,0.0173
 GO:0034440,lipid oxidation,20,8,1.69,0.00012,0.0173
 GO:0006575,cellular modified amino acid metabolic p...,50,13,4.23,0.00017,0.0234
@@ -42,7 +42,7 @@ GO:0006631,fatty acid metabolic process,66,13,5.58,0.00286,0.2066
 GO:0042219,cellular modified amino acid catabolic p...,13,5,1.1,0.00303,0.2135
 GO:0031589,cell-substrate adhesion,38,9,3.21,0.00349,0.2401
 GO:0006629,lipid metabolic process,171,25,14.45,0.00393,0.264
-GO:0046395,carboxylic acid catabolic process,181,26,15.3,0.00420,0.2758
+GO:0046395,carboxylic acid catabolic process,181,26,15.3,0.0042,0.2758
 GO:0007155,cell adhesion,47,10,3.97,0.00486,0.312
 GO:0032787,monocarboxylic acid metabolic process,221,30,18.68,0.00508,0.316
 GO:0046296,glycolate catabolic process,5,3,0.42,0.00525,0.316

@@ -6,14 +6,14 @@ GO:0009628,response to abiotic stimulus,242,10,0.99,6.7e-10,0
 GO:0043335,protein unfolding,7,4,0.03,5.5e-09,0
 GO:0051604,protein maturation,83,7,0.34,7.7e-09,0
 GO:0006457,protein folding,50,6,0.2,1.5e-08,0
-GO:0019538,protein metabolic process,355,10,1.45,3.0e-08,0
+GO:0019538,protein metabolic process,355,10,1.45,3e-08,0
 GO:0042026,protein refolding,11,4,0.04,5.1e-08,0
 GO:0006950,response to stress,527,11,2.15,5.5e-08,0
 GO:0051084,'de novo' post-translational protein fol...,7,3,0.03,1.8e-06,4e-04
 GO:0051085,chaperone cofactor-dependent protein ref...,7,3,0.03,1.8e-06,4e-04
 GO:0006458,'de novo' protein folding,8,3,0.03,2.9e-06,6e-04
 GO:0051603,proteolysis involved in protein cataboli...,11,3,0.04,8.4e-06,0.0017
-GO:0050896,response to stimulus,909,11,3.7,2.0e-05,0.0039
+GO:0050896,response to stimulus,909,11,3.7,2e-05,0.0039
 GO:0033554,cellular response to stress,381,8,1.55,2.3e-05,0.0042
 GO:0030163,protein catabolic process,16,3,0.07,2.8e-05,0.0048
 GO:0030164,protein denaturation,3,2,0.01,4.6e-05,0.0074
@@ -28,7 +28,7 @@ GO:0006986,response to unfolded protein,1,1,0,0.00407,0.3948
 GO:0034620,cellular response to unfolded protein,1,1,0,0.00407,0.3948
 GO:0061136,regulation of proteasomal protein catabo...,1,1,0,0.00407,0.3948
 GO:1901800,positive regulation of proteasomal prote...,1,1,0,0.00407,0.3948
-GO:0006807,nitrogen compound metabolic process,1513,11,6.16,0.00410,0.3948
+GO:0006807,nitrogen compound metabolic process,1513,11,6.16,0.0041,0.3948
 GO:0010467,gene expression,617,7,2.51,0.00504,0.4697
 GO:0006259,DNA metabolic process,200,4,0.81,0.00662,0.5977
 GO:0010498,proteasomal protein catabolic process,2,1,0.01,0.00813,0.6181

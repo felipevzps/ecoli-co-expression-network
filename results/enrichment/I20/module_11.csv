@@ -15,7 +15,7 @@ GO:0022402,cell cycle process,49,3,0.42,0.00769,1
 GO:0034614,cellular response to reactive oxygen spe...,16,2,0.14,0.00772,1
 GO:0062197,cellular response to chemical stress,50,3,0.42,0.00814,1
 GO:0050789,regulation of biological process,565,10,4.79,0.01264,1
-GO:0000918,division septum site selection,2,1,0.02,0.01690,1
+GO:0000918,division septum site selection,2,1,0.02,0.0169,1
 GO:0006813,potassium ion transport,24,2,0.2,0.01702,1
 GO:0050794,regulation of cellular process,510,9,4.33,0.01943,1
 GO:0034599,cellular response to oxidative stress,28,2,0.24,0.02284,1

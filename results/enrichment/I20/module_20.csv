@@ -12,10 +12,10 @@ GO:0009438,methylglyoxal metabolic process,9,1,0.04,0.036,1
 GO:0070301,cellular response to hydrogen peroxide,9,1,0.04,0.036,1
 GO:0042182,ketone catabolic process,11,1,0.04,0.044,1
 GO:0010035,response to inorganic substance,85,2,0.35,0.045,1
-GO:0009314,response to radiation,90,2,0.37,0.050,1
+GO:0009314,response to radiation,90,2,0.37,0.05,1
 GO:0042559,pteridine-containing compound biosynthet...,13,1,0.05,0.052,1
 GO:0006281,DNA repair,95,2,0.39,0.055,1
-GO:0006730,one-carbon metabolic process,15,1,0.06,0.060,1
+GO:0006730,one-carbon metabolic process,15,1,0.06,0.06,1
 GO:0034614,cellular response to reactive oxygen spe...,16,1,0.07,0.063,1
 GO:0006304,DNA modification,17,1,0.07,0.067,1
 GO:0046185,aldehyde catabolic process,17,1,0.07,0.067,1
@@ -25,9 +25,9 @@ GO:0042558,pteridine-containing compound metabolic ...,20,1,0.08,0.079,1
 GO:0042542,response to hydrogen peroxide,21,1,0.09,0.082,1
 GO:0009416,response to light stimulus,22,1,0.09,0.086,1
 GO:0090304,nucleic acid metabolic process,625,5,2.55,0.089,1
-GO:0000027,ribosomal large subunit assembly,23,1,0.09,0.090,1
-GO:0042273,ribosomal large subunit biogenesis,23,1,0.09,0.090,1
-GO:1901698,response to nitrogen compound,23,1,0.09,0.090,1
+GO:0000027,ribosomal large subunit assembly,23,1,0.09,0.09,1
+GO:0042273,ribosomal large subunit biogenesis,23,1,0.09,0.09,1
+GO:1901698,response to nitrogen compound,23,1,0.09,0.09,1
 GO:0032392,DNA geometric change,24,1,0.1,0.094,1
 GO:0032508,DNA duplex unwinding,24,1,0.1,0.094,1
 GO:0006996,organelle organization,135,2,0.55,0.102,1
@@ -37,12 +37,12 @@ GO:0065003,protein-containing complex assembly,147,2,0.6,0.118,1
 GO:0071103,DNA conformation change,31,1,0.13,0.119,1
 GO:0071214,cellular response to abiotic stimulus,32,1,0.13,0.123,1
 GO:0104004,cellular response to environmental stimu...,32,1,0.13,0.123,1
-GO:0000302,response to reactive oxygen species,34,1,0.14,0.130,1
+GO:0000302,response to reactive oxygen species,34,1,0.14,0.13,1
 GO:0006400,tRNA modification,37,1,0.15,0.141,1
 GO:0046483,heterocycle metabolic process,945,6,3.85,0.153,1
 GO:0051289,protein homotetramerization,41,1,0.17,0.155,1
 GO:0051262,protein tetramerization,42,1,0.17,0.159,1
-GO:0006725,cellular aromatic compound metabolic pro...,956,6,3.89,0.160,1
+GO:0006725,cellular aromatic compound metabolic pro...,956,6,3.89,0.16,1
 GO:0043933,protein-containing complex organization,178,2,0.73,0.161,1
 GO:0022618,protein-RNA complex assembly,43,1,0.18,0.162,1
 GO:0071826,protein-RNA complex organization,43,1,0.18,0.162,1

@@ -3,13 +3,13 @@ GO:0022904,respiratory electron transport chain,77,17,0.73,3.3e-21,0
 GO:0022900,electron transport chain,115,17,1.09,5.2e-18,0
 GO:0045333,cellular respiration,120,17,1.14,1.1e-17,0
 GO:0015980,energy derivation by oxidation of organi...,140,17,1.33,1.7e-16,0
-GO:0015988,energy coupled proton transmembrane tran...,9,8,0.09,2.0e-16,0
-GO:0015990,electron transport coupled proton transp...,9,8,0.09,2.0e-16,0
+GO:0015988,energy coupled proton transmembrane tran...,9,8,0.09,2e-16,0
+GO:0015990,electron transport coupled proton transp...,9,8,0.09,2e-16,0
 GO:0009060,aerobic respiration,58,13,0.55,4.8e-16,0
 GO:0006119,oxidative phosphorylation,21,9,0.2,4.2e-14,0
 GO:0006091,generation of precursor metabolites and ...,202,17,1.92,9.4e-14,0
 GO:0042773,ATP synthesis coupled electron transport,9,6,0.09,3.4e-11,0
-GO:1902600,proton transmembrane transport,55,8,0.52,2.0e-08,0
+GO:1902600,proton transmembrane transport,55,8,0.52,2e-08,0
 GO:0019646,aerobic electron transport chain,13,4,0.12,4.4e-06,0.0011
 GO:0098662,inorganic cation transmembrane transport,120,8,1.14,9.4e-06,0.0021
 GO:0098655,monoatomic cation transmembrane transpor...,124,8,1.18,1.2e-05,0.0025
@@ -21,19 +21,19 @@ GO:0044237,cellular metabolic process,1909,25,18.14,0.00334,0.5079
 GO:0008152,metabolic process,2116,26,20.11,0.00645,0.8853
 GO:0006783,heme biosynthetic process,14,2,0.13,0.00739,0.8853
 GO:0046148,pigment biosynthetic process,14,2,0.13,0.00739,0.8853
-GO:0006434,seryl-tRNA aminoacylation,1,1,0.01,0.00950,0.8853
-GO:0032048,cardiolipin metabolic process,1,1,0.01,0.00950,0.8853
-GO:0032049,cardiolipin biosynthetic process,1,1,0.01,0.00950,0.8853
-GO:0048033,heme O metabolic process,1,1,0.01,0.00950,0.8853
-GO:0048034,heme O biosynthetic process,1,1,0.01,0.00950,0.8853
-GO:0070453,regulation of heme biosynthetic process,1,1,0.01,0.00950,0.8853
-GO:1901401,regulation of tetrapyrrole metabolic pro...,1,1,0.01,0.00950,0.8853
-GO:1901463,regulation of tetrapyrrole biosynthetic ...,1,1,0.01,0.00950,0.8853
-GO:1902280,regulation of RNA helicase activity,1,1,0.01,0.00950,0.8853
+GO:0006434,seryl-tRNA aminoacylation,1,1,0.01,0.0095,0.8853
+GO:0032048,cardiolipin metabolic process,1,1,0.01,0.0095,0.8853
+GO:0032049,cardiolipin biosynthetic process,1,1,0.01,0.0095,0.8853
+GO:0048033,heme O metabolic process,1,1,0.01,0.0095,0.8853
+GO:0048034,heme O biosynthetic process,1,1,0.01,0.0095,0.8853
+GO:0070453,regulation of heme biosynthetic process,1,1,0.01,0.0095,0.8853
+GO:1901401,regulation of tetrapyrrole metabolic pro...,1,1,0.01,0.0095,0.8853
+GO:1901463,regulation of tetrapyrrole biosynthetic ...,1,1,0.01,0.0095,0.8853
+GO:1902280,regulation of RNA helicase activity,1,1,0.01,0.0095,0.8853
 GO:0006779,porphyrin-containing compound biosynthet...,17,2,0.16,0.01085,0.9796
-GO:0033014,tetrapyrrole biosynthetic process,22,2,0.21,0.01790,1
-GO:0042168,heme metabolic process,22,2,0.21,0.01790,1
-GO:0042440,pigment metabolic process,22,2,0.21,0.01790,1
+GO:0033014,tetrapyrrole biosynthetic process,22,2,0.21,0.0179,1
+GO:0042168,heme metabolic process,22,2,0.21,0.0179,1
+GO:0042440,pigment metabolic process,22,2,0.21,0.0179,1
 GO:0034635,glutathione transport,2,1,0.02,0.01892,1
 GO:0034775,glutathione transmembrane transport,2,1,0.02,0.01892,1
 GO:0051095,regulation of helicase activity,2,1,0.02,0.01892,1
@@ -41,11 +41,11 @@ GO:0006778,porphyrin-containing compound metabolic ...,24,2,0.23,0.02113,1
 GO:0000967,rRNA 5'-end processing,3,1,0.03,0.02825,1
 GO:0016260,selenocysteine biosynthetic process,3,1,0.03,0.02825,1
 GO:0043462,regulation of ATP-dependent activity,3,1,0.03,0.02825,1
-GO:0033013,tetrapyrrole metabolic process,29,2,0.28,0.03020,1
-GO:0000966,RNA 5'-end processing,4,1,0.04,0.03750,1
-GO:0006108,malate metabolic process,4,1,0.04,0.03750,1
-GO:0006655,phosphatidylglycerol biosynthetic proces...,4,1,0.04,0.03750,1
-GO:0007062,sister chromatid cohesion,4,1,0.04,0.03750,1
-GO:0015861,cytidine transport,4,1,0.04,0.03750,1
-GO:0015862,uridine transport,4,1,0.04,0.03750,1
-GO:0015864,pyrimidine nucleoside transport,4,1,0.04,0.03750,1
+GO:0033013,tetrapyrrole metabolic process,29,2,0.28,0.0302,1
+GO:0000966,RNA 5'-end processing,4,1,0.04,0.0375,1
+GO:0006108,malate metabolic process,4,1,0.04,0.0375,1
+GO:0006655,phosphatidylglycerol biosynthetic proces...,4,1,0.04,0.0375,1
+GO:0007062,sister chromatid cohesion,4,1,0.04,0.0375,1
+GO:0015861,cytidine transport,4,1,0.04,0.0375,1
+GO:0015862,uridine transport,4,1,0.04,0.0375,1
+GO:0015864,pyrimidine nucleoside transport,4,1,0.04,0.0375,1

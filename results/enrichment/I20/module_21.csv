@@ -11,28 +11,28 @@ GO:0015980,energy derivation by oxidation of organi...,140,5,0.57,0.00014,0.0409
 GO:0031668,cellular response to extracellular stimu...,74,4,0.3,0.00016,0.0409
 GO:0071496,cellular response to external stimulus,74,4,0.3,0.00016,0.0409
 GO:0031667,response to nutrient levels,76,4,0.31,0.00017,0.0409
-GO:0009991,response to extracellular stimulus,109,4,0.44,0.00070,0.1465
+GO:0009991,response to extracellular stimulus,109,4,0.44,7e-04,0.1465
 GO:0019645,anaerobic electron transport chain,46,3,0.19,0.00071,0.1465
 GO:0006091,generation of precursor metabolites and ...,202,5,0.82,0.00077,0.1483
 GO:0019646,aerobic electron transport chain,13,2,0.05,0.00116,0.2095
 GO:0009061,anaerobic respiration,67,3,0.27,0.00214,0.3637
 GO:0006119,oxidative phosphorylation,21,2,0.09,0.00306,0.4911
-GO:0007154,cell communication,165,4,0.67,0.00330,0.5018
+GO:0007154,cell communication,165,4,0.67,0.0033,0.5018
 GO:0009605,response to external stimulus,171,4,0.7,0.00376,0.5345
 GO:0034059,response to anoxia,1,1,0,0.00407,0.5345
 GO:0071454,cellular response to anoxia,1,1,0,0.00407,0.5345
 GO:0036293,response to decreased oxygen levels,2,1,0.01,0.00813,0.9786
 GO:0036294,cellular response to decreased oxygen le...,2,1,0.01,0.00813,0.9786
-GO:0071453,cellular response to oxygen levels,4,1,0.02,0.01620,1
+GO:0071453,cellular response to oxygen levels,4,1,0.02,0.0162,1
 GO:0006855,xenobiotic transmembrane transport,5,1,0.02,0.02021,1
 GO:0070482,response to oxygen levels,5,1,0.02,0.02021,1
 GO:0009060,aerobic respiration,58,2,0.24,0.02215,1
-GO:0051084,'de novo' post-translational protein fol...,7,1,0.03,0.02820,1
-GO:0051085,chaperone cofactor-dependent protein ref...,7,1,0.03,0.02820,1
+GO:0051084,'de novo' post-translational protein fol...,7,1,0.03,0.0282,1
+GO:0051085,chaperone cofactor-dependent protein ref...,7,1,0.03,0.0282,1
 GO:0006458,'de novo' protein folding,8,1,0.03,0.03216,1
 GO:0016036,cellular response to phosphate starvatio...,8,1,0.03,0.03216,1
 GO:0016311,dephosphorylation,8,1,0.03,0.03216,1
-GO:0051604,protein maturation,83,2,0.34,0.04310,1
+GO:0051604,protein maturation,83,2,0.34,0.0431,1
 GO:0042026,protein refolding,11,1,0.04,0.04398,1
 GO:0051716,cellular response to stimulus,522,5,2.13,0.04573,1
 GO:0015721,bile acid and bile salt transport,12,1,0.05,0.04789,1
