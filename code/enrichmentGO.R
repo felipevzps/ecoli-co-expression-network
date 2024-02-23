@@ -69,6 +69,11 @@ anot_modules <- function(Module_no, results_path){
   #table <- GenTable(GOdata, Classic = resultClassic, Weight01 = resultsWeight01, topNodes = length(allGO), orderBy = 'Classic')
   table <- GenTable(GOdata, Classic = Classic, topNodes = length(allGO), orderBy = 'Classic')
   
+  # Replace the values "< 1e-30" with a very small number ( < 1e-30 cannot be corrected with BH)
+  table$Classic[table$Classic == "< 1e-30"] <- 1e-30
+  # Convert the Classic column to numeric
+  table$Classic <- as.numeric(table$Classic)
+  
   # Filter not significant values for classic algorithm
   ####table1 <- filter(table, Classic < 0.05 )
   
@@ -109,8 +114,12 @@ anot_modules <- function(Module_no, results_path){
   ggdata$Term <- factor(ggdata$Term, levels = rev(ggdata$Term)) # fixes order
   
   # Adicionar 0.001 para o log10(1) ser diferente de 0
-  ggdata$Classic <- as.numeric(ggdata$Classic) + 0.000001
+  ## ggdata$Classic <- as.numeric(ggdata$Classic) + 0.000001 # dont need this - for ecoli
   ggdata
+  
+  # Calculate the values for the division points
+  max_y <- max(-log10(ggdata$Classic))  # Calculate the maximum value on the y-axis
+  div_points <- quantile(-log10(ggdata$Classic), probs = c(0.95, 0.5, 0.05))  # Calculate quantiles for dividing the plot
   
   ggplot(ggdata,
          aes(x = ggdata$Term, y = -log10(Classic), size = -log10(Classic), fill = -log10(Classic))) +
@@ -124,9 +133,12 @@ anot_modules <- function(Module_no, results_path){
     labs(
       title = module,
       subtitle = 'Top 30 terms ordered by Fisher Exact p-value',
-      caption = 'Cut-off lines drawn at equivalents of p=0.05, p=0.01, p=0.001') +
+      #caption = 'Cut-off lines drawn at equivalents of p=0.05, p=0.01, p=0.001') +
+      caption = paste('Cut-off lines drawn at equivalents of p =', round(div_points[3], 1), ',', round(div_points[2], 1), ',', round(div_points[1], 1))) +
     
-    geom_hline(yintercept = c(-log10(0.05), -log10(0.01), -log10(0.001)),
+    # Draw horizontal lines
+    #geom_hline(yintercept = c(-log10(0.05), -log10(0.01), -log10(0.001)),
+    geom_hline(yintercept = div_points,
                linetype = c("dotted", "longdash", "solid"),
                colour = c("black", "black", "black"),
                size = c(0.5, 1.5, 3)) +
@@ -163,7 +175,8 @@ anot_modules <- function(Module_no, results_path){
                   width = 12)
 }
 
-for (i in 1:dim(table(dynamicMods))){ 
+#for (i in 1:dim(table(dynamicMods))){
+for (i in 1:25){ # only for the first 25 modules
   if(number.clusters[i,1]>=4){
     print(i)
     anot_modules(i,results_path)
