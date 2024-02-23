@@ -16,16 +16,16 @@ Almost all genes are part of a single connected component (size 3959). As inflat
 Below, I present the Gene Ontology (GO) enrichment analysis of a highly consistent cluster/module ([performed with this script in R](https://github.com/felipevzps/ecoli-co-expression-network/blob/main/code/enrichmentGO.R)). This module includes genes associated with motility, such as flagellum operons and chemotaxis genes. These findings suggest functional connectivity to motility, providing valuable insights and novel predictions for genes with unknown functions within this module.
 
 <p float="left">
-  <img src="https://github.com/felipevzps/ecoli-co-expression-network/blob/main/results/enrichment/I14/module_8_GO_30Terms_Fisher.png" width="500" />
-  <img src="https://github.com/felipevzps/ecoli-co-expression-network/blob/main/results/enrichment/I60/module_6_GO_30Terms_Fisher.png" width="500" />
+  <img src="https://github.com/felipevzps/ecoli-co-expression-network/blob/main/results/enrichment/I14/module_8_GO_30Terms_Fisher.png" width="470" />
+  <img src="https://github.com/felipevzps/ecoli-co-expression-network/blob/main/results/enrichment/I60/module_6_GO_30Terms_Fisher.png" width="470" />
 </p>
 
 Another interesting module includes genes associated with the SOS response, triggered by DNA damage. At lower inflation values, this module also includes numerous prophage genes. However, at higher inflation levels, all prophage genes are separated, leaving behind a core group of genes exclusively involved in the SOS response and DNA repair. 
 >As suggested by the authors, The set of prophage genes which were initially in the cluster could also merit further analysis, since silent bacteriophage genes are known to be induced by the SOS response.
 
 <p float="left">
-  <img src="https://github.com/felipevzps/ecoli-co-expression-network/blob/main/results/enrichment/I14/module_13_GO_30Terms_Fisher.png" width="500" />
-  <img src="https://github.com/felipevzps/ecoli-co-expression-network/blob/main/results/enrichment/I60/module_17_GO_30Terms_Fisher.png" width="500" />
+  <img src="https://github.com/felipevzps/ecoli-co-expression-network/blob/main/results/enrichment/I14/module_13_GO_30Terms_Fisher.png" width="470" />
+  <img src="https://github.com/felipevzps/ecoli-co-expression-network/blob/main/results/enrichment/I60/module_17_GO_30Terms_Fisher.png" width="470" />
 </p>
 
 ## References
