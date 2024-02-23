@@ -2,7 +2,7 @@ GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
 GO:0005977,glycogen metabolic process,9,4,0.09,1.1e-06,0.0016
 GO:0006112,energy reserve metabolic process,9,4,0.09,1.1e-06,0.0016
 GO:0005978,glycogen biosynthetic process,4,3,0.04,3.8e-06,0.0037
-GO:0006797,polyphosphate metabolic process,2,2,0.02,0.00010,0.0636
+GO:0006797,polyphosphate metabolic process,2,2,0.02,1e-04,0.0636
 GO:0044042,glucan metabolic process,26,4,0.26,0.00011,0.0636
 GO:0009250,glucan biosynthetic process,17,3,0.17,0.00059,0.2841
 GO:0005976,polysaccharide metabolic process,98,5,1,0.00271,1
@@ -14,8 +14,8 @@ GO:0006741,NADP biosynthetic process,1,1,0.01,0.01018,1
 GO:0006798,polyphosphate catabolic process,1,1,0.01,0.01018,1
 GO:0006799,polyphosphate biosynthetic process,1,1,0.01,0.01018,1
 GO:0071266,'de novo' L-methionine biosynthetic proc...,1,1,0.01,0.01018,1
-GO:0015980,energy derivation by oxidation of organi...,140,5,1.43,0.01230,1
-GO:0072525,pyridine-containing compound biosyntheti...,19,2,0.19,0.01540,1
+GO:0015980,energy derivation by oxidation of organi...,140,5,1.43,0.0123,1
+GO:0072525,pyridine-containing compound biosyntheti...,19,2,0.19,0.0154,1
 GO:0016051,carbohydrate biosynthetic process,104,4,1.06,0.01982,1
 GO:0000820,regulation of glutamine family amino aci...,2,1,0.02,0.02027,1
 GO:0015969,guanosine tetraphosphate metabolic proce...,2,1,0.02,0.02027,1
@@ -27,7 +27,7 @@ GO:0016310,phosphorylation,163,5,1.66,0.02254,1
 GO:0072522,purine-containing compound biosynthetic ...,63,3,0.64,0.02509,1
 GO:0009073,aromatic amino acid family biosynthetic ...,25,2,0.25,0.02601,1
 GO:0046496,nicotinamide nucleotide metabolic proces...,25,2,0.25,0.02601,1
-GO:0019362,pyridine nucleotide metabolic process,26,2,0.26,0.02800,1
+GO:0019362,pyridine nucleotide metabolic process,26,2,0.26,0.028,1
 GO:0000920,septum digestion after cytokinesis,3,1,0.03,0.03025,1
 GO:0002943,tRNA dihydrouridine synthesis,3,1,0.03,0.03025,1
 GO:0008153,para-aminobenzoic acid biosynthetic proc...,3,1,0.03,0.03025,1

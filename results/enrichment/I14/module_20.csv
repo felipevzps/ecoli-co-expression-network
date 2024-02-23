@@ -1,7 +1,7 @@
 GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
 GO:0006054,N-acetylneuraminate metabolic process,9,7,0.05,1.1e-15,0
 GO:0019262,N-acetylneuraminate catabolic process,9,7,0.05,1.1e-15,0
-GO:0046348,amino sugar catabolic process,14,7,0.08,1.0e-13,0
+GO:0046348,amino sugar catabolic process,14,7,0.08,1e-13,0
 GO:0006040,amino sugar metabolic process,22,7,0.12,4.9e-12,0
 GO:1901136,carbohydrate derivative catabolic proces...,62,7,0.34,1.3e-08,0
 GO:0046395,carboxylic acid catabolic process,181,8,0.98,1.5e-06,7e-04
@@ -19,18 +19,18 @@ GO:1901575,organic substance catabolic process,491,9,2.67,0.00035,0.0595
 GO:1901072,glucosamine-containing compound cataboli...,6,2,0.03,0.00041,0.0658
 GO:0009056,catabolic process,506,9,2.75,0.00044,0.0669
 GO:1901071,glucosamine-containing compound metaboli...,7,2,0.04,0.00057,0.0823
-GO:1901135,carbohydrate derivative metabolic proces...,337,7,1.83,0.00110,0.1513
+GO:1901135,carbohydrate derivative metabolic proces...,337,7,1.83,0.0011,0.1513
 GO:0019752,carboxylic acid metabolic process,483,8,2.62,0.00187,0.2456
 GO:0043436,oxoacid metabolic process,512,8,2.78,0.00275,0.3454
 GO:0006082,organic acid metabolic process,525,8,2.85,0.00325,0.3912
-GO:0046942,carboxylic acid transport,138,4,0.75,0.00540,0.5163
+GO:0046942,carboxylic acid transport,138,4,0.75,0.0054,0.5163
 GO:0006053,N-acetylmannosamine catabolic process,1,1,0.01,0.00543,0.5163
 GO:0036088,D-serine catabolic process,1,1,0.01,0.00543,0.5163
 GO:0046346,mannosamine catabolic process,1,1,0.01,0.00543,0.5163
 GO:0051410,detoxification of nitrogen compound,1,1,0.01,0.00543,0.5163
 GO:0070178,D-serine metabolic process,1,1,0.01,0.00543,0.5163
 GO:0015849,organic acid transport,139,4,0.75,0.00554,0.5163
-GO:0005975,carbohydrate metabolic process,340,6,1.85,0.00660,0.5959
+GO:0005975,carbohydrate metabolic process,340,6,1.85,0.0066,0.5959
 GO:0015711,organic anion transport,155,4,0.84,0.00816,0.7144
 GO:0006974,DNA damage response,262,5,1.42,0.01031,0.876
 GO:0042942,D-serine transport,2,1,0.01,0.01083,0.8939

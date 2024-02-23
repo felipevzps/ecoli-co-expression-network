@@ -28,9 +28,9 @@ GO:0009247,glycolipid biosynthetic process,25,1,0.08,0.0818,1
 GO:0046467,membrane lipid biosynthetic process,25,1,0.08,0.0818,1
 GO:1901269,lipooligosaccharide metabolic process,25,1,0.08,0.0818,1
 GO:1901271,lipooligosaccharide biosynthetic process,25,1,0.08,0.0818,1
-GO:0010212,response to ionizing radiation,26,1,0.09,0.0850,1
-GO:0042126,nitrate metabolic process,26,1,0.09,0.0850,1
-GO:0042128,nitrate assimilation,26,1,0.09,0.0850,1
+GO:0010212,response to ionizing radiation,26,1,0.09,0.085,1
+GO:0042126,nitrate metabolic process,26,1,0.09,0.085,1
+GO:0042128,nitrate assimilation,26,1,0.09,0.085,1
 GO:0000003,reproduction,27,1,0.09,0.0881,1
 GO:0019954,asexual reproduction,27,1,0.09,0.0881,1
 GO:0022414,reproductive process,27,1,0.09,0.0881,1

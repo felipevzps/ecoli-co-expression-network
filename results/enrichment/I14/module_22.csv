@@ -1,5 +1,5 @@
 GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
-GO:0050794,regulation of cellular process,510,5,1.56,0.010,1
+GO:0050794,regulation of cellular process,510,5,1.56,0.01,1
 GO:0006355,regulation of DNA-templated transcriptio...,326,4,1,0.012,1
 GO:2001141,regulation of RNA biosynthetic process,326,4,1,0.012,1
 GO:0015871,choline transport,4,1,0.01,0.012,1
@@ -15,7 +15,7 @@ GO:0036386,bacterial nucleoid packaging,5,1,0.02,0.015,1
 GO:1900191,negative regulation of single-species bi...,5,1,0.02,0.015,1
 GO:0050789,regulation of biological process,565,5,1.73,0.016,1
 GO:1900231,regulation of single-species biofilm for...,6,1,0.02,0.018,1
-GO:0033554,cellular response to stress,381,4,1.16,0.020,1
+GO:0033554,cellular response to stress,381,4,1.16,0.02,1
 GO:0065007,biological regulation,597,5,1.82,0.021,1
 GO:0010468,regulation of gene expression,384,4,1.17,0.021,1
 GO:0010556,regulation of macromolecule biosynthetic...,385,4,1.18,0.021,1
@@ -28,7 +28,7 @@ GO:0031323,regulation of cellular metabolic process,412,4,1.26,0.027,1
 GO:0060255,regulation of macromolecule metabolic pr...,413,4,1.26,0.027,1
 GO:0010438,cellular response to sulfur starvation,9,1,0.03,0.027,1
 GO:0019222,regulation of metabolic process,424,4,1.3,0.029,1
-GO:0031460,glycine betaine transport,10,1,0.03,0.030,1
+GO:0031460,glycine betaine transport,10,1,0.03,0.03,1
 GO:0015697,quaternary ammonium group transport,11,1,0.03,0.033,1
 GO:0015838,amino-acid betaine transport,11,1,0.03,0.033,1
 GO:2000144,positive regulation of DNA-templated tra...,11,1,0.03,0.033,1
@@ -36,7 +36,7 @@ GO:0044010,single-species biofilm formation,99,2,0.3,0.035,1
 GO:0051703,biological process involved in intraspec...,99,2,0.3,0.035,1
 GO:0006974,DNA damage response,262,3,0.8,0.039,1
 GO:1902021,regulation of bacterial-type flagellum-d...,13,1,0.04,0.039,1
-GO:0016070,RNA metabolic process,464,4,1.42,0.040,1
+GO:0016070,RNA metabolic process,464,4,1.42,0.04,1
 GO:0042710,biofilm formation,109,2,0.33,0.041,1
 GO:0098630,aggregation of unicellular organisms,109,2,0.33,0.041,1
 GO:0098743,cell aggregation,109,2,0.33,0.041,1
@@ -47,5 +47,5 @@ GO:0034654,nucleobase-containing compound biosynthe...,484,4,1.48,0.046,1
 GO:0040012,regulation of locomotion,16,1,0.05,0.048,1
 GO:0015074,DNA integration,18,1,0.05,0.054,1
 GO:0051716,cellular response to stimulus,522,4,1.59,0.058,1
-GO:0006950,response to stress,527,4,1.61,0.060,1
+GO:0006950,response to stress,527,4,1.61,0.06,1
 GO:0072337,modified amino acid transport,21,1,0.06,0.062,1

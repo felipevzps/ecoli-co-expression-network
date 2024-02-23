@@ -29,17 +29,17 @@ GO:1901615,organic hydroxy compound metabolic proce...,123,26,11.98,8.3e-05,0.00
 GO:0006635,fatty acid beta-oxidation,19,8,1.85,0.00021,0.0217
 GO:0019395,fatty acid oxidation,20,8,1.95,0.00033,0.0318
 GO:0034440,lipid oxidation,20,8,1.95,0.00033,0.0318
-GO:0006575,cellular modified amino acid metabolic p...,50,13,4.87,0.00070,0.0652
+GO:0006575,cellular modified amino acid metabolic p...,50,13,4.87,7e-04,0.0652
 GO:0030258,lipid modification,24,8,2.34,0.00135,0.1219
-GO:1901575,organic substance catabolic process,491,66,47.83,0.00220,0.1926
+GO:1901575,organic substance catabolic process,491,66,47.83,0.0022,0.1926
 GO:0005976,polysaccharide metabolic process,98,19,9.55,0.00229,0.1946
 GO:0009056,catabolic process,506,67,49.29,0.00301,0.2396
 GO:0009062,fatty acid catabolic process,27,8,2.63,0.00313,0.2396
-GO:0006101,citrate metabolic process,4,3,0.39,0.00340,0.2396
-GO:0006579,amino-acid betaine catabolic process,4,3,0.39,0.00340,0.2396
-GO:0009436,glyoxylate catabolic process,4,3,0.39,0.00340,0.2396
-GO:0042413,carnitine catabolic process,4,3,0.39,0.00340,0.2396
-GO:0046306,alkanesulfonate catabolic process,4,3,0.39,0.00340,0.2396
+GO:0006101,citrate metabolic process,4,3,0.39,0.0034,0.2396
+GO:0006579,amino-acid betaine catabolic process,4,3,0.39,0.0034,0.2396
+GO:0009436,glyoxylate catabolic process,4,3,0.39,0.0034,0.2396
+GO:0042413,carnitine catabolic process,4,3,0.39,0.0034,0.2396
+GO:0046306,alkanesulfonate catabolic process,4,3,0.39,0.0034,0.2396
 GO:1901565,organonitrogen compound catabolic proces...,198,31,19.29,0.00429,0.2951
 GO:0016054,organic acid catabolic process,191,30,18.61,0.00472,0.3171
 GO:0016042,lipid catabolic process,35,9,3.41,0.00503,0.3303

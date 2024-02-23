@@ -46,6 +46,6 @@ GO:0044718,siderophore transmembrane transport,6,4,0.08,3.5e-07,0
 GO:1901617,organic hydroxy compound biosynthetic pr...,39,7,0.5,3.8e-07,0
 GO:0034755,iron ion transmembrane transport,25,6,0.32,4.5e-07,0
 GO:0015833,peptide transport,60,8,0.77,5.6e-07,0
-GO:0098657,import into cell,137,11,1.77,6.0e-07,0
+GO:0098657,import into cell,137,11,1.77,6e-07,0
 GO:0042886,amide transport,67,8,0.86,1.3e-06,1e-04
-GO:0006810,transport,674,22,8.69,3.0e-06,2e-04
+GO:0006810,transport,674,22,8.69,3e-06,2e-04

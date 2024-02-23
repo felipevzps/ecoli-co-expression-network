@@ -1,4 +1,12 @@
 GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0001539,cilium or flagellum-dependent cell motil...,64,39,1.28,1e-30,0
+GO:0071973,bacterial-type flagellum-dependent cell ...,64,39,1.28,1e-30,0
+GO:0097588,archaeal or bacterial-type flagellum-dep...,64,39,1.28,1e-30,0
+GO:0048870,cell motility,71,39,1.42,1e-30,0
+GO:0006935,chemotaxis,37,31,0.74,1e-30,0
+GO:0042330,taxis,37,31,0.74,1e-30,0
+GO:0040011,locomotion,48,33,0.96,1e-30,0
+GO:0044781,bacterial-type flagellum organization,34,23,0.68,1e-30,0
 GO:0009605,response to external stimulus,171,31,3.42,4.5e-24,0
 GO:0008283,cell population proliferation,78,23,1.56,1.2e-22,0
 GO:0030030,cell projection organization,78,23,1.56,1.2e-22,0
@@ -13,9 +21,9 @@ GO:0071978,bacterial-type flagellum-dependent swarm...,22,10,0.44,2.5e-12,0
 GO:0050920,regulation of chemotaxis,5,5,0.1,2.7e-09,0
 GO:0071975,cell swimming,5,5,0.1,2.7e-09,0
 GO:0071977,bacterial-type flagellum-dependent swimm...,5,5,0.1,2.7e-09,0
-GO:0009306,protein secretion,31,9,0.62,4.0e-09,0
-GO:0035592,establishment of protein localization to...,31,9,0.62,4.0e-09,0
-GO:0071692,protein localization to extracellular re...,31,9,0.62,4.0e-09,0
+GO:0009306,protein secretion,31,9,0.62,4e-09,0
+GO:0035592,establishment of protein localization to...,31,9,0.62,4e-09,0
+GO:0071692,protein localization to extracellular re...,31,9,0.62,4e-09,0
 GO:0032940,secretion by cell,33,9,0.66,7.3e-09,0
 GO:0046903,secretion,33,9,0.66,7.3e-09,0
 GO:0040012,regulation of locomotion,16,7,0.32,8.9e-09,0
@@ -27,25 +35,17 @@ GO:0016043,cellular component organization,449,25,8.99,3.8e-07,0
 GO:0031399,regulation of protein modification proce...,5,4,0.1,7.2e-07,1e-04
 GO:0032101,regulation of response to external stimu...,11,5,0.22,1.1e-06,1e-04
 GO:0071840,cellular component organization or bioge...,487,25,9.75,1.9e-06,2e-04
-GO:0140352,export from cell,64,9,1.28,3.2e-06,3e-04
-GO:0050896,response to stimulus,909,35,18.2,4.6e-06,4e-04
-GO:0009453,energy taxis,3,3,0.06,7.6e-06,6e-04
-GO:0009454,aerotaxis,3,3,0.06,7.6e-06,6e-04
-GO:0031401,positive regulation of protein modificat...,3,3,0.06,7.6e-06,6e-04
-GO:0070614,tungstate ion transport,3,3,0.06,7.6e-06,6e-04
-GO:1901873,regulation of post-translational protein...,3,3,0.06,7.6e-06,6e-04
-GO:1901875,positive regulation of post-translationa...,3,3,0.06,7.6e-06,6e-04
-GO:0036211,protein modification process,40,7,0.8,1.0e-05,8e-04
-GO:0008104,protein localization,94,10,1.88,1.2e-05,9e-04
-GO:0070727,cellular macromolecule localization,94,10,1.88,1.2e-05,9e-04
-GO:0044085,cellular component biogenesis,316,18,6.33,2.3e-05,0.0017
-GO:0015689,molybdate ion transport,4,3,0.08,3.0e-05,0.0021
-GO:0015031,protein transport,84,9,1.68,3.2e-05,0.0021
-GO:0051641,cellular localization,128,11,2.56,3.2e-05,0.0021
-GO:0007165,signal transduction,85,9,1.7,3.5e-05,0.0023
-GO:0045184,establishment of protein localization,90,9,1.8,5.5e-05,0.0035
-GO:0048583,regulation of response to stimulus,23,5,0.46,6.9e-05,0.0043
-GO:1902115,regulation of organelle assembly,5,3,0.1,7.4e-05,0.0044
-GO:1902208,regulation of bacterial-type flagellum a...,5,3,0.1,7.4e-05,0.0044
-GO:0023052,signaling,94,9,1.88,7.8e-05,0.0046
-GO:0043687,post-translational protein modification,6,3,0.12,0.00015,0.0085
+GO:0140352,export from cell,64,9,1.28,3.2e-06,2e-04
+GO:0050896,response to stimulus,909,35,18.2,4.6e-06,3e-04
+GO:0009453,energy taxis,3,3,0.06,7.6e-06,5e-04
+GO:0009454,aerotaxis,3,3,0.06,7.6e-06,5e-04
+GO:0031401,positive regulation of protein modificat...,3,3,0.06,7.6e-06,5e-04
+GO:0070614,tungstate ion transport,3,3,0.06,7.6e-06,5e-04
+GO:1901873,regulation of post-translational protein...,3,3,0.06,7.6e-06,5e-04
+GO:1901875,positive regulation of post-translationa...,3,3,0.06,7.6e-06,5e-04
+GO:0036211,protein modification process,40,7,0.8,1e-05,6e-04
+GO:0008104,protein localization,94,10,1.88,1.2e-05,7e-04
+GO:0070727,cellular macromolecule localization,94,10,1.88,1.2e-05,7e-04
+GO:0044085,cellular component biogenesis,316,18,6.33,2.3e-05,0.0014
+GO:0015689,molybdate ion transport,4,3,0.08,3e-05,0.0018
+GO:0015031,protein transport,84,9,1.68,3.2e-05,0.0018

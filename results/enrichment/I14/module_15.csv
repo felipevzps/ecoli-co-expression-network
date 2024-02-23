@@ -28,8 +28,8 @@ GO:0046436,D-alanine metabolic process,5,2,0.04,0.00057,0.0633
 GO:0043436,oxoacid metabolic process,512,11,4,0.00071,0.076
 GO:0006082,organic acid metabolic process,525,11,4.1,0.00089,0.0917
 GO:0015711,organic anion transport,155,6,1.21,0.00092,0.0917
-GO:0006522,alanine metabolic process,7,2,0.05,0.00120,0.1118
-GO:0009078,pyruvate family amino acid metabolic pro...,7,2,0.05,0.00120,0.1118
+GO:0006522,alanine metabolic process,7,2,0.05,0.0012,0.1118
+GO:0009078,pyruvate family amino acid metabolic pro...,7,2,0.05,0.0012,0.1118
 GO:0046416,D-amino acid metabolic process,8,2,0.06,0.00159,0.1435
 GO:0015718,monocarboxylic acid transport,37,3,0.29,0.00272,0.2381
 GO:0046942,carboxylic acid transport,138,5,1.08,0.00356,0.3025
@@ -48,4 +48,4 @@ GO:0042391,regulation of membrane potential,1,1,0.01,0.00781,0.4605
 GO:0097339,glycolate transmembrane transport,1,1,0.01,0.00781,0.4605
 GO:1900866,glycolate transport,1,1,0.01,0.00781,0.4605
 GO:1901475,pyruvate transmembrane transport,1,1,0.01,0.00781,0.4605
-GO:0033865,nucleoside bisphosphate metabolic proces...,24,2,0.19,0.01450,0.7255
+GO:0033865,nucleoside bisphosphate metabolic proces...,24,2,0.19,0.0145,0.7255

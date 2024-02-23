@@ -1,5 +1,15 @@
 GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
-GO:0071840,cellular component organization or bioge...,487,230,127.45,2.0e-28,0
+GO:0006412,translation,134,107,35.07,1e-30,0
+GO:0043043,peptide biosynthetic process,146,109,38.21,1e-30,0
+GO:0006518,peptide metabolic process,157,113,41.09,1e-30,0
+GO:0044249,cellular biosynthetic process,1176,449,307.77,1e-30,0
+GO:0043604,amide biosynthetic process,180,121,47.11,1e-30,0
+GO:1901576,organic substance biosynthetic process,1201,454,314.31,1e-30,0
+GO:0002181,cytoplasmic translation,60,58,15.7,1e-30,0
+GO:0022613,ribonucleoprotein complex biogenesis,82,71,21.46,1e-30,0
+GO:0009058,biosynthetic process,1215,455,317.98,1e-30,0
+GO:0042254,ribosome biogenesis,81,70,21.2,1e-30,0
+GO:0071840,cellular component organization or bioge...,487,230,127.45,2e-28,0
 GO:1901566,organonitrogen compound biosynthetic pro...,519,238,135.83,4.4e-27,0
 GO:0043170,macromolecule metabolic process,1081,407,282.91,1.2e-26,0
 GO:0009059,macromolecule biosynthetic process,792,320,207.27,2.3e-25,0
@@ -31,21 +41,11 @@ GO:0070925,organelle assembly,73,47,19.1,4.3e-12,0
 GO:0140694,non-membrane-bounded organelle assembly,73,47,19.1,4.3e-12,0
 GO:0034470,ncRNA processing,71,46,18.58,5.3e-12,0
 GO:0000028,ribosomal small subunit assembly,18,18,4.71,2.9e-11,0
-GO:0000027,ribosomal large subunit assembly,23,21,6.02,7.0e-11,0
-GO:0006418,tRNA aminoacylation for protein translat...,23,21,6.02,7.0e-11,0
-GO:0042273,ribosomal large subunit biogenesis,23,21,6.02,7.0e-11,0
-GO:0042274,ribosomal small subunit biogenesis,23,21,6.02,7.0e-11,0
-GO:0043039,tRNA aminoacylation,23,21,6.02,7.0e-11,0
+GO:0000027,ribosomal large subunit assembly,23,21,6.02,7e-11,0
+GO:0006418,tRNA aminoacylation for protein translat...,23,21,6.02,7e-11,0
+GO:0042273,ribosomal large subunit biogenesis,23,21,6.02,7e-11,0
+GO:0042274,ribosomal small subunit biogenesis,23,21,6.02,7e-11,0
+GO:0043039,tRNA aminoacylation,23,21,6.02,7e-11,0
 GO:0043038,amino acid activation,24,21,6.28,4.2e-10,0
 GO:0006139,nucleobase-containing compound metabolic...,825,283,215.91,4.8e-10,0
 GO:0022607,cellular component assembly,238,104,62.29,7.2e-10,0
-GO:0046483,heterocycle metabolic process,945,316,247.32,7.3e-10,0
-GO:0043933,protein-containing complex organization,178,83,46.58,1.1e-09,0
-GO:0009451,RNA modification,56,36,14.66,1.7e-09,0
-GO:0044237,cellular metabolic process,1909,566,499.61,2.2e-09,0
-GO:0022402,cell cycle process,49,32,12.82,7.8e-09,0
-GO:0009273,peptidoglycan-based cell wall biogenesis,46,30,12.04,2.4e-08,0
-GO:0042546,cell wall biogenesis,46,30,12.04,2.4e-08,0
-GO:0006364,rRNA processing,29,22,7.59,2.7e-08,0
-GO:1901360,organic cyclic compound metabolic proces...,992,322,259.62,2.8e-08,0
-GO:0008152,metabolic process,2116,611,553.78,3.5e-08,0

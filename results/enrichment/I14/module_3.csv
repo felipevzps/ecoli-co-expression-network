@@ -7,18 +7,18 @@ GO:0035592,establishment of protein localization to...,31,14,2.66,5.9e-08,0
 GO:0071692,protein localization to extracellular re...,31,14,2.66,5.9e-08,0
 GO:0032940,secretion by cell,33,14,2.83,1.5e-07,1e-04
 GO:0046903,secretion,33,14,2.83,1.5e-07,1e-04
-GO:0019634,organic phosphonate metabolic process,10,7,0.86,3.0e-06,0.001
+GO:0019634,organic phosphonate metabolic process,10,7,0.86,3e-06,0.001
 GO:0071702,organic substance transport,446,65,38.3,3.3e-06,0.001
 GO:0034219,carbohydrate transmembrane transport,107,24,9.19,6.7e-06,0.0018
 GO:0008643,carbohydrate transport,123,26,10.56,8.7e-06,0.002
 GO:0019700,organic phosphonate catabolic process,8,6,0.69,9.2e-06,0.002
 GO:0140352,export from cell,64,17,5.5,1.5e-05,0.0031
 GO:0006308,DNA catabolic process,10,6,0.86,5.9e-05,0.0114
-GO:0071806,protein transmembrane transport,41,12,3.52,0.00010,0.0181
-GO:0019852,L-ascorbic acid metabolic process,8,5,0.69,0.00020,0.034
+GO:0071806,protein transmembrane transport,41,12,3.52,1e-04,0.0181
+GO:0019852,L-ascorbic acid metabolic process,8,5,0.69,2e-04,0.034
 GO:0019854,L-ascorbic acid catabolic process,5,4,0.43,0.00025,0.0401
 GO:0019321,pentose metabolic process,22,8,1.89,0.00029,0.0426
-GO:0006810,transport,674,81,57.88,0.00030,0.0426
+GO:0006810,transport,674,81,57.88,3e-04,0.0426
 GO:0051179,localization,685,82,58.83,0.00031,0.0426
 GO:0051234,establishment of localization,681,81,58.48,0.00043,0.0565
 GO:0015031,protein transport,84,17,7.21,0.00058,0.0674
@@ -28,13 +28,13 @@ GO:0034192,D-galactonate metabolic process,3,3,0.26,0.00063,0.0674
 GO:0034194,D-galactonate catabolic process,3,3,0.26,0.00063,0.0674
 GO:1901335,lactone catabolic process,6,4,0.52,0.00069,0.0687
 GO:1902075,cellular response to salt,6,4,0.52,0.00069,0.0687
-GO:0008104,protein localization,94,18,8.07,0.00080,0.0746
-GO:0070727,cellular macromolecule localization,94,18,8.07,0.00080,0.0746
+GO:0008104,protein localization,94,18,8.07,8e-04,0.0746
+GO:0070727,cellular macromolecule localization,94,18,8.07,8e-04,0.0746
 GO:0045184,establishment of protein localization,90,17,7.73,0.00131,0.1147
 GO:0005996,monosaccharide metabolic process,106,19,9.1,0.00134,0.1147
 GO:0015976,carbon utilization,11,5,0.94,0.00135,0.1147
 GO:0005975,carbohydrate metabolic process,340,45,29.2,0.00139,0.1147
-GO:0016052,carbohydrate catabolic process,136,22,11.68,0.00230,0.1835
+GO:0016052,carbohydrate catabolic process,136,22,11.68,0.0023,0.1835
 GO:0015753,D-xylose transmembrane transport,4,3,0.34,0.00235,0.1835
 GO:0033036,macromolecule localization,128,21,10.99,0.00242,0.184
 GO:0009401,phosphoenolpyruvate-dependent sugar phos...,57,12,4.9,0.00263,0.1948

@@ -10,7 +10,7 @@ GO:0006950,response to stress,527,13,2.68,1.3e-08,0
 GO:0051604,protein maturation,83,7,0.42,5.9e-08,0
 GO:0006457,protein folding,50,6,0.25,7.8e-08,0
 GO:0030164,protein denaturation,3,3,0.02,1.1e-07,0
-GO:0034605,cellular response to heat,13,4,0.07,3.0e-07,1e-04
+GO:0034605,cellular response to heat,13,4,0.07,3e-07,1e-04
 GO:0051084,'de novo' post-translational protein fol...,7,3,0.04,3.7e-06,7e-04
 GO:0051085,chaperone cofactor-dependent protein ref...,7,3,0.04,3.7e-06,7e-04
 GO:0006508,proteolysis,95,6,0.48,3.8e-06,7e-04
@@ -32,7 +32,7 @@ GO:1901565,organonitrogen compound catabolic proces...,198,5,1.01,0.00225,0.2167
 GO:0046688,response to copper ion,16,2,0.08,0.00279,0.26
 GO:0006260,DNA replication,64,3,0.33,0.00369,0.3331
 GO:0065007,biological regulation,597,8,3.04,0.00451,0.3771
-GO:0006807,nitrogen compound metabolic process,1513,13,7.7,0.00490,0.3771
+GO:0006807,nitrogen compound metabolic process,1513,13,7.7,0.0049,0.3771
 GO:0006986,response to unfolded protein,1,1,0.01,0.00509,0.3771
 GO:0034620,cellular response to unfolded protein,1,1,0.01,0.00509,0.3771
 GO:0043068,positive regulation of programmed cell d...,1,1,0.01,0.00509,0.3771
@@ -41,7 +41,7 @@ GO:1901800,positive regulation of proteasomal prote...,1,1,0.01,0.00509,0.3771
 GO:0009059,macromolecule biosynthetic process,792,9,4.03,0.00695,0.502
 GO:0033554,cellular response to stress,381,6,1.94,0.00807,0.5686
 GO:0051172,negative regulation of nitrogen compound...,167,4,0.85,0.00831,0.5716
-GO:0010558,negative regulation of macromolecule bio...,174,4,0.89,0.00960,0.5755
+GO:0010558,negative regulation of macromolecule bio...,174,4,0.89,0.0096,0.5755
 GO:0065008,regulation of biological quality,90,3,0.46,0.00961,0.5755
 GO:0009890,negative regulation of biosynthetic proc...,175,4,0.89,0.00979,0.5755
 GO:0031327,negative regulation of cellular biosynth...,175,4,0.89,0.00979,0.5755

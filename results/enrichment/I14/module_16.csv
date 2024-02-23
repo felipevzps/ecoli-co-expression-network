@@ -1,14 +1,14 @@
 GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
 GO:0006569,tryptophan catabolic process,3,3,0.02,1.9e-07,3e-04
 GO:0042436,indole-containing compound catabolic pro...,3,3,0.02,1.9e-07,3e-04
-GO:0044282,small molecule catabolic process,298,10,1.82,2.0e-06,0.0019
+GO:0044282,small molecule catabolic process,298,10,1.82,2e-06,0.0019
 GO:0015752,D-ribose transmembrane transport,6,3,0.04,3.8e-06,0.0027
 GO:0009074,aromatic amino acid family catabolic pro...,7,3,0.04,6.6e-06,0.0038
 GO:0019303,D-ribose catabolic process,2,2,0.01,3.5e-05,0.0132
 GO:0006568,tryptophan metabolic process,12,3,0.07,4.1e-05,0.0132
 GO:0006586,indolalkylamine metabolic process,12,3,0.07,4.1e-05,0.0132
 GO:0042430,indole-containing compound metabolic pro...,12,3,0.07,4.1e-05,0.0132
-GO:0015750,pentose transmembrane transport,16,3,0.1,0.00010,0.0289
+GO:0015750,pentose transmembrane transport,16,3,0.1,1e-04,0.0289
 GO:0006014,D-ribose metabolic process,3,2,0.02,0.00011,0.0289
 GO:1901575,organic substance catabolic process,491,10,3,0.00019,0.0457
 GO:0009056,catabolic process,506,10,3.09,0.00024,0.0533
@@ -19,20 +19,20 @@ GO:0006152,purine nucleoside catabolic process,6,2,0.04,0.00052,0.0884
 GO:0019439,aromatic compound catabolic process,120,5,0.73,0.00058,0.0931
 GO:0009063,amino acid catabolic process,69,4,0.42,0.00066,0.1004
 GO:0042454,ribonucleoside catabolic process,7,2,0.04,0.00073,0.1054
-GO:1901565,organonitrogen compound catabolic proces...,198,6,1.21,0.00080,0.1101
+GO:1901565,organonitrogen compound catabolic proces...,198,6,1.21,8e-04,0.1101
 GO:0009072,aromatic amino acid metabolic process,32,3,0.2,0.00085,0.1116
 GO:1901361,organic cyclic compound catabolic proces...,137,5,0.84,0.00106,0.1331
 GO:0009164,nucleoside catabolic process,9,2,0.05,0.00124,0.1493
 GO:0034656,nucleobase-containing small molecule cat...,10,2,0.06,0.00154,0.1711
 GO:1901658,glycosyl compound catabolic process,10,2,0.06,0.00154,0.1711
 GO:0051289,protein homotetramerization,41,3,0.25,0.00177,0.1894
-GO:0051262,protein tetramerization,42,3,0.26,0.00190,0.196
+GO:0051262,protein tetramerization,42,3,0.26,0.0019,0.196
 GO:0044248,cellular catabolic process,330,7,2.02,0.00221,0.2202
 GO:0006576,biogenic amine metabolic process,47,3,0.29,0.00263,0.246
 GO:0062012,regulation of small molecule metabolic p...,13,2,0.08,0.00264,0.246
 GO:0015749,monosaccharide transmembrane transport,48,3,0.29,0.00279,0.2519
 GO:0009308,amine metabolic process,49,3,0.3,0.00296,0.2591
-GO:0034219,carbohydrate transmembrane transport,107,4,0.65,0.00340,0.2833
+GO:0034219,carbohydrate transmembrane transport,107,4,0.65,0.0034,0.2833
 GO:0051260,protein homooligomerization,52,3,0.32,0.00351,0.2833
 GO:0019323,pentose catabolic process,15,2,0.09,0.00353,0.2833
 GO:0046395,carboxylic acid catabolic process,181,5,1.11,0.00368,0.2873

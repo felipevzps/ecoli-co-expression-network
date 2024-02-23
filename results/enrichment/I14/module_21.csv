@@ -1,7 +1,7 @@
 GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
 GO:0006865,amino acid transport,88,4,0.45,0.00079,1
 GO:0002097,tRNA wobble base modification,15,2,0.08,0.00245,1
-GO:0046942,carboxylic acid transport,138,4,0.7,0.00420,1
+GO:0046942,carboxylic acid transport,138,4,0.7,0.0042,1
 GO:0015849,organic acid transport,139,4,0.71,0.00431,1
 GO:0002100,tRNA wobble adenosine to inosine editing,1,1,0.01,0.00509,1
 GO:0006382,adenosine to inosine editing,1,1,0.01,0.00509,1
@@ -23,9 +23,9 @@ GO:0009451,RNA modification,56,2,0.29,0.03181,1
 GO:0043243,positive regulation of protein-containin...,7,1,0.04,0.03514,1
 GO:0060566,positive regulation of termination of DN...,7,1,0.04,0.03514,1
 GO:0006810,transport,674,7,3.43,0.03605,1
-GO:0051234,establishment of localization,681,7,3.47,0.03800,1
+GO:0051234,establishment of localization,681,7,3.47,0.038,1
 GO:0051179,localization,685,7,3.49,0.03915,1
-GO:0071705,nitrogen compound transport,268,4,1.36,0.04090,1
+GO:0071705,nitrogen compound transport,268,4,1.36,0.0409,1
 GO:0003333,amino acid transmembrane transport,67,2,0.34,0.04422,1
 GO:0015801,aromatic amino acid transport,9,1,0.05,0.04496,1
 GO:0022611,dormancy process,9,1,0.05,0.04496,1
@@ -34,8 +34,8 @@ GO:0006399,tRNA metabolic process,75,2,0.38,0.05422,1
 GO:0051301,cell division,75,2,0.38,0.05422,1
 GO:0009396,folic acid-containing compound biosynthe...,11,1,0.06,0.05469,1
 GO:0015803,branched-chain amino acid transport,11,1,0.06,0.05469,1
-GO:0006396,RNA processing,79,2,0.4,0.05950,1
-GO:0007049,cell cycle,79,2,0.4,0.05950,1
+GO:0006396,RNA processing,79,2,0.4,0.0595,1
+GO:0007049,cell cycle,79,2,0.4,0.0595,1
 GO:0042559,pteridine-containing compound biosynthet...,13,1,0.07,0.06433,1
 GO:0044011,single-species biofilm formation on inan...,14,1,0.07,0.06912,1
 GO:0006730,one-carbon metabolic process,15,1,0.08,0.07388,1
@@ -46,6 +46,6 @@ GO:0046653,tetrahydrofolate metabolic process,16,1,0.08,0.07862,1
 GO:1903825,organic acid transmembrane transport,93,2,0.47,0.07931,1
 GO:1905039,carboxylic acid transmembrane transport,93,2,0.47,0.07931,1
 GO:0034660,ncRNA metabolic process,100,2,0.51,0.08992,1
-GO:0006760,folic acid-containing compound metabolic...,19,1,0.1,0.09270,1
+GO:0006760,folic acid-containing compound metabolic...,19,1,0.1,0.0927,1
 GO:0042558,pteridine-containing compound metabolic ...,20,1,0.1,0.09735,1
 GO:0042398,cellular modified amino acid biosyntheti...,21,1,0.11,0.10198,1

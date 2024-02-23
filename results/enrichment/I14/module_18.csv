@@ -16,7 +16,7 @@ GO:0034219,carbohydrate transmembrane transport,107,5,0.69,0.00045,0.0929
 GO:0046365,monosaccharide catabolic process,63,4,0.41,0.00058,0.1117
 GO:0008643,carbohydrate transport,123,5,0.79,0.00085,0.1535
 GO:0005996,monosaccharide metabolic process,106,4,0.68,0.00404,0.6866
-GO:0016052,carbohydrate catabolic process,136,4,0.88,0.00980,1
+GO:0016052,carbohydrate catabolic process,136,4,0.88,0.0098,1
 GO:0015756,fucose transmembrane transport,2,1,0.01,0.01286,1
 GO:0034644,cellular response to UV,3,1,0.02,0.01923,1
 GO:0071478,cellular response to radiation,3,1,0.02,0.01923,1
@@ -48,4 +48,4 @@ GO:0032392,DNA geometric change,24,1,0.15,0.14435,1
 GO:0032508,DNA duplex unwinding,24,1,0.15,0.14435,1
 GO:0071702,organic substance transport,446,5,2.88,0.14801,1
 GO:0043412,macromolecule modification,112,2,0.72,0.16127,1
-GO:1901137,carbohydrate derivative biosynthetic pro...,219,3,1.41,0.16320,1
+GO:1901137,carbohydrate derivative biosynthetic pro...,219,3,1.41,0.1632,1

@@ -1,11 +1,12 @@
 GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0009432,SOS response,30,22,0.32,1e-30,0
 GO:0031668,cellular response to extracellular stimu...,74,22,0.78,3.6e-30,0
 GO:0071496,cellular response to external stimulus,74,22,0.78,3.6e-30,0
 GO:0009991,response to extracellular stimulus,109,22,1.15,5.5e-26,0
 GO:0007154,cell communication,165,22,1.74,9.5e-22,0
 GO:0009605,response to external stimulus,171,22,1.8,2.2e-21,0
 GO:0006974,DNA damage response,262,24,2.76,3.3e-20,0
-GO:0006281,DNA repair,95,18,1,4.0e-20,0
+GO:0006281,DNA repair,95,18,1,4e-20,0
 GO:0006259,DNA metabolic process,200,22,2.1,7.6e-20,0
 GO:0033554,cellular response to stress,381,24,4.01,2.8e-16,0
 GO:0051716,cellular response to stimulus,522,24,5.49,4.4e-13,0
@@ -16,36 +17,35 @@ GO:0006139,nucleobase-containing compound metabolic...,825,23,8.68,1.1e-07,0
 GO:0050896,response to stimulus,909,24,9.57,1.1e-07,0
 GO:0019985,translesion synthesis,6,4,0.06,1.5e-07,0
 GO:0006301,postreplication repair,8,4,0.08,6.8e-07,1e-04
-GO:0046483,heterocycle metabolic process,945,23,9.94,1.6e-06,3e-04
-GO:0071897,DNA biosynthetic process,21,5,0.22,1.7e-06,3e-04
-GO:0000731,DNA synthesis involved in DNA repair,10,4,0.11,2.0e-06,3e-04
-GO:0006725,cellular aromatic compound metabolic pro...,956,23,10.06,2.0e-06,3e-04
-GO:1901360,organic cyclic compound metabolic proces...,992,23,10.44,4.2e-06,6e-04
+GO:0046483,heterocycle metabolic process,945,23,9.94,1.6e-06,2e-04
+GO:0071897,DNA biosynthetic process,21,5,0.22,1.7e-06,2e-04
+GO:0000731,DNA synthesis involved in DNA repair,10,4,0.11,2e-06,3e-04
+GO:0006725,cellular aromatic compound metabolic pro...,956,23,10.06,2e-06,3e-04
+GO:1901360,organic cyclic compound metabolic proces...,992,23,10.44,4.2e-06,5e-04
 GO:0051276,chromosome organization,49,6,0.52,8.3e-06,0.001
 GO:0034641,cellular nitrogen compound metabolic pro...,1044,23,10.99,1.1e-05,0.0013
 GO:0000725,recombinational repair,17,4,0.18,2.2e-05,0.0024
 GO:0043170,macromolecule metabolic process,1081,23,11.38,2.2e-05,0.0024
-GO:0009314,response to radiation,90,7,0.95,2.8e-05,0.003
-GO:2000241,regulation of reproductive process,2,2,0.02,0.00011,0.0102
-GO:2000242,negative regulation of reproductive proc...,2,2,0.02,0.00011,0.0102
-GO:2000244,regulation of FtsZ-dependent cytokinesis,2,2,0.02,0.00011,0.0102
-GO:2000245,negative regulation of FtsZ-dependent cy...,2,2,0.02,0.00011,0.0102
-GO:0000715,nucleotide-excision repair, DNA damage r...,3,2,0.03,0.00032,0.0237
-GO:0006294,nucleotide-excision repair, preincision ...,3,2,0.03,0.00032,0.0237
-GO:0010948,negative regulation of cell cycle proces...,3,2,0.03,0.00032,0.0237
-GO:0032465,regulation of cytokinesis,3,2,0.03,0.00032,0.0237
-GO:0032466,negative regulation of cytokinesis,3,2,0.03,0.00032,0.0237
-GO:0042276,error-prone translesion synthesis,3,2,0.03,0.00032,0.0237
-GO:0045786,negative regulation of cell cycle,3,2,0.03,0.00032,0.0237
-GO:0065004,protein-DNA complex assembly,3,2,0.03,0.00032,0.0237
-GO:0010564,regulation of cell cycle process,6,2,0.06,0.00157,0.1106
-GO:0051726,regulation of cell cycle,6,2,0.06,0.00157,0.1106
-GO:0032392,DNA geometric change,24,3,0.25,0.00184,0.1236
-GO:0032508,DNA duplex unwinding,24,3,0.25,0.00184,0.1236
-GO:0051782,negative regulation of cell division,7,2,0.07,0.00218,0.1399
-GO:0071824,protein-DNA complex organization,7,2,0.07,0.00218,0.1399
-GO:0010212,response to ionizing radiation,26,3,0.27,0.00233,0.145
-GO:0006996,organelle organization,135,6,1.42,0.00236,0.145
-GO:0006289,nucleotide-excision repair,8,2,0.08,0.00289,0.1739
-GO:0071103,DNA conformation change,31,3,0.33,0.00389,0.2293
-GO:0006820,monoatomic anion transport,13,2,0.14,0.00778,0.436
+GO:0009314,response to radiation,90,7,0.95,2.8e-05,0.0029
+GO:2000241,regulation of reproductive process,2,2,0.02,0.00011,0.0099
+GO:2000242,negative regulation of reproductive proc...,2,2,0.02,0.00011,0.0099
+GO:2000244,regulation of FtsZ-dependent cytokinesis,2,2,0.02,0.00011,0.0099
+GO:2000245,negative regulation of FtsZ-dependent cy...,2,2,0.02,0.00011,0.0099
+GO:0000715,nucleotide-excision repair, DNA damage r...,3,2,0.03,0.00032,0.0231
+GO:0006294,nucleotide-excision repair, preincision ...,3,2,0.03,0.00032,0.0231
+GO:0010948,negative regulation of cell cycle proces...,3,2,0.03,0.00032,0.0231
+GO:0032465,regulation of cytokinesis,3,2,0.03,0.00032,0.0231
+GO:0032466,negative regulation of cytokinesis,3,2,0.03,0.00032,0.0231
+GO:0042276,error-prone translesion synthesis,3,2,0.03,0.00032,0.0231
+GO:0045786,negative regulation of cell cycle,3,2,0.03,0.00032,0.0231
+GO:0065004,protein-DNA complex assembly,3,2,0.03,0.00032,0.0231
+GO:0010564,regulation of cell cycle process,6,2,0.06,0.00157,0.108
+GO:0051726,regulation of cell cycle,6,2,0.06,0.00157,0.108
+GO:0032392,DNA geometric change,24,3,0.25,0.00184,0.1208
+GO:0032508,DNA duplex unwinding,24,3,0.25,0.00184,0.1208
+GO:0051782,negative regulation of cell division,7,2,0.07,0.00218,0.1369
+GO:0071824,protein-DNA complex organization,7,2,0.07,0.00218,0.1369
+GO:0010212,response to ionizing radiation,26,3,0.27,0.00233,0.142
+GO:0006996,organelle organization,135,6,1.42,0.00236,0.142
+GO:0006289,nucleotide-excision repair,8,2,0.08,0.00289,0.1704
+GO:0071103,DNA conformation change,31,3,0.33,0.00389,0.2248

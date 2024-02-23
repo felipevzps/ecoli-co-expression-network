@@ -4,7 +4,7 @@ GO:0015980,energy derivation by oxidation of organi...,140,30,3.14,1.2e-23,0
 GO:0045333,cellular respiration,120,28,2.69,4.7e-23,0
 GO:0006091,generation of precursor metabolites and ...,202,32,4.53,4.8e-21,0
 GO:0022900,electron transport chain,115,26,2.58,6.2e-21,0
-GO:0019645,anaerobic electron transport chain,46,18,1.03,3.0e-19,0
+GO:0019645,anaerobic electron transport chain,46,18,1.03,3e-19,0
 GO:0022904,respiratory electron transport chain,77,19,1.73,5.6e-16,0
 GO:0071941,nitrogen cycle metabolic process,30,12,0.67,3.6e-13,0
 GO:2001057,reactive nitrogen species metabolic proc...,30,12,0.67,3.6e-13,0
@@ -19,8 +19,8 @@ GO:0099587,inorganic ion import across plasma membr...,19,6,0.43,2.2e-06,4e-04
 GO:0018907,dimethyl sulfoxide metabolic process,3,3,0.07,1.1e-05,0.0018
 GO:0015741,fumarate transport,4,3,0.09,4.2e-05,0.0061
 GO:0071422,succinate transmembrane transport,4,3,0.09,4.2e-05,0.0061
-GO:0006788,heme oxidation,6,3,0.13,0.00020,0.0263
-GO:0015744,succinate transport,6,3,0.13,0.00020,0.0263
+GO:0006788,heme oxidation,6,3,0.13,2e-04,0.0263
+GO:0015744,succinate transport,6,3,0.13,2e-04,0.0263
 GO:0006787,porphyrin-containing compound catabolic ...,7,3,0.16,0.00035,0.0421
 GO:0033015,tetrapyrrole catabolic process,7,3,0.16,0.00035,0.0421
 GO:0110147,protein maturation by nickel ion transfe...,2,2,0.04,0.00049,0.0566
@@ -43,9 +43,9 @@ GO:0098739,import across plasma membrane,117,7,2.62,0.01454,1
 GO:0065003,protein-containing complex assembly,147,8,3.29,0.01557,1
 GO:0030031,cell projection assembly,44,4,0.99,0.01593,1
 GO:0098655,monoatomic cation transmembrane transpor...,124,7,2.78,0.01951,1
-GO:0035672,oligopeptide transmembrane transport,27,3,0.6,0.02140,1
-GO:0019333,denitrification pathway,1,1,0.02,0.02240,1
-GO:0019354,siroheme biosynthetic process,1,1,0.02,0.02240,1
-GO:0043602,nitrate catabolic process,1,1,0.02,0.02240,1
-GO:0046156,siroheme metabolic process,1,1,0.02,0.02240,1
-GO:0050919,negative chemotaxis,1,1,0.02,0.02240,1
+GO:0035672,oligopeptide transmembrane transport,27,3,0.6,0.0214,1
+GO:0019333,denitrification pathway,1,1,0.02,0.0224,1
+GO:0019354,siroheme biosynthetic process,1,1,0.02,0.0224,1
+GO:0043602,nitrate catabolic process,1,1,0.02,0.0224,1
+GO:0046156,siroheme metabolic process,1,1,0.02,0.0224,1
+GO:0050919,negative chemotaxis,1,1,0.02,0.0224,1
