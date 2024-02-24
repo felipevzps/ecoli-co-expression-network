@@ -1,0 +1,4 @@
+clusters,max,ctr,avg,min,DGI,TWI,TWL,sgl,qrt,efficiency,massfrac,areafrac,target-name,source-name
+506,1069,383.3,8.5,1,473,3,262,288,410,0.34215,0.83382,0.08899,../results/ecoli60.mci,out.ecoli60.mci.I14,
+657,809,223.3,6.5,1,493,11,43,289,514,0.47628,0.76324,0.05174,../results/ecoli60.mci,out.ecoli60.mci.I20,
+1255,380,48.9,3.4,1,380,129,5,524,1094,0.62394,0.53621,0.01114,../results/ecoli60.mci,out.ecoli60.mci.I60,
