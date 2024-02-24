@@ -13,6 +13,14 @@ As evidenced in the paper, the correlation of gene expression values leads to di
 
 Almost all genes are part of a single connected component (size 3959). As inflation increases, the network gradually breaks down, eventually forming clusters with 2 and 3 genes.
 
+## clminfo statistics
+
+**Note:** These results do not indicate a single clustering as the 'best' option, as all clusterings appear to be at least acceptable. They do help in illustrating the relative advantages of each clustering.
+
+![](https://github.com/felipevzps/ecoli-co-expression-network/blob/main/results/clusteringEfficiency.png)
+>This data shows that there is exceptionally strong cluster structure present in the input graph. The 1.4 clustering captures nearly all edge mass (83 percent) using only 8.8 percent of 'area'. The 6.0 clustering captures 53 percent of the mass using 1.1 percent of area.
+
+
 ## Gene Ontology enrichment analysis: exploring biological function of modules
 
 Below, I present the Gene Ontology (GO) enrichment analysis of a highly consistent cluster/module ([performed with this script in R](https://github.com/felipevzps/ecoli-co-expression-network/blob/main/code/enrichmentGO.R)). This module includes genes associated with motility, such as flagellum operons and chemotaxis genes. These findings suggest functional connectivity to motility, providing valuable insights and novel predictions for genes with unknown functions within this module.
