@@ -1,0 +1,1328 @@
+dump.out.ecoli60.mci.I20_146	dump.out.ecoli60.mci.I60_423 
+dump.out.ecoli60.mci.I20_146	dump.out.ecoli60.mci.I60_1096 
+dump.out.ecoli60.mci.I60_683	dump.out.ecoli60.mci.I14_5 
+dump.out.ecoli60.mci.I60_573	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_492	dump.out.ecoli60.mci.I14_2 
+dump.out.ecoli60.mci.I60_445	dump.out.ecoli60.mci.I14_2 
+dump.out.ecoli60.mci.I60_540	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I20_268	dump.out.ecoli60.mci.I60_440 
+dump.out.ecoli60.mci.I60_495	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_460	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_150	dump.out.ecoli60.mci.I20_29 
+dump.out.ecoli60.mci.I60_164	dump.out.ecoli60.mci.I20_10 
+dump.out.ecoli60.mci.I60_172	dump.out.ecoli60.mci.I20_93 
+dump.out.ecoli60.mci.I60_185	dump.out.ecoli60.mci.I20_11 
+dump.out.ecoli60.mci.I60_200	dump.out.ecoli60.mci.I20_166 
+dump.out.ecoli60.mci.I60_212	dump.out.ecoli60.mci.I20_11 
+dump.out.ecoli60.mci.I60_218	dump.out.ecoli60.mci.I20_105 
+dump.out.ecoli60.mci.I60_372	dump.out.ecoli60.mci.I20_244 
+dump.out.ecoli60.mci.I60_373	dump.out.ecoli60.mci.I20_6 
+dump.out.ecoli60.mci.I60_410	dump.out.ecoli60.mci.I20_65 
+dump.out.ecoli60.mci.I60_415	dump.out.ecoli60.mci.I20_115 
+dump.out.ecoli60.mci.I60_420	dump.out.ecoli60.mci.I20_118 
+dump.out.ecoli60.mci.I60_430	dump.out.ecoli60.mci.I20_51 
+dump.out.ecoli60.mci.I60_436	dump.out.ecoli60.mci.I20_83 
+dump.out.ecoli60.mci.I60_453	dump.out.ecoli60.mci.I20_45 
+dump.out.ecoli60.mci.I60_476	dump.out.ecoli60.mci.I20_72 
+dump.out.ecoli60.mci.I60_477	dump.out.ecoli60.mci.I20_9 
+dump.out.ecoli60.mci.I60_481	dump.out.ecoli60.mci.I20_13 
+dump.out.ecoli60.mci.I20_343	dump.out.ecoli60.mci.I60_662 
+dump.out.ecoli60.mci.I60_499	dump.out.ecoli60.mci.I20_18 
+dump.out.ecoli60.mci.I60_512	dump.out.ecoli60.mci.I20_17 
+dump.out.ecoli60.mci.I60_531	dump.out.ecoli60.mci.I20_38 
+dump.out.ecoli60.mci.I60_550	dump.out.ecoli60.mci.I20_49 
+dump.out.ecoli60.mci.I60_555	dump.out.ecoli60.mci.I20_224 
+dump.out.ecoli60.mci.I60_569	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_572	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_577	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_590	dump.out.ecoli60.mci.I20_134 
+dump.out.ecoli60.mci.I60_608	dump.out.ecoli60.mci.I20_47 
+dump.out.ecoli60.mci.I60_622	dump.out.ecoli60.mci.I20_86 
+dump.out.ecoli60.mci.I60_645	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_667	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_674	dump.out.ecoli60.mci.I20_20 
+dump.out.ecoli60.mci.I60_678	dump.out.ecoli60.mci.I20_49 
+dump.out.ecoli60.mci.I60_696	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_710	dump.out.ecoli60.mci.I20_128 
+dump.out.ecoli60.mci.I60_543	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I20_224	dump.out.ecoli60.mci.I60_1075 
+dump.out.ecoli60.mci.I60_21	dump.out.ecoli60.mci.I14_3 
+dump.out.ecoli60.mci.I60_1096	dump.out.ecoli60.mci.I14_4 
+dump.out.ecoli60.mci.I60_583	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_694	dump.out.ecoli60.mci.I14_3 
+dump.out.ecoli60.mci.I60_500	dump.out.ecoli60.mci.I14_9 
+dump.out.ecoli60.mci.I60_32	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_464	dump.out.ecoli60.mci.I14_3 
+dump.out.ecoli60.mci.I60_1075	dump.out.ecoli60.mci.I14_115 
+dump.out.ecoli60.mci.I60_607	dump.out.ecoli60.mci.I14_13 
+dump.out.ecoli60.mci.I60_204	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_474	dump.out.ecoli60.mci.I14_6 
+dump.out.ecoli60.mci.I60_650	dump.out.ecoli60.mci.I14_3 
+dump.out.ecoli60.mci.I60_676	dump.out.ecoli60.mci.I14_3 
+dump.out.ecoli60.mci.I60_209	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_705	dump.out.ecoli60.mci.I14_3 
+dump.out.ecoli60.mci.I60_652	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_478	dump.out.ecoli60.mci.I14_3 
+dump.out.ecoli60.mci.I60_171	dump.out.ecoli60.mci.I14_17 
+dump.out.ecoli60.mci.I60_682	dump.out.ecoli60.mci.I14_7 
+dump.out.ecoli60.mci.I60_74	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_75	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_9 
+dump.out.ecoli60.mci.I60_76	dump.out.ecoli60.mci.I14_14	dump.out.ecoli60.mci.I20_43 
+dump.out.ecoli60.mci.I60_77	dump.out.ecoli60.mci.I14_11	dump.out.ecoli60.mci.I20_30 
+dump.out.ecoli60.mci.I60_78	dump.out.ecoli60.mci.I14_36	dump.out.ecoli60.mci.I20_52 
+dump.out.ecoli60.mci.I60_79	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_80	dump.out.ecoli60.mci.I14_51	dump.out.ecoli60.mci.I20_53 
+dump.out.ecoli60.mci.I60_81	dump.out.ecoli60.mci.I14_47	dump.out.ecoli60.mci.I20_57 
+dump.out.ecoli60.mci.I60_82	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_83	dump.out.ecoli60.mci.I14_28	dump.out.ecoli60.mci.I20_56 
+dump.out.ecoli60.mci.I60_84	dump.out.ecoli60.mci.I14_13	dump.out.ecoli60.mci.I20_12 
+dump.out.ecoli60.mci.I60_85	dump.out.ecoli60.mci.I14_48	dump.out.ecoli60.mci.I20_90 
+dump.out.ecoli60.mci.I60_86	dump.out.ecoli60.mci.I14_29	dump.out.ecoli60.mci.I20_63 
+dump.out.ecoli60.mci.I60_87	dump.out.ecoli60.mci.I20_6 
+dump.out.ecoli60.mci.I60_87	dump.out.ecoli60.mci.I14_2 
+dump.out.ecoli60.mci.I60_88	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_89	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_90	dump.out.ecoli60.mci.I14_15	dump.out.ecoli60.mci.I20_18 
+dump.out.ecoli60.mci.I60_91	dump.out.ecoli60.mci.I14_69	dump.out.ecoli60.mci.I20_94 
+dump.out.ecoli60.mci.I60_92	dump.out.ecoli60.mci.I14_5	dump.out.ecoli60.mci.I20_5 
+dump.out.ecoli60.mci.I60_93	dump.out.ecoli60.mci.I14_21	dump.out.ecoli60.mci.I20_42 
+dump.out.ecoli60.mci.I60_94	dump.out.ecoli60.mci.I14_6	dump.out.ecoli60.mci.I20_33 
+dump.out.ecoli60.mci.I60_95	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_96	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_95 
+dump.out.ecoli60.mci.I60_97	dump.out.ecoli60.mci.I14_30	dump.out.ecoli60.mci.I20_71 
+dump.out.ecoli60.mci.I60_98	dump.out.ecoli60.mci.I14_24	dump.out.ecoli60.mci.I20_38 
+dump.out.ecoli60.mci.I60_99	dump.out.ecoli60.mci.I14_72	dump.out.ecoli60.mci.I20_99 
+dump.out.ecoli60.mci.I60_100	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_101	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_102	dump.out.ecoli60.mci.I14_22	dump.out.ecoli60.mci.I20_58 
+dump.out.ecoli60.mci.I60_103	dump.out.ecoli60.mci.I14_52	dump.out.ecoli60.mci.I20_101 
+dump.out.ecoli60.mci.I60_104	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_9 
+dump.out.ecoli60.mci.I60_105	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_106	dump.out.ecoli60.mci.I14_79	dump.out.ecoli60.mci.I20_107 
+dump.out.ecoli60.mci.I60_107	dump.out.ecoli60.mci.I14_49	dump.out.ecoli60.mci.I20_64 
+dump.out.ecoli60.mci.I60_108	dump.out.ecoli60.mci.I14_4	dump.out.ecoli60.mci.I20_110 
+dump.out.ecoli60.mci.I60_109	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_6 
+dump.out.ecoli60.mci.I60_110	dump.out.ecoli60.mci.I14_68	dump.out.ecoli60.mci.I20_80 
+dump.out.ecoli60.mci.I60_111	dump.out.ecoli60.mci.I14_56	dump.out.ecoli60.mci.I20_113 
+dump.out.ecoli60.mci.I60_112	dump.out.ecoli60.mci.I14_34	dump.out.ecoli60.mci.I20_81 
+dump.out.ecoli60.mci.I60_113	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_114	dump.out.ecoli60.mci.I14_50	dump.out.ecoli60.mci.I20_116 
+dump.out.ecoli60.mci.I60_115	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_83 
+dump.out.ecoli60.mci.I60_116	dump.out.ecoli60.mci.I14_58	dump.out.ecoli60.mci.I20_119 
+dump.out.ecoli60.mci.I60_117	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_32 
+dump.out.ecoli60.mci.I60_118	dump.out.ecoli60.mci.I14_18	dump.out.ecoli60.mci.I20_84 
+dump.out.ecoli60.mci.I60_119	dump.out.ecoli60.mci.I14_12	dump.out.ecoli60.mci.I20_23 
+dump.out.ecoli60.mci.I60_120	dump.out.ecoli60.mci.I14_26	dump.out.ecoli60.mci.I20_121 
+dump.out.ecoli60.mci.I60_121	dump.out.ecoli60.mci.I14_57	dump.out.ecoli60.mci.I20_179 
+dump.out.ecoli60.mci.I60_122	dump.out.ecoli60.mci.I14_70	dump.out.ecoli60.mci.I20_85 
+dump.out.ecoli60.mci.I60_123	dump.out.ecoli60.mci.I14_104	dump.out.ecoli60.mci.I20_124 
+dump.out.ecoli60.mci.I60_124	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_125	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_126	dump.out.ecoli60.mci.I14_84	dump.out.ecoli60.mci.I20_129 
+dump.out.ecoli60.mci.I60_127	dump.out.ecoli60.mci.I14_9	dump.out.ecoli60.mci.I20_15 
+dump.out.ecoli60.mci.I60_128	dump.out.ecoli60.mci.I14_23	dump.out.ecoli60.mci.I20_39 
+dump.out.ecoli60.mci.I60_129	dump.out.ecoli60.mci.I14_5	dump.out.ecoli60.mci.I20_47 
+dump.out.ecoli60.mci.I60_130	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_131	dump.out.ecoli60.mci.I14_73	dump.out.ecoli60.mci.I20_88 
+dump.out.ecoli60.mci.I60_132	dump.out.ecoli60.mci.I20_6 
+dump.out.ecoli60.mci.I60_132	dump.out.ecoli60.mci.I14_3 
+dump.out.ecoli60.mci.I60_133	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_134	dump.out.ecoli60.mci.I14_11	dump.out.ecoli60.mci.I20_131 
+dump.out.ecoli60.mci.I60_135	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_59 
+dump.out.ecoli60.mci.I60_136	dump.out.ecoli60.mci.I14_14	dump.out.ecoli60.mci.I20_60 
+dump.out.ecoli60.mci.I60_137	dump.out.ecoli60.mci.I14_6	dump.out.ecoli60.mci.I20_8 
+dump.out.ecoli60.mci.I60_138	dump.out.ecoli60.mci.I14_10	dump.out.ecoli60.mci.I20_41 
+dump.out.ecoli60.mci.I60_139	dump.out.ecoli60.mci.I14_10	dump.out.ecoli60.mci.I20_37 
+dump.out.ecoli60.mci.I60_140	dump.out.ecoli60.mci.I14_19	dump.out.ecoli60.mci.I20_24 
+dump.out.ecoli60.mci.I60_141	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_72 
+dump.out.ecoli60.mci.I60_142	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_143	dump.out.ecoli60.mci.I14_7	dump.out.ecoli60.mci.I20_11 
+dump.out.ecoli60.mci.I60_144	dump.out.ecoli60.mci.I14_19	dump.out.ecoli60.mci.I20_24 
+dump.out.ecoli60.mci.I60_145	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_146	dump.out.ecoli60.mci.I14_5	dump.out.ecoli60.mci.I20_133 
+dump.out.ecoli60.mci.I60_147	dump.out.ecoli60.mci.I20_25 
+dump.out.ecoli60.mci.I60_147	dump.out.ecoli60.mci.I14_34 
+dump.out.ecoli60.mci.I60_148	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_142 
+dump.out.ecoli60.mci.I60_149	dump.out.ecoli60.mci.I14_20	dump.out.ecoli60.mci.I20_46 
+dump.out.ecoli60.mci.I60_151	dump.out.ecoli60.mci.I14_7	dump.out.ecoli60.mci.I20_11 
+dump.out.ecoli60.mci.I60_152	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_153	dump.out.ecoli60.mci.I14_91	dump.out.ecoli60.mci.I20_137 
+dump.out.ecoli60.mci.I60_154	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_109 
+dump.out.ecoli60.mci.I60_155	dump.out.ecoli60.mci.I14_92	dump.out.ecoli60.mci.I20_138 
+dump.out.ecoli60.mci.I60_156	dump.out.ecoli60.mci.I14_93	dump.out.ecoli60.mci.I20_139 
+dump.out.ecoli60.mci.I60_157	dump.out.ecoli60.mci.I14_94	dump.out.ecoli60.mci.I20_140 
+dump.out.ecoli60.mci.I60_158	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_159	dump.out.ecoli60.mci.I14_20	dump.out.ecoli60.mci.I20_51 
+dump.out.ecoli60.mci.I60_160	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_161	dump.out.ecoli60.mci.I14_26	dump.out.ecoli60.mci.I20_61 
+dump.out.ecoli60.mci.I60_162	dump.out.ecoli60.mci.I14_97	dump.out.ecoli60.mci.I20_144 
+dump.out.ecoli60.mci.I60_163	dump.out.ecoli60.mci.I14_18	dump.out.ecoli60.mci.I20_20 
+dump.out.ecoli60.mci.I60_165	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_9 
+dump.out.ecoli60.mci.I60_166	dump.out.ecoli60.mci.I14_15	dump.out.ecoli60.mci.I20_66 
+dump.out.ecoli60.mci.I60_167	dump.out.ecoli60.mci.I14_98	dump.out.ecoli60.mci.I20_145 
+dump.out.ecoli60.mci.I60_168	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_169	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_82 
+dump.out.ecoli60.mci.I60_170	dump.out.ecoli60.mci.I14_42	dump.out.ecoli60.mci.I20_114 
+dump.out.ecoli60.mci.I60_173	dump.out.ecoli60.mci.I14_10	dump.out.ecoli60.mci.I20_67 
+dump.out.ecoli60.mci.I60_174	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_175	dump.out.ecoli60.mci.I14_18	dump.out.ecoli60.mci.I20_147 
+dump.out.ecoli60.mci.I60_176	dump.out.ecoli60.mci.I14_4	dump.out.ecoli60.mci.I20_4 
+dump.out.ecoli60.mci.I60_177	dump.out.ecoli60.mci.I20_29 
+dump.out.ecoli60.mci.I60_177	dump.out.ecoli60.mci.I14_4 
+dump.out.ecoli60.mci.I60_178	dump.out.ecoli60.mci.I14_14	dump.out.ecoli60.mci.I20_149 
+dump.out.ecoli60.mci.I60_179	dump.out.ecoli60.mci.I14_101	dump.out.ecoli60.mci.I20_151 
+dump.out.ecoli60.mci.I60_180	dump.out.ecoli60.mci.I14_5	dump.out.ecoli60.mci.I20_152 
+dump.out.ecoli60.mci.I60_181	dump.out.ecoli60.mci.I14_44	dump.out.ecoli60.mci.I20_123 
+dump.out.ecoli60.mci.I60_182	dump.out.ecoli60.mci.I14_83	dump.out.ecoli60.mci.I20_125 
+dump.out.ecoli60.mci.I60_183	dump.out.ecoli60.mci.I14_5	dump.out.ecoli60.mci.I20_127 
+dump.out.ecoli60.mci.I60_184	dump.out.ecoli60.mci.I14_5	dump.out.ecoli60.mci.I20_5 
+dump.out.ecoli60.mci.I60_186	dump.out.ecoli60.mci.I14_105	dump.out.ecoli60.mci.I20_156 
+dump.out.ecoli60.mci.I60_187	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_188	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_59 
+dump.out.ecoli60.mci.I60_189	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_158 
+dump.out.ecoli60.mci.I60_190	dump.out.ecoli60.mci.I14_45	dump.out.ecoli60.mci.I20_97 
+dump.out.ecoli60.mci.I60_191	dump.out.ecoli60.mci.I14_6	dump.out.ecoli60.mci.I20_33 
+dump.out.ecoli60.mci.I60_192	dump.out.ecoli60.mci.I14_12	dump.out.ecoli60.mci.I20_13 
+dump.out.ecoli60.mci.I60_193	dump.out.ecoli60.mci.I14_7	dump.out.ecoli60.mci.I20_54 
+dump.out.ecoli60.mci.I60_194	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_195	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_87 
+dump.out.ecoli60.mci.I60_196	dump.out.ecoli60.mci.I14_5	dump.out.ecoli60.mci.I20_47 
+dump.out.ecoli60.mci.I60_197	dump.out.ecoli60.mci.I14_108	dump.out.ecoli60.mci.I20_163 
+dump.out.ecoli60.mci.I60_198	dump.out.ecoli60.mci.I14_109	dump.out.ecoli60.mci.I20_164 
+dump.out.ecoli60.mci.I60_199	dump.out.ecoli60.mci.I14_62	dump.out.ecoli60.mci.I20_165 
+dump.out.ecoli60.mci.I60_201	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_205 
+dump.out.ecoli60.mci.I60_202	dump.out.ecoli60.mci.I14_18	dump.out.ecoli60.mci.I20_20 
+dump.out.ecoli60.mci.I60_203	dump.out.ecoli60.mci.I20_20 
+dump.out.ecoli60.mci.I60_203	dump.out.ecoli60.mci.I14_2 
+dump.out.ecoli60.mci.I60_205	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_206	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_207	dump.out.ecoli60.mci.I14_63	dump.out.ecoli60.mci.I20_74 
+dump.out.ecoli60.mci.I60_208	dump.out.ecoli60.mci.I14_14	dump.out.ecoli60.mci.I20_60 
+dump.out.ecoli60.mci.I60_210	dump.out.ecoli60.mci.I14_75	dump.out.ecoli60.mci.I20_102 
+dump.out.ecoli60.mci.I60_213	dump.out.ecoli60.mci.I14_111	dump.out.ecoli60.mci.I20_167 
+dump.out.ecoli60.mci.I60_214	dump.out.ecoli60.mci.I14_12	dump.out.ecoli60.mci.I20_23 
+dump.out.ecoli60.mci.I60_215	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_216	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_217	dump.out.ecoli60.mci.I14_76	dump.out.ecoli60.mci.I20_104 
+dump.out.ecoli60.mci.I60_219	dump.out.ecoli60.mci.I14_33	dump.out.ecoli60.mci.I20_31 
+dump.out.ecoli60.mci.I60_220	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_221	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_222	dump.out.ecoli60.mci.I14_54	dump.out.ecoli60.mci.I20_169 
+dump.out.ecoli60.mci.I60_223	dump.out.ecoli60.mci.I14_26	dump.out.ecoli60.mci.I20_61 
+dump.out.ecoli60.mci.I60_224	dump.out.ecoli60.mci.I14_16	dump.out.ecoli60.mci.I20_122 
+dump.out.ecoli60.mci.I60_225	dump.out.ecoli60.mci.I14_23	dump.out.ecoli60.mci.I20_39 
+dump.out.ecoli60.mci.I60_226	dump.out.ecoli60.mci.I14_71	dump.out.ecoli60.mci.I20_170 
+dump.out.ecoli60.mci.I60_227	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_228	dump.out.ecoli60.mci.I14_78	dump.out.ecoli60.mci.I20_135 
+dump.out.ecoli60.mci.I60_229	dump.out.ecoli60.mci.I14_77	dump.out.ecoli60.mci.I20_171 
+dump.out.ecoli60.mci.I60_230	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_231	dump.out.ecoli60.mci.I14_146	dump.out.ecoli60.mci.I20_172 
+dump.out.ecoli60.mci.I60_232	dump.out.ecoli60.mci.I14_90	dump.out.ecoli60.mci.I20_136 
+dump.out.ecoli60.mci.I60_233	dump.out.ecoli60.mci.I14_10	dump.out.ecoli60.mci.I20_103 
+dump.out.ecoli60.mci.I60_234	dump.out.ecoli60.mci.I14_6	dump.out.ecoli60.mci.I20_173 
+dump.out.ecoli60.mci.I60_235	dump.out.ecoli60.mci.I14_35	dump.out.ecoli60.mci.I20_35 
+dump.out.ecoli60.mci.I60_236	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_237	dump.out.ecoli60.mci.I14_67	dump.out.ecoli60.mci.I20_91 
+dump.out.ecoli60.mci.I60_238	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_239	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_240	dump.out.ecoli60.mci.I14_22	dump.out.ecoli60.mci.I20_141 
+dump.out.ecoli60.mci.I60_241	dump.out.ecoli60.mci.I14_6	dump.out.ecoli60.mci.I20_111 
+dump.out.ecoli60.mci.I60_242	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_243	dump.out.ecoli60.mci.I14_117	dump.out.ecoli60.mci.I20_178 
+dump.out.ecoli60.mci.I60_244	dump.out.ecoli60.mci.I14_4	dump.out.ecoli60.mci.I20_112 
+dump.out.ecoli60.mci.I60_245	dump.out.ecoli60.mci.I14_118	dump.out.ecoli60.mci.I20_180 
+dump.out.ecoli60.mci.I60_246	dump.out.ecoli60.mci.I14_81	dump.out.ecoli60.mci.I20_117 
+dump.out.ecoli60.mci.I60_247	dump.out.ecoli60.mci.I14_35	dump.out.ecoli60.mci.I20_35 
+dump.out.ecoli60.mci.I60_248	dump.out.ecoli60.mci.I14_59	dump.out.ecoli60.mci.I20_182 
+dump.out.ecoli60.mci.I60_249	dump.out.ecoli60.mci.I14_42	dump.out.ecoli60.mci.I20_120 
+dump.out.ecoli60.mci.I60_250	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_251	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_252	dump.out.ecoli60.mci.I14_21	dump.out.ecoli60.mci.I20_150 
+dump.out.ecoli60.mci.I60_253	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_184 
+dump.out.ecoli60.mci.I60_254	dump.out.ecoli60.mci.I14_100	dump.out.ecoli60.mci.I20_185 
+dump.out.ecoli60.mci.I60_255	dump.out.ecoli60.mci.I14_82	dump.out.ecoli60.mci.I20_86 
+dump.out.ecoli60.mci.I60_256	dump.out.ecoli60.mci.I14_120	dump.out.ecoli60.mci.I20_186 
+dump.out.ecoli60.mci.I60_257	dump.out.ecoli60.mci.I14_44	dump.out.ecoli60.mci.I20_188 
+dump.out.ecoli60.mci.I60_258	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_189 
+dump.out.ecoli60.mci.I60_259	dump.out.ecoli60.mci.I14_122	dump.out.ecoli60.mci.I20_190 
+dump.out.ecoli60.mci.I60_260	dump.out.ecoli60.mci.I14_4	dump.out.ecoli60.mci.I20_191 
+dump.out.ecoli60.mci.I60_261	dump.out.ecoli60.mci.I14_19	dump.out.ecoli60.mci.I20_24 
+dump.out.ecoli60.mci.I60_262	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_263	dump.out.ecoli60.mci.I20_32 
+dump.out.ecoli60.mci.I60_263	dump.out.ecoli60.mci.I14_10 
+dump.out.ecoli60.mci.I60_264	dump.out.ecoli60.mci.I14_103	dump.out.ecoli60.mci.I20_126 
+dump.out.ecoli60.mci.I60_265	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_266	dump.out.ecoli60.mci.I14_38	dump.out.ecoli60.mci.I20_69 
+dump.out.ecoli60.mci.I60_267	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_193 
+dump.out.ecoli60.mci.I60_268	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_269	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_270	dump.out.ecoli60.mci.I14_124	dump.out.ecoli60.mci.I20_194 
+dump.out.ecoli60.mci.I60_271	dump.out.ecoli60.mci.I20_5 
+dump.out.ecoli60.mci.I60_271	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_272	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_273	dump.out.ecoli60.mci.I20_4 
+dump.out.ecoli60.mci.I60_273	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_274	dump.out.ecoli60.mci.I14_60	dump.out.ecoli60.mci.I20_68 
+dump.out.ecoli60.mci.I60_275	dump.out.ecoli60.mci.I14_127	dump.out.ecoli60.mci.I20_198 
+dump.out.ecoli60.mci.I60_276	dump.out.ecoli60.mci.I20_10 
+dump.out.ecoli60.mci.I60_276	dump.out.ecoli60.mci.I14_10 
+dump.out.ecoli60.mci.I60_277	dump.out.ecoli60.mci.I14_85	dump.out.ecoli60.mci.I20_159 
+dump.out.ecoli60.mci.I60_278	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_160 
+dump.out.ecoli60.mci.I60_279	dump.out.ecoli60.mci.I14_20	dump.out.ecoli60.mci.I20_46 
+dump.out.ecoli60.mci.I60_280	dump.out.ecoli60.mci.I20_73 
+dump.out.ecoli60.mci.I60_280	dump.out.ecoli60.mci.I14_29 
+dump.out.ecoli60.mci.I60_281	dump.out.ecoli60.mci.I14_4	dump.out.ecoli60.mci.I20_4 
+dump.out.ecoli60.mci.I60_282	dump.out.ecoli60.mci.I14_15	dump.out.ecoli60.mci.I20_66 
+dump.out.ecoli60.mci.I60_283	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_73 
+dump.out.ecoli60.mci.I60_284	dump.out.ecoli60.mci.I14_6	dump.out.ecoli60.mci.I20_200 
+dump.out.ecoli60.mci.I60_285	dump.out.ecoli60.mci.I14_130	dump.out.ecoli60.mci.I20_201 
+dump.out.ecoli60.mci.I60_286	dump.out.ecoli60.mci.I14_62	dump.out.ecoli60.mci.I20_202 
+dump.out.ecoli60.mci.I60_287	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_288	dump.out.ecoli60.mci.I14_37	dump.out.ecoli60.mci.I20_96 
+dump.out.ecoli60.mci.I60_289	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_19 
+dump.out.ecoli60.mci.I60_290	dump.out.ecoli60.mci.I14_131	dump.out.ecoli60.mci.I20_203 
+dump.out.ecoli60.mci.I60_291	dump.out.ecoli60.mci.I14_132	dump.out.ecoli60.mci.I20_204 
+dump.out.ecoli60.mci.I60_292	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_293	dump.out.ecoli60.mci.I14_19	dump.out.ecoli60.mci.I20_206 
+dump.out.ecoli60.mci.I60_294	dump.out.ecoli60.mci.I14_9	dump.out.ecoli60.mci.I20_208 
+dump.out.ecoli60.mci.I60_295	dump.out.ecoli60.mci.I14_4	dump.out.ecoli60.mci.I20_4 
+dump.out.ecoli60.mci.I60_296	dump.out.ecoli60.mci.I14_7	dump.out.ecoli60.mci.I20_11 
+dump.out.ecoli60.mci.I60_297	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_210 
+dump.out.ecoli60.mci.I60_298	dump.out.ecoli60.mci.I14_136	dump.out.ecoli60.mci.I20_211 
+dump.out.ecoli60.mci.I60_299	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_9 
+dump.out.ecoli60.mci.I60_300	dump.out.ecoli60.mci.I14_22	dump.out.ecoli60.mci.I20_76 
+dump.out.ecoli60.mci.I60_301	dump.out.ecoli60.mci.I14_137	dump.out.ecoli60.mci.I20_212 
+dump.out.ecoli60.mci.I60_302	dump.out.ecoli60.mci.I14_138	dump.out.ecoli60.mci.I20_213 
+dump.out.ecoli60.mci.I60_303	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_304	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_305	dump.out.ecoli60.mci.I14_139	dump.out.ecoli60.mci.I20_215 
+dump.out.ecoli60.mci.I60_306	dump.out.ecoli60.mci.I14_140	dump.out.ecoli60.mci.I20_216 
+dump.out.ecoli60.mci.I60_307	dump.out.ecoli60.mci.I14_10	dump.out.ecoli60.mci.I20_37 
+dump.out.ecoli60.mci.I60_308	dump.out.ecoli60.mci.I14_19	dump.out.ecoli60.mci.I20_24 
+dump.out.ecoli60.mci.I60_309	dump.out.ecoli60.mci.I14_65	dump.out.ecoli60.mci.I20_89 
+dump.out.ecoli60.mci.I60_310	dump.out.ecoli60.mci.I14_17	dump.out.ecoli60.mci.I20_21 
+dump.out.ecoli60.mci.I60_311	dump.out.ecoli60.mci.I14_54	dump.out.ecoli60.mci.I20_217 
+dump.out.ecoli60.mci.I60_312	dump.out.ecoli60.mci.I14_12	dump.out.ecoli60.mci.I20_13 
+dump.out.ecoli60.mci.I60_313	dump.out.ecoli60.mci.I14_141	dump.out.ecoli60.mci.I20_218 
+dump.out.ecoli60.mci.I60_314	dump.out.ecoli60.mci.I14_89	dump.out.ecoli60.mci.I20_77 
+dump.out.ecoli60.mci.I60_315	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_316	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_316	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_317	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_318	dump.out.ecoli60.mci.I14_142	dump.out.ecoli60.mci.I20_220 
+dump.out.ecoli60.mci.I60_319	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_134 
+dump.out.ecoli60.mci.I60_320	dump.out.ecoli60.mci.I14_143	dump.out.ecoli60.mci.I20_221 
+dump.out.ecoli60.mci.I60_321	dump.out.ecoli60.mci.I14_30	dump.out.ecoli60.mci.I20_222 
+dump.out.ecoli60.mci.I60_322	dump.out.ecoli60.mci.I14_10	dump.out.ecoli60.mci.I20_67 
+dump.out.ecoli60.mci.I60_323	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_9 
+dump.out.ecoli60.mci.I60_324	dump.out.ecoli60.mci.I14_66	dump.out.ecoli60.mci.I20_65 
+dump.out.ecoli60.mci.I60_325	dump.out.ecoli60.mci.I14_63	dump.out.ecoli60.mci.I20_74 
+dump.out.ecoli60.mci.I60_326	dump.out.ecoli60.mci.I14_86	dump.out.ecoli60.mci.I20_168 
+dump.out.ecoli60.mci.I60_327	dump.out.ecoli60.mci.I14_8	dump.out.ecoli60.mci.I20_225 
+dump.out.ecoli60.mci.I60_328	dump.out.ecoli60.mci.I14_9	dump.out.ecoli60.mci.I20_228 
+dump.out.ecoli60.mci.I60_329	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_229 
+dump.out.ecoli60.mci.I60_330	dump.out.ecoli60.mci.I14_148	dump.out.ecoli60.mci.I20_230 
+dump.out.ecoli60.mci.I60_331	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_332	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_333	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_333	dump.out.ecoli60.mci.I14_25 
+dump.out.ecoli60.mci.I60_334	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_231 
+dump.out.ecoli60.mci.I60_335	dump.out.ecoli60.mci.I14_112	dump.out.ecoli60.mci.I20_232 
+dump.out.ecoli60.mci.I60_336	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_337	dump.out.ecoli60.mci.I14_28	dump.out.ecoli60.mci.I20_174 
+dump.out.ecoli60.mci.I60_338	dump.out.ecoli60.mci.I14_55	dump.out.ecoli60.mci.I20_108 
+dump.out.ecoli60.mci.I60_339	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_233 
+dump.out.ecoli60.mci.I60_340	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_19 
+dump.out.ecoli60.mci.I60_341	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_9 
+dump.out.ecoli60.mci.I60_342	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_342	dump.out.ecoli60.mci.I14_3 
+dump.out.ecoli60.mci.I60_343	dump.out.ecoli60.mci.I14_7	dump.out.ecoli60.mci.I20_54 
+dump.out.ecoli60.mci.I60_344	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_345	dump.out.ecoli60.mci.I20_35 
+dump.out.ecoli60.mci.I60_345	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_346	dump.out.ecoli60.mci.I14_149	dump.out.ecoli60.mci.I20_234 
+dump.out.ecoli60.mci.I60_347	dump.out.ecoli60.mci.I14_14	dump.out.ecoli60.mci.I20_43 
+dump.out.ecoli60.mci.I60_348	dump.out.ecoli60.mci.I14_6	dump.out.ecoli60.mci.I20_8 
+dump.out.ecoli60.mci.I60_349	dump.out.ecoli60.mci.I14_59	dump.out.ecoli60.mci.I20_235 
+dump.out.ecoli60.mci.I60_350	dump.out.ecoli60.mci.I14_7	dump.out.ecoli60.mci.I20_11 
+dump.out.ecoli60.mci.I60_351	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_352	dump.out.ecoli60.mci.I20_53 
+dump.out.ecoli60.mci.I60_352	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_353	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_354	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_487 
+dump.out.ecoli60.mci.I60_355	dump.out.ecoli60.mci.I14_150	dump.out.ecoli60.mci.I20_236 
+dump.out.ecoli60.mci.I60_356	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_357	dump.out.ecoli60.mci.I14_152	dump.out.ecoli60.mci.I20_237 
+dump.out.ecoli60.mci.I60_358	dump.out.ecoli60.mci.I14_116	dump.out.ecoli60.mci.I20_238 
+dump.out.ecoli60.mci.I60_359	dump.out.ecoli60.mci.I14_64	dump.out.ecoli60.mci.I20_106 
+dump.out.ecoli60.mci.I60_360	dump.out.ecoli60.mci.I14_153	dump.out.ecoli60.mci.I20_239 
+dump.out.ecoli60.mci.I60_361	dump.out.ecoli60.mci.I14_22	dump.out.ecoli60.mci.I20_76 
+dump.out.ecoli60.mci.I60_362	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_362	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_363	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_6 
+dump.out.ecoli60.mci.I60_364	dump.out.ecoli60.mci.I14_4	dump.out.ecoli60.mci.I20_4 
+dump.out.ecoli60.mci.I60_365	dump.out.ecoli60.mci.I14_155	dump.out.ecoli60.mci.I20_241 
+dump.out.ecoli60.mci.I60_366	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_367	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_242 
+dump.out.ecoli60.mci.I60_368	dump.out.ecoli60.mci.I14_67	dump.out.ecoli60.mci.I20_91 
+dump.out.ecoli60.mci.I60_369	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_10 
+dump.out.ecoli60.mci.I60_370	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_371	dump.out.ecoli60.mci.I14_16	dump.out.ecoli60.mci.I20_45 
+dump.out.ecoli60.mci.I60_374	dump.out.ecoli60.mci.I14_158	dump.out.ecoli60.mci.I20_246 
+dump.out.ecoli60.mci.I60_375	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_376	dump.out.ecoli60.mci.I14_10	dump.out.ecoli60.mci.I20_247 
+dump.out.ecoli60.mci.I60_377	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_378	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_379	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_380	dump.out.ecoli60.mci.I14_114	dump.out.ecoli60.mci.I20_249 
+dump.out.ecoli60.mci.I60_381	dump.out.ecoli60.mci.I14_19	dump.out.ecoli60.mci.I20_250 
+dump.out.ecoli60.mci.I60_382	dump.out.ecoli60.mci.I14_160	dump.out.ecoli60.mci.I20_251 
+dump.out.ecoli60.mci.I60_383	dump.out.ecoli60.mci.I14_161	dump.out.ecoli60.mci.I20_252 
+dump.out.ecoli60.mci.I60_384	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_92 
+dump.out.ecoli60.mci.I60_385	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_386	dump.out.ecoli60.mci.I14_7	dump.out.ecoli60.mci.I20_162 
+dump.out.ecoli60.mci.I60_387	dump.out.ecoli60.mci.I20_49 
+dump.out.ecoli60.mci.I60_387	dump.out.ecoli60.mci.I14_31 
+dump.out.ecoli60.mci.I60_388	dump.out.ecoli60.mci.I14_163	dump.out.ecoli60.mci.I20_253 
+dump.out.ecoli60.mci.I60_389	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_390	dump.out.ecoli60.mci.I14_102	dump.out.ecoli60.mci.I20_254 
+dump.out.ecoli60.mci.I60_391	dump.out.ecoli60.mci.I14_23	dump.out.ecoli60.mci.I20_39 
+dump.out.ecoli60.mci.I60_392	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_6 
+dump.out.ecoli60.mci.I60_393	dump.out.ecoli60.mci.I14_50	dump.out.ecoli60.mci.I20_255 
+dump.out.ecoli60.mci.I60_394	dump.out.ecoli60.mci.I14_38	dump.out.ecoli60.mci.I20_69 
+dump.out.ecoli60.mci.I60_395	dump.out.ecoli60.mci.I14_96	dump.out.ecoli60.mci.I20_143 
+dump.out.ecoli60.mci.I60_396	dump.out.ecoli60.mci.I14_14	dump.out.ecoli60.mci.I20_43 
+dump.out.ecoli60.mci.I60_397	dump.out.ecoli60.mci.I14_10	dump.out.ecoli60.mci.I20_161 
+dump.out.ecoli60.mci.I60_398	dump.out.ecoli60.mci.I14_88	dump.out.ecoli60.mci.I20_256 
+dump.out.ecoli60.mci.I60_399	dump.out.ecoli60.mci.I14_95	dump.out.ecoli60.mci.I20_257 
+dump.out.ecoli60.mci.I60_400	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_401	dump.out.ecoli60.mci.I14_49	dump.out.ecoli60.mci.I20_64 
+dump.out.ecoli60.mci.I60_402	dump.out.ecoli60.mci.I20_77 
+dump.out.ecoli60.mci.I60_402	dump.out.ecoli60.mci.I14_3 
+dump.out.ecoli60.mci.I60_403	dump.out.ecoli60.mci.I14_166	dump.out.ecoli60.mci.I20_258 
+dump.out.ecoli60.mci.I60_404	dump.out.ecoli60.mci.I14_167	dump.out.ecoli60.mci.I20_259 
+dump.out.ecoli60.mci.I60_405	dump.out.ecoli60.mci.I14_168	dump.out.ecoli60.mci.I20_260 
+dump.out.ecoli60.mci.I60_406	dump.out.ecoli60.mci.I14_169	dump.out.ecoli60.mci.I20_261 
+dump.out.ecoli60.mci.I60_407	dump.out.ecoli60.mci.I14_170	dump.out.ecoli60.mci.I20_262 
+dump.out.ecoli60.mci.I60_408	dump.out.ecoli60.mci.I14_10	dump.out.ecoli60.mci.I20_263 
+dump.out.ecoli60.mci.I60_411	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_412	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_264 
+dump.out.ecoli60.mci.I60_413	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_414	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_82 
+dump.out.ecoli60.mci.I60_416	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_417	dump.out.ecoli60.mci.I14_4	dump.out.ecoli60.mci.I20_4 
+dump.out.ecoli60.mci.I60_418	dump.out.ecoli60.mci.I14_171	dump.out.ecoli60.mci.I20_181 
+dump.out.ecoli60.mci.I60_419	dump.out.ecoli60.mci.I14_81	dump.out.ecoli60.mci.I20_117 
+dump.out.ecoli60.mci.I60_421	dump.out.ecoli60.mci.I14_172	dump.out.ecoli60.mci.I20_265 
+dump.out.ecoli60.mci.I60_422	dump.out.ecoli60.mci.I14_16	dump.out.ecoli60.mci.I20_45 
+dump.out.ecoli60.mci.I60_424	dump.out.ecoli60.mci.I14_18	dump.out.ecoli60.mci.I20_84 
+dump.out.ecoli60.mci.I60_425	dump.out.ecoli60.mci.I20_50 
+dump.out.ecoli60.mci.I60_425	dump.out.ecoli60.mci.I14_4 
+dump.out.ecoli60.mci.I60_426	dump.out.ecoli60.mci.I14_5	dump.out.ecoli60.mci.I20_5 
+dump.out.ecoli60.mci.I60_427	dump.out.ecoli60.mci.I14_60	dump.out.ecoli60.mci.I20_68 
+dump.out.ecoli60.mci.I60_428	dump.out.ecoli60.mci.I14_99	dump.out.ecoli60.mci.I20_148 
+dump.out.ecoli60.mci.I60_429	dump.out.ecoli60.mci.I14_99	dump.out.ecoli60.mci.I20_148 
+dump.out.ecoli60.mci.I60_431	dump.out.ecoli60.mci.I14_16	dump.out.ecoli60.mci.I20_45 
+dump.out.ecoli60.mci.I60_432	dump.out.ecoli60.mci.I14_173	dump.out.ecoli60.mci.I20_266 
+dump.out.ecoli60.mci.I60_434	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_435	dump.out.ecoli60.mci.I14_51	dump.out.ecoli60.mci.I20_267 
+dump.out.ecoli60.mci.I60_437	dump.out.ecoli60.mci.I14_43	dump.out.ecoli60.mci.I20_153 
+dump.out.ecoli60.mci.I60_438	dump.out.ecoli60.mci.I14_4	dump.out.ecoli60.mci.I20_154 
+dump.out.ecoli60.mci.I60_439	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_118 
+dump.out.ecoli60.mci.I60_441	dump.out.ecoli60.mci.I14_174	dump.out.ecoli60.mci.I20_269 
+dump.out.ecoli60.mci.I60_442	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_443	dump.out.ecoli60.mci.I14_175	dump.out.ecoli60.mci.I20_270 
+dump.out.ecoli60.mci.I60_444	dump.out.ecoli60.mci.I14_45	dump.out.ecoli60.mci.I20_271 
+dump.out.ecoli60.mci.I60_446	dump.out.ecoli60.mci.I14_7	dump.out.ecoli60.mci.I20_27 
+dump.out.ecoli60.mci.I60_447	dump.out.ecoli60.mci.I20_6 
+dump.out.ecoli60.mci.I60_447	dump.out.ecoli60.mci.I14_2 
+dump.out.ecoli60.mci.I60_448	dump.out.ecoli60.mci.I14_23	dump.out.ecoli60.mci.I20_272 
+dump.out.ecoli60.mci.I60_449	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_450	dump.out.ecoli60.mci.I20_155 
+dump.out.ecoli60.mci.I60_450	dump.out.ecoli60.mci.I14_19 
+dump.out.ecoli60.mci.I60_452	dump.out.ecoli60.mci.I14_36	dump.out.ecoli60.mci.I20_52 
+dump.out.ecoli60.mci.I60_454	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_273 
+dump.out.ecoli60.mci.I60_455	dump.out.ecoli60.mci.I14_176	dump.out.ecoli60.mci.I20_274 
+dump.out.ecoli60.mci.I60_456	dump.out.ecoli60.mci.I14_25	dump.out.ecoli60.mci.I20_36 
+dump.out.ecoli60.mci.I60_457	dump.out.ecoli60.mci.I20_18 
+dump.out.ecoli60.mci.I60_457	dump.out.ecoli60.mci.I14_4 
+dump.out.ecoli60.mci.I60_458	dump.out.ecoli60.mci.I14_177	dump.out.ecoli60.mci.I20_275 
+dump.out.ecoli60.mci.I60_459	dump.out.ecoli60.mci.I14_10	dump.out.ecoli60.mci.I20_37 
+dump.out.ecoli60.mci.I60_462	dump.out.ecoli60.mci.I14_43	dump.out.ecoli60.mci.I20_276 
+dump.out.ecoli60.mci.I60_463	dump.out.ecoli60.mci.I14_15	dump.out.ecoli60.mci.I20_18 
+dump.out.ecoli60.mci.I60_465	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_195 
+dump.out.ecoli60.mci.I60_466	dump.out.ecoli60.mci.I20_11 
+dump.out.ecoli60.mci.I60_466	dump.out.ecoli60.mci.I14_5 
+dump.out.ecoli60.mci.I60_467	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_468	dump.out.ecoli60.mci.I14_125	dump.out.ecoli60.mci.I20_196 
+dump.out.ecoli60.mci.I60_469	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_157 
+dump.out.ecoli60.mci.I60_470	dump.out.ecoli60.mci.I14_106	dump.out.ecoli60.mci.I20_197 
+dump.out.ecoli60.mci.I60_471	dump.out.ecoli60.mci.I14_20	dump.out.ecoli60.mci.I20_51 
+dump.out.ecoli60.mci.I60_472	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_10 
+dump.out.ecoli60.mci.I60_473	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_157 
+dump.out.ecoli60.mci.I60_475	dump.out.ecoli60.mci.I14_178	dump.out.ecoli60.mci.I20_277 
+dump.out.ecoli60.mci.I60_479	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_100 
+dump.out.ecoli60.mci.I60_480	dump.out.ecoli60.mci.I20_100 
+dump.out.ecoli60.mci.I60_480	dump.out.ecoli60.mci.I14_107 
+dump.out.ecoli60.mci.I60_482	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_278 
+dump.out.ecoli60.mci.I60_483	dump.out.ecoli60.mci.I14_129	dump.out.ecoli60.mci.I20_199 
+dump.out.ecoli60.mci.I60_485	dump.out.ecoli60.mci.I14_61	dump.out.ecoli60.mci.I20_130 
+dump.out.ecoli60.mci.I60_486	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_487	dump.out.ecoli60.mci.I14_15	dump.out.ecoli60.mci.I20_66 
+dump.out.ecoli60.mci.I60_488	dump.out.ecoli60.mci.I14_15	dump.out.ecoli60.mci.I20_18 
+dump.out.ecoli60.mci.I60_489	dump.out.ecoli60.mci.I14_15	dump.out.ecoli60.mci.I20_18 
+dump.out.ecoli60.mci.I60_490	dump.out.ecoli60.mci.I14_110	dump.out.ecoli60.mci.I20_279 
+dump.out.ecoli60.mci.I60_491	dump.out.ecoli60.mci.I14_179	dump.out.ecoli60.mci.I20_280 
+dump.out.ecoli60.mci.I60_494	dump.out.ecoli60.mci.I14_87	dump.out.ecoli60.mci.I20_115 
+dump.out.ecoli60.mci.I60_497	dump.out.ecoli60.mci.I14_38	dump.out.ecoli60.mci.I20_69 
+dump.out.ecoli60.mci.I60_498	dump.out.ecoli60.mci.I14_123	dump.out.ecoli60.mci.I20_281 
+dump.out.ecoli60.mci.I60_501	dump.out.ecoli60.mci.I14_74	dump.out.ecoli60.mci.I20_132 
+dump.out.ecoli60.mci.I60_502	dump.out.ecoli60.mci.I14_74	dump.out.ecoli60.mci.I20_132 
+dump.out.ecoli60.mci.I60_503	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_504	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_282 
+dump.out.ecoli60.mci.I60_505	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_6 
+dump.out.ecoli60.mci.I60_506	dump.out.ecoli60.mci.I14_75	dump.out.ecoli60.mci.I20_102 
+dump.out.ecoli60.mci.I60_507	dump.out.ecoli60.mci.I14_135	dump.out.ecoli60.mci.I20_283 
+dump.out.ecoli60.mci.I60_508	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_284 
+dump.out.ecoli60.mci.I60_509	dump.out.ecoli60.mci.I14_76	dump.out.ecoli60.mci.I20_104 
+dump.out.ecoli60.mci.I60_510	dump.out.ecoli60.mci.I14_37	dump.out.ecoli60.mci.I20_285 
+dump.out.ecoli60.mci.I60_511	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_513	dump.out.ecoli60.mci.I14_52	dump.out.ecoli60.mci.I20_286 
+dump.out.ecoli60.mci.I60_514	dump.out.ecoli60.mci.I20_34 
+dump.out.ecoli60.mci.I60_514	dump.out.ecoli60.mci.I14_7 
+dump.out.ecoli60.mci.I60_515	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_32 
+dump.out.ecoli60.mci.I60_516	dump.out.ecoli60.mci.I20_155 
+dump.out.ecoli60.mci.I60_516	dump.out.ecoli60.mci.I14_88 
+dump.out.ecoli60.mci.I60_517	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_518	dump.out.ecoli60.mci.I14_180	dump.out.ecoli60.mci.I20_287 
+dump.out.ecoli60.mci.I60_519	dump.out.ecoli60.mci.I14_22	dump.out.ecoli60.mci.I20_214 
+dump.out.ecoli60.mci.I60_521	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_523	dump.out.ecoli60.mci.I14_65	dump.out.ecoli60.mci.I20_89 
+dump.out.ecoli60.mci.I60_524	dump.out.ecoli60.mci.I20_16 
+dump.out.ecoli60.mci.I60_524	dump.out.ecoli60.mci.I14_3 
+dump.out.ecoli60.mci.I60_525	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_526	dump.out.ecoli60.mci.I14_181	dump.out.ecoli60.mci.I20_288 
+dump.out.ecoli60.mci.I60_527	dump.out.ecoli60.mci.I20_50 
+dump.out.ecoli60.mci.I60_527	dump.out.ecoli60.mci.I14_5 
+dump.out.ecoli60.mci.I60_528	dump.out.ecoli60.mci.I14_5	dump.out.ecoli60.mci.I20_289 
+dump.out.ecoli60.mci.I60_529	dump.out.ecoli60.mci.I14_89	dump.out.ecoli60.mci.I20_77 
+dump.out.ecoli60.mci.I60_530	dump.out.ecoli60.mci.I20_38 
+dump.out.ecoli60.mci.I60_530	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_532	dump.out.ecoli60.mci.I14_182	dump.out.ecoli60.mci.I20_290 
+dump.out.ecoli60.mci.I60_533	dump.out.ecoli60.mci.I14_7	dump.out.ecoli60.mci.I20_291 
+dump.out.ecoli60.mci.I60_534	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_292 
+dump.out.ecoli60.mci.I60_535	dump.out.ecoli60.mci.I14_107	dump.out.ecoli60.mci.I20_183 
+dump.out.ecoli60.mci.I60_536	dump.out.ecoli60.mci.I14_183	dump.out.ecoli60.mci.I20_293 
+dump.out.ecoli60.mci.I60_537	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_538	dump.out.ecoli60.mci.I14_184	dump.out.ecoli60.mci.I20_219 
+dump.out.ecoli60.mci.I60_539	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_541	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_542	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_544	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_545	dump.out.ecoli60.mci.I14_185	dump.out.ecoli60.mci.I20_294 
+dump.out.ecoli60.mci.I60_546	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_547	dump.out.ecoli60.mci.I14_144	dump.out.ecoli60.mci.I20_295 
+dump.out.ecoli60.mci.I60_548	dump.out.ecoli60.mci.I14_186	dump.out.ecoli60.mci.I20_223 
+dump.out.ecoli60.mci.I60_549	dump.out.ecoli60.mci.I14_145	dump.out.ecoli60.mci.I20_296 
+dump.out.ecoli60.mci.I60_551	dump.out.ecoli60.mci.I14_187	dump.out.ecoli60.mci.I20_297 
+dump.out.ecoli60.mci.I60_552	dump.out.ecoli60.mci.I14_14	dump.out.ecoli60.mci.I20_298 
+dump.out.ecoli60.mci.I60_553	dump.out.ecoli60.mci.I14_66	dump.out.ecoli60.mci.I20_65 
+dump.out.ecoli60.mci.I60_554	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_10 
+dump.out.ecoli60.mci.I60_557	dump.out.ecoli60.mci.I14_188	dump.out.ecoli60.mci.I20_299 
+dump.out.ecoli60.mci.I60_558	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_559	dump.out.ecoli60.mci.I14_110	dump.out.ecoli60.mci.I20_300 
+dump.out.ecoli60.mci.I60_560	dump.out.ecoli60.mci.I14_189	dump.out.ecoli60.mci.I20_301 
+dump.out.ecoli60.mci.I60_561	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_227 
+dump.out.ecoli60.mci.I60_562	dump.out.ecoli60.mci.I14_64	dump.out.ecoli60.mci.I20_106 
+dump.out.ecoli60.mci.I60_563	dump.out.ecoli60.mci.I14_12	dump.out.ecoli60.mci.I20_13 
+dump.out.ecoli60.mci.I60_564	dump.out.ecoli60.mci.I14_23	dump.out.ecoli60.mci.I20_302 
+dump.out.ecoli60.mci.I60_565	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_303 
+dump.out.ecoli60.mci.I60_566	dump.out.ecoli60.mci.I14_10	dump.out.ecoli60.mci.I20_41 
+dump.out.ecoli60.mci.I60_567	dump.out.ecoli60.mci.I14_20	dump.out.ecoli60.mci.I20_304 
+dump.out.ecoli60.mci.I60_568	dump.out.ecoli60.mci.I14_20	dump.out.ecoli60.mci.I20_305 
+dump.out.ecoli60.mci.I60_570	dump.out.ecoli60.mci.I14_190	dump.out.ecoli60.mci.I20_306 
+dump.out.ecoli60.mci.I60_571	dump.out.ecoli60.mci.I14_191	dump.out.ecoli60.mci.I20_307 
+dump.out.ecoli60.mci.I60_574	dump.out.ecoli60.mci.I14_4	dump.out.ecoli60.mci.I20_112 
+dump.out.ecoli60.mci.I60_575	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_9 
+dump.out.ecoli60.mci.I60_576	dump.out.ecoli60.mci.I14_192	dump.out.ecoli60.mci.I20_308 
+dump.out.ecoli60.mci.I60_578	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_579	dump.out.ecoli60.mci.I14_28	dump.out.ecoli60.mci.I20_56 
+dump.out.ecoli60.mci.I60_580	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_581	dump.out.ecoli60.mci.I14_5	dump.out.ecoli60.mci.I20_309 
+dump.out.ecoli60.mci.I60_584	dump.out.ecoli60.mci.I14_113	dump.out.ecoli60.mci.I20_310 
+dump.out.ecoli60.mci.I60_585	dump.out.ecoli60.mci.I20_10 
+dump.out.ecoli60.mci.I60_585	dump.out.ecoli60.mci.I14_4 
+dump.out.ecoli60.mci.I60_586	dump.out.ecoli60.mci.I14_4	dump.out.ecoli60.mci.I20_312 
+dump.out.ecoli60.mci.I60_587	dump.out.ecoli60.mci.I14_193	dump.out.ecoli60.mci.I20_313 
+dump.out.ecoli60.mci.I60_588	dump.out.ecoli60.mci.I14_9	dump.out.ecoli60.mci.I20_314 
+dump.out.ecoli60.mci.I60_589	dump.out.ecoli60.mci.I14_9	dump.out.ecoli60.mci.I20_315 
+dump.out.ecoli60.mci.I60_591	dump.out.ecoli60.mci.I14_194	dump.out.ecoli60.mci.I20_316 
+dump.out.ecoli60.mci.I60_592	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_594	dump.out.ecoli60.mci.I14_30	dump.out.ecoli60.mci.I20_71 
+dump.out.ecoli60.mci.I60_595	dump.out.ecoli60.mci.I14_195	dump.out.ecoli60.mci.I20_317 
+dump.out.ecoli60.mci.I60_596	dump.out.ecoli60.mci.I14_196	dump.out.ecoli60.mci.I20_318 
+dump.out.ecoli60.mci.I60_597	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_16 
+dump.out.ecoli60.mci.I60_598	dump.out.ecoli60.mci.I14_197	dump.out.ecoli60.mci.I20_319 
+dump.out.ecoli60.mci.I60_599	dump.out.ecoli60.mci.I14_18	dump.out.ecoli60.mci.I20_20 
+dump.out.ecoli60.mci.I60_600	dump.out.ecoli60.mci.I20_86 
+dump.out.ecoli60.mci.I60_600	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_601	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_602	dump.out.ecoli60.mci.I14_198	dump.out.ecoli60.mci.I20_320 
+dump.out.ecoli60.mci.I60_603	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_604	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_606	dump.out.ecoli60.mci.I14_35	dump.out.ecoli60.mci.I20_35 
+dump.out.ecoli60.mci.I60_609	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_321 
+dump.out.ecoli60.mci.I60_610	dump.out.ecoli60.mci.I14_199	dump.out.ecoli60.mci.I20_322 
+dump.out.ecoli60.mci.I60_611	dump.out.ecoli60.mci.I14_151	dump.out.ecoli60.mci.I20_323 
+dump.out.ecoli60.mci.I60_612	dump.out.ecoli60.mci.I14_200	dump.out.ecoli60.mci.I20_324 
+dump.out.ecoli60.mci.I60_613	dump.out.ecoli60.mci.I14_4	dump.out.ecoli60.mci.I20_4 
+dump.out.ecoli60.mci.I60_614	dump.out.ecoli60.mci.I14_115	dump.out.ecoli60.mci.I20_325 
+dump.out.ecoli60.mci.I60_615	dump.out.ecoli60.mci.I14_21	dump.out.ecoli60.mci.I20_42 
+dump.out.ecoli60.mci.I60_616	dump.out.ecoli60.mci.I14_13	dump.out.ecoli60.mci.I20_12 
+dump.out.ecoli60.mci.I60_617	dump.out.ecoli60.mci.I14_128	dump.out.ecoli60.mci.I20_326 
+dump.out.ecoli60.mci.I60_618	dump.out.ecoli60.mci.I14_4	dump.out.ecoli60.mci.I20_4 
+dump.out.ecoli60.mci.I60_619	dump.out.ecoli60.mci.I14_10	dump.out.ecoli60.mci.I20_41 
+dump.out.ecoli60.mci.I60_620	dump.out.ecoli60.mci.I14_80	dump.out.ecoli60.mci.I20_176 
+dump.out.ecoli60.mci.I60_621	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_327 
+dump.out.ecoli60.mci.I60_623	dump.out.ecoli60.mci.I14_201	dump.out.ecoli60.mci.I20_329 
+dump.out.ecoli60.mci.I60_625	dump.out.ecoli60.mci.I14_60	dump.out.ecoli60.mci.I20_68 
+dump.out.ecoli60.mci.I60_626	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_627	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_9 
+dump.out.ecoli60.mci.I60_628	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_330 
+dump.out.ecoli60.mci.I60_629	dump.out.ecoli60.mci.I14_21	dump.out.ecoli60.mci.I20_98 
+dump.out.ecoli60.mci.I60_630	dump.out.ecoli60.mci.I14_126	dump.out.ecoli60.mci.I20_331 
+dump.out.ecoli60.mci.I60_631	dump.out.ecoli60.mci.I14_5	dump.out.ecoli60.mci.I20_177 
+dump.out.ecoli60.mci.I60_632	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_633	dump.out.ecoli60.mci.I14_119	dump.out.ecoli60.mci.I20_332 
+dump.out.ecoli60.mci.I60_634	dump.out.ecoli60.mci.I14_43	dump.out.ecoli60.mci.I20_153 
+dump.out.ecoli60.mci.I60_635	dump.out.ecoli60.mci.I14_202	dump.out.ecoli60.mci.I20_333 
+dump.out.ecoli60.mci.I60_636	dump.out.ecoli60.mci.I14_34	dump.out.ecoli60.mci.I20_81 
+dump.out.ecoli60.mci.I60_637	dump.out.ecoli60.mci.I14_157	dump.out.ecoli60.mci.I20_334 
+dump.out.ecoli60.mci.I60_638	dump.out.ecoli60.mci.I14_203	dump.out.ecoli60.mci.I20_335 
+dump.out.ecoli60.mci.I60_639	dump.out.ecoli60.mci.I14_33	dump.out.ecoli60.mci.I20_31 
+dump.out.ecoli60.mci.I60_640	dump.out.ecoli60.mci.I14_12	dump.out.ecoli60.mci.I20_336 
+dump.out.ecoli60.mci.I60_641	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_207 
+dump.out.ecoli60.mci.I60_642	dump.out.ecoli60.mci.I14_133	dump.out.ecoli60.mci.I20_337 
+dump.out.ecoli60.mci.I60_643	dump.out.ecoli60.mci.I14_33	dump.out.ecoli60.mci.I20_31 
+dump.out.ecoli60.mci.I60_644	dump.out.ecoli60.mci.I14_43	dump.out.ecoli60.mci.I20_338 
+dump.out.ecoli60.mci.I60_646	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_647	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_648	dump.out.ecoli60.mci.I14_159	dump.out.ecoli60.mci.I20_339 
+dump.out.ecoli60.mci.I60_649	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_340 
+dump.out.ecoli60.mci.I60_651	dump.out.ecoli60.mci.I14_204	dump.out.ecoli60.mci.I20_341 
+dump.out.ecoli60.mci.I60_653	dump.out.ecoli60.mci.I14_95	dump.out.ecoli60.mci.I20_248 
+dump.out.ecoli60.mci.I60_654	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_655	dump.out.ecoli60.mci.I14_205	dump.out.ecoli60.mci.I20_342 
+dump.out.ecoli60.mci.I60_656	dump.out.ecoli60.mci.I14_61	dump.out.ecoli60.mci.I20_130 
+dump.out.ecoli60.mci.I60_657	dump.out.ecoli60.mci.I14_15	dump.out.ecoli60.mci.I20_18 
+dump.out.ecoli60.mci.I60_658	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_659	dump.out.ecoli60.mci.I14_21	dump.out.ecoli60.mci.I20_79 
+dump.out.ecoli60.mci.I60_660	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_661	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_663	dump.out.ecoli60.mci.I14_61	dump.out.ecoli60.mci.I20_243 
+dump.out.ecoli60.mci.I60_665	dump.out.ecoli60.mci.I14_206	dump.out.ecoli60.mci.I20_344 
+dump.out.ecoli60.mci.I60_666	dump.out.ecoli60.mci.I14_80	dump.out.ecoli60.mci.I20_176 
+dump.out.ecoli60.mci.I60_668	dump.out.ecoli60.mci.I14_147	dump.out.ecoli60.mci.I20_345 
+dump.out.ecoli60.mci.I60_669	dump.out.ecoli60.mci.I14_55	dump.out.ecoli60.mci.I20_108 
+dump.out.ecoli60.mci.I60_670	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_671	dump.out.ecoli60.mci.I14_207	dump.out.ecoli60.mci.I20_346 
+dump.out.ecoli60.mci.I60_672	dump.out.ecoli60.mci.I14_31	dump.out.ecoli60.mci.I20_347 
+dump.out.ecoli60.mci.I60_673	dump.out.ecoli60.mci.I20_11 
+dump.out.ecoli60.mci.I60_673	dump.out.ecoli60.mci.I14_56 
+dump.out.ecoli60.mci.I60_677	dump.out.ecoli60.mci.I14_162	dump.out.ecoli60.mci.I20_348 
+dump.out.ecoli60.mci.I60_679	dump.out.ecoli60.mci.I14_208	dump.out.ecoli60.mci.I20_349 
+dump.out.ecoli60.mci.I60_680	dump.out.ecoli60.mci.I14_154	dump.out.ecoli60.mci.I20_240 
+dump.out.ecoli60.mci.I60_681	dump.out.ecoli60.mci.I14_4	dump.out.ecoli60.mci.I20_154 
+dump.out.ecoli60.mci.I60_684	dump.out.ecoli60.mci.I14_209	dump.out.ecoli60.mci.I20_350 
+dump.out.ecoli60.mci.I60_685	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_175 
+dump.out.ecoli60.mci.I60_687	dump.out.ecoli60.mci.I14_210	dump.out.ecoli60.mci.I20_352 
+dump.out.ecoli60.mci.I60_688	dump.out.ecoli60.mci.I14_16	dump.out.ecoli60.mci.I20_353 
+dump.out.ecoli60.mci.I60_689	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_690	dump.out.ecoli60.mci.I14_164	dump.out.ecoli60.mci.I20_354 
+dump.out.ecoli60.mci.I60_691	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_6 
+dump.out.ecoli60.mci.I60_692	dump.out.ecoli60.mci.I14_7	dump.out.ecoli60.mci.I20_27 
+dump.out.ecoli60.mci.I60_693	dump.out.ecoli60.mci.I20_6 
+dump.out.ecoli60.mci.I60_693	dump.out.ecoli60.mci.I14_3 
+dump.out.ecoli60.mci.I60_695	dump.out.ecoli60.mci.I14_6	dump.out.ecoli60.mci.I20_8 
+dump.out.ecoli60.mci.I60_697	dump.out.ecoli60.mci.I14_211	dump.out.ecoli60.mci.I20_355 
+dump.out.ecoli60.mci.I60_698	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_699	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_356 
+dump.out.ecoli60.mci.I60_700	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_701	dump.out.ecoli60.mci.I20_50 
+dump.out.ecoli60.mci.I60_701	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_702	dump.out.ecoli60.mci.I14_24	dump.out.ecoli60.mci.I20_38 
+dump.out.ecoli60.mci.I60_703	dump.out.ecoli60.mci.I14_96	dump.out.ecoli60.mci.I20_143 
+dump.out.ecoli60.mci.I60_704	dump.out.ecoli60.mci.I14_212	dump.out.ecoli60.mci.I20_357 
+dump.out.ecoli60.mci.I60_706	dump.out.ecoli60.mci.I14_213	dump.out.ecoli60.mci.I20_358 
+dump.out.ecoli60.mci.I60_707	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_100 
+dump.out.ecoli60.mci.I60_708	dump.out.ecoli60.mci.I14_165	dump.out.ecoli60.mci.I20_359 
+dump.out.ecoli60.mci.I60_709	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_360 
+dump.out.ecoli60.mci.I60_711	dump.out.ecoli60.mci.I14_6	dump.out.ecoli60.mci.I20_361 
+dump.out.ecoli60.mci.I60_712	dump.out.ecoli60.mci.I14_214	dump.out.ecoli60.mci.I20_362 
+dump.out.ecoli60.mci.I60_713	dump.out.ecoli60.mci.I20_10 
+dump.out.ecoli60.mci.I60_713	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_714	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_715	dump.out.ecoli60.mci.I14_20	dump.out.ecoli60.mci.I20_46 
+dump.out.ecoli60.mci.I60_716	dump.out.ecoli60.mci.I14_215	dump.out.ecoli60.mci.I20_363 
+dump.out.ecoli60.mci.I60_717	dump.out.ecoli60.mci.I14_134	dump.out.ecoli60.mci.I20_209 
+dump.out.ecoli60.mci.I60_718	dump.out.ecoli60.mci.I14_216	dump.out.ecoli60.mci.I20_364 
+dump.out.ecoli60.mci.I60_719	dump.out.ecoli60.mci.I14_17	dump.out.ecoli60.mci.I20_128 
+dump.out.ecoli60.mci.I60_720	dump.out.ecoli60.mci.I14_22	dump.out.ecoli60.mci.I20_58 
+dump.out.ecoli60.mci.I60_721	dump.out.ecoli60.mci.I14_5	dump.out.ecoli60.mci.I20_5 
+dump.out.ecoli60.mci.I60_722	dump.out.ecoli60.mci.I14_217	dump.out.ecoli60.mci.I20_365 
+dump.out.ecoli60.mci.I60_723	dump.out.ecoli60.mci.I14_156	dump.out.ecoli60.mci.I20_245 
+dump.out.ecoli60.mci.I60_724	dump.out.ecoli60.mci.I14_6	dump.out.ecoli60.mci.I20_111 
+dump.out.ecoli60.mci.I60_725	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_726	dump.out.ecoli60.mci.I14_4	dump.out.ecoli60.mci.I20_34 
+dump.out.ecoli60.mci.I60_727	dump.out.ecoli60.mci.I14_218	dump.out.ecoli60.mci.I20_366 
+dump.out.ecoli60.mci.I60_728	dump.out.ecoli60.mci.I14_121	dump.out.ecoli60.mci.I20_187 
+dump.out.ecoli60.mci.I60_729	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_730	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_367 
+dump.out.ecoli60.mci.I60_731	dump.out.ecoli60.mci.I14_9	dump.out.ecoli60.mci.I20_368 
+dump.out.ecoli60.mci.I60_732	dump.out.ecoli60.mci.I14_219	dump.out.ecoli60.mci.I20_369 
+dump.out.ecoli60.mci.I60_733	dump.out.ecoli60.mci.I14_220	dump.out.ecoli60.mci.I20_370 
+dump.out.ecoli60.mci.I60_734	dump.out.ecoli60.mci.I14_221	dump.out.ecoli60.mci.I20_371 
+dump.out.ecoli60.mci.I60_735	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_736	dump.out.ecoli60.mci.I14_222	dump.out.ecoli60.mci.I20_372 
+dump.out.ecoli60.mci.I60_737	dump.out.ecoli60.mci.I14_223	dump.out.ecoli60.mci.I20_373 
+dump.out.ecoli60.mci.I60_738	dump.out.ecoli60.mci.I14_224	dump.out.ecoli60.mci.I20_374 
+dump.out.ecoli60.mci.I60_739	dump.out.ecoli60.mci.I14_225	dump.out.ecoli60.mci.I20_375 
+dump.out.ecoli60.mci.I60_740	dump.out.ecoli60.mci.I14_226	dump.out.ecoli60.mci.I20_376 
+dump.out.ecoli60.mci.I60_741	dump.out.ecoli60.mci.I20_10 
+dump.out.ecoli60.mci.I60_741	dump.out.ecoli60.mci.I14_5 
+dump.out.ecoli60.mci.I60_742	dump.out.ecoli60.mci.I14_227	dump.out.ecoli60.mci.I20_377 
+dump.out.ecoli60.mci.I60_743	dump.out.ecoli60.mci.I14_228	dump.out.ecoli60.mci.I20_378 
+dump.out.ecoli60.mci.I60_744	dump.out.ecoli60.mci.I14_5	dump.out.ecoli60.mci.I20_5 
+dump.out.ecoli60.mci.I60_745	dump.out.ecoli60.mci.I14_229	dump.out.ecoli60.mci.I20_379 
+dump.out.ecoli60.mci.I60_746	dump.out.ecoli60.mci.I14_230	dump.out.ecoli60.mci.I20_380 
+dump.out.ecoli60.mci.I60_747	dump.out.ecoli60.mci.I14_10	dump.out.ecoli60.mci.I20_41 
+dump.out.ecoli60.mci.I60_748	dump.out.ecoli60.mci.I14_231	dump.out.ecoli60.mci.I20_381 
+dump.out.ecoli60.mci.I60_749	dump.out.ecoli60.mci.I14_5	dump.out.ecoli60.mci.I20_5 
+dump.out.ecoli60.mci.I60_750	dump.out.ecoli60.mci.I14_232	dump.out.ecoli60.mci.I20_382 
+dump.out.ecoli60.mci.I60_751	dump.out.ecoli60.mci.I14_233	dump.out.ecoli60.mci.I20_383 
+dump.out.ecoli60.mci.I60_752	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_753	dump.out.ecoli60.mci.I14_234	dump.out.ecoli60.mci.I20_384 
+dump.out.ecoli60.mci.I60_754	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_755	dump.out.ecoli60.mci.I14_235	dump.out.ecoli60.mci.I20_385 
+dump.out.ecoli60.mci.I60_756	dump.out.ecoli60.mci.I14_236	dump.out.ecoli60.mci.I20_386 
+dump.out.ecoli60.mci.I60_757	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_758	dump.out.ecoli60.mci.I14_16	dump.out.ecoli60.mci.I20_122 
+dump.out.ecoli60.mci.I60_759	dump.out.ecoli60.mci.I14_237	dump.out.ecoli60.mci.I20_387 
+dump.out.ecoli60.mci.I60_760	dump.out.ecoli60.mci.I14_238	dump.out.ecoli60.mci.I20_388 
+dump.out.ecoli60.mci.I60_761	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_6 
+dump.out.ecoli60.mci.I60_762	dump.out.ecoli60.mci.I14_239	dump.out.ecoli60.mci.I20_389 
+dump.out.ecoli60.mci.I60_763	dump.out.ecoli60.mci.I14_240	dump.out.ecoli60.mci.I20_390 
+dump.out.ecoli60.mci.I60_764	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_764	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_765	dump.out.ecoli60.mci.I14_241	dump.out.ecoli60.mci.I20_391 
+dump.out.ecoli60.mci.I60_766	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_10 
+dump.out.ecoli60.mci.I60_767	dump.out.ecoli60.mci.I14_242	dump.out.ecoli60.mci.I20_392 
+dump.out.ecoli60.mci.I60_768	dump.out.ecoli60.mci.I14_37	dump.out.ecoli60.mci.I20_96 
+dump.out.ecoli60.mci.I60_769	dump.out.ecoli60.mci.I14_243	dump.out.ecoli60.mci.I20_393 
+dump.out.ecoli60.mci.I60_770	dump.out.ecoli60.mci.I14_244	dump.out.ecoli60.mci.I20_394 
+dump.out.ecoli60.mci.I60_771	dump.out.ecoli60.mci.I14_29	dump.out.ecoli60.mci.I20_192 
+dump.out.ecoli60.mci.I60_772	dump.out.ecoli60.mci.I20_127 
+dump.out.ecoli60.mci.I60_772	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_773	dump.out.ecoli60.mci.I14_245	dump.out.ecoli60.mci.I20_395 
+dump.out.ecoli60.mci.I60_774	dump.out.ecoli60.mci.I14_29	dump.out.ecoli60.mci.I20_192 
+dump.out.ecoli60.mci.I60_775	dump.out.ecoli60.mci.I14_246	dump.out.ecoli60.mci.I20_396 
+dump.out.ecoli60.mci.I60_776	dump.out.ecoli60.mci.I20_13 
+dump.out.ecoli60.mci.I60_776	dump.out.ecoli60.mci.I14_3 
+dump.out.ecoli60.mci.I60_777	dump.out.ecoli60.mci.I14_7	dump.out.ecoli60.mci.I20_11 
+dump.out.ecoli60.mci.I60_778	dump.out.ecoli60.mci.I14_247	dump.out.ecoli60.mci.I20_397 
+dump.out.ecoli60.mci.I60_779	dump.out.ecoli60.mci.I14_248	dump.out.ecoli60.mci.I20_398 
+dump.out.ecoli60.mci.I60_780	dump.out.ecoli60.mci.I14_5	dump.out.ecoli60.mci.I20_17 
+dump.out.ecoli60.mci.I60_781	dump.out.ecoli60.mci.I14_249	dump.out.ecoli60.mci.I20_399 
+dump.out.ecoli60.mci.I60_782	dump.out.ecoli60.mci.I14_250	dump.out.ecoli60.mci.I20_400 
+dump.out.ecoli60.mci.I60_783	dump.out.ecoli60.mci.I14_21	dump.out.ecoli60.mci.I20_98 
+dump.out.ecoli60.mci.I60_784	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_785	dump.out.ecoli60.mci.I14_251	dump.out.ecoli60.mci.I20_401 
+dump.out.ecoli60.mci.I60_786	dump.out.ecoli60.mci.I14_252	dump.out.ecoli60.mci.I20_402 
+dump.out.ecoli60.mci.I60_787	dump.out.ecoli60.mci.I20_42 
+dump.out.ecoli60.mci.I60_787	dump.out.ecoli60.mci.I14_128 
+dump.out.ecoli60.mci.I60_788	dump.out.ecoli60.mci.I14_253	dump.out.ecoli60.mci.I20_403 
+dump.out.ecoli60.mci.I60_789	dump.out.ecoli60.mci.I20_161 
+dump.out.ecoli60.mci.I60_789	dump.out.ecoli60.mci.I14_86 
+dump.out.ecoli60.mci.I60_790	dump.out.ecoli60.mci.I14_254	dump.out.ecoli60.mci.I20_404 
+dump.out.ecoli60.mci.I60_791	dump.out.ecoli60.mci.I20_31 
+dump.out.ecoli60.mci.I60_791	dump.out.ecoli60.mci.I14_2 
+dump.out.ecoli60.mci.I60_792	dump.out.ecoli60.mci.I14_7	dump.out.ecoli60.mci.I20_11 
+dump.out.ecoli60.mci.I60_793	dump.out.ecoli60.mci.I20_19 
+dump.out.ecoli60.mci.I60_793	dump.out.ecoli60.mci.I14_38 
+dump.out.ecoli60.mci.I60_794	dump.out.ecoli60.mci.I14_255	dump.out.ecoli60.mci.I20_405 
+dump.out.ecoli60.mci.I60_795	dump.out.ecoli60.mci.I14_256	dump.out.ecoli60.mci.I20_406 
+dump.out.ecoli60.mci.I60_796	dump.out.ecoli60.mci.I20_11 
+dump.out.ecoli60.mci.I60_796	dump.out.ecoli60.mci.I14_31 
+dump.out.ecoli60.mci.I60_797	dump.out.ecoli60.mci.I14_257	dump.out.ecoli60.mci.I20_407 
+dump.out.ecoli60.mci.I60_798	dump.out.ecoli60.mci.I14_258	dump.out.ecoli60.mci.I20_408 
+dump.out.ecoli60.mci.I60_799	dump.out.ecoli60.mci.I14_259	dump.out.ecoli60.mci.I20_409 
+dump.out.ecoli60.mci.I60_800	dump.out.ecoli60.mci.I14_260	dump.out.ecoli60.mci.I20_410 
+dump.out.ecoli60.mci.I60_801	dump.out.ecoli60.mci.I14_261	dump.out.ecoli60.mci.I20_411 
+dump.out.ecoli60.mci.I60_802	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_803	dump.out.ecoli60.mci.I14_11	dump.out.ecoli60.mci.I20_14 
+dump.out.ecoli60.mci.I60_804	dump.out.ecoli60.mci.I14_11	dump.out.ecoli60.mci.I20_14 
+dump.out.ecoli60.mci.I60_805	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_806	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_807	dump.out.ecoli60.mci.I14_262	dump.out.ecoli60.mci.I20_412 
+dump.out.ecoli60.mci.I60_808	dump.out.ecoli60.mci.I14_263	dump.out.ecoli60.mci.I20_413 
+dump.out.ecoli60.mci.I60_809	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_810	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_811	dump.out.ecoli60.mci.I20_82 
+dump.out.ecoli60.mci.I60_811	dump.out.ecoli60.mci.I14_2 
+dump.out.ecoli60.mci.I60_812	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_813	dump.out.ecoli60.mci.I14_264	dump.out.ecoli60.mci.I20_414 
+dump.out.ecoli60.mci.I60_814	dump.out.ecoli60.mci.I14_265	dump.out.ecoli60.mci.I20_415 
+dump.out.ecoli60.mci.I60_815	dump.out.ecoli60.mci.I20_6 
+dump.out.ecoli60.mci.I60_815	dump.out.ecoli60.mci.I14_2 
+dump.out.ecoli60.mci.I60_816	dump.out.ecoli60.mci.I14_15	dump.out.ecoli60.mci.I20_18 
+dump.out.ecoli60.mci.I60_817	dump.out.ecoli60.mci.I14_266	dump.out.ecoli60.mci.I20_416 
+dump.out.ecoli60.mci.I60_818	dump.out.ecoli60.mci.I14_267	dump.out.ecoli60.mci.I20_417 
+dump.out.ecoli60.mci.I60_819	dump.out.ecoli60.mci.I14_10	dump.out.ecoli60.mci.I20_103 
+dump.out.ecoli60.mci.I60_820	dump.out.ecoli60.mci.I14_268	dump.out.ecoli60.mci.I20_418 
+dump.out.ecoli60.mci.I60_821	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_822	dump.out.ecoli60.mci.I14_269	dump.out.ecoli60.mci.I20_419 
+dump.out.ecoli60.mci.I60_823	dump.out.ecoli60.mci.I14_270	dump.out.ecoli60.mci.I20_420 
+dump.out.ecoli60.mci.I60_824	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_825	dump.out.ecoli60.mci.I14_271	dump.out.ecoli60.mci.I20_421 
+dump.out.ecoli60.mci.I60_826	dump.out.ecoli60.mci.I14_272	dump.out.ecoli60.mci.I20_422 
+dump.out.ecoli60.mci.I60_827	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_19 
+dump.out.ecoli60.mci.I60_828	dump.out.ecoli60.mci.I14_273	dump.out.ecoli60.mci.I20_423 
+dump.out.ecoli60.mci.I60_829	dump.out.ecoli60.mci.I14_274	dump.out.ecoli60.mci.I20_424 
+dump.out.ecoli60.mci.I60_830	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_831	dump.out.ecoli60.mci.I14_275	dump.out.ecoli60.mci.I20_425 
+dump.out.ecoli60.mci.I60_832	dump.out.ecoli60.mci.I14_276	dump.out.ecoli60.mci.I20_426 
+dump.out.ecoli60.mci.I60_833	dump.out.ecoli60.mci.I14_64	dump.out.ecoli60.mci.I20_106 
+dump.out.ecoli60.mci.I60_834	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_835	dump.out.ecoli60.mci.I14_277	dump.out.ecoli60.mci.I20_427 
+dump.out.ecoli60.mci.I60_836	dump.out.ecoli60.mci.I14_278	dump.out.ecoli60.mci.I20_428 
+dump.out.ecoli60.mci.I60_837	dump.out.ecoli60.mci.I14_279	dump.out.ecoli60.mci.I20_429 
+dump.out.ecoli60.mci.I60_838	dump.out.ecoli60.mci.I14_280	dump.out.ecoli60.mci.I20_430 
+dump.out.ecoli60.mci.I60_839	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_840	dump.out.ecoli60.mci.I14_65	dump.out.ecoli60.mci.I20_89 
+dump.out.ecoli60.mci.I60_841	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_842	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_843	dump.out.ecoli60.mci.I14_9	dump.out.ecoli60.mci.I20_26 
+dump.out.ecoli60.mci.I60_844	dump.out.ecoli60.mci.I14_281	dump.out.ecoli60.mci.I20_431 
+dump.out.ecoli60.mci.I60_845	dump.out.ecoli60.mci.I14_282	dump.out.ecoli60.mci.I20_432 
+dump.out.ecoli60.mci.I60_846	dump.out.ecoli60.mci.I14_283	dump.out.ecoli60.mci.I20_433 
+dump.out.ecoli60.mci.I60_847	dump.out.ecoli60.mci.I14_284	dump.out.ecoli60.mci.I20_434 
+dump.out.ecoli60.mci.I60_848	dump.out.ecoli60.mci.I14_285	dump.out.ecoli60.mci.I20_435 
+dump.out.ecoli60.mci.I60_849	dump.out.ecoli60.mci.I14_286	dump.out.ecoli60.mci.I20_436 
+dump.out.ecoli60.mci.I60_850	dump.out.ecoli60.mci.I14_287	dump.out.ecoli60.mci.I20_437 
+dump.out.ecoli60.mci.I60_851	dump.out.ecoli60.mci.I14_288	dump.out.ecoli60.mci.I20_438 
+dump.out.ecoli60.mci.I60_852	dump.out.ecoli60.mci.I14_289	dump.out.ecoli60.mci.I20_439 
+dump.out.ecoli60.mci.I60_853	dump.out.ecoli60.mci.I14_290	dump.out.ecoli60.mci.I20_440 
+dump.out.ecoli60.mci.I60_854	dump.out.ecoli60.mci.I14_291	dump.out.ecoli60.mci.I20_441 
+dump.out.ecoli60.mci.I60_855	dump.out.ecoli60.mci.I14_292	dump.out.ecoli60.mci.I20_442 
+dump.out.ecoli60.mci.I60_856	dump.out.ecoli60.mci.I14_293	dump.out.ecoli60.mci.I20_443 
+dump.out.ecoli60.mci.I60_857	dump.out.ecoli60.mci.I14_294	dump.out.ecoli60.mci.I20_444 
+dump.out.ecoli60.mci.I60_858	dump.out.ecoli60.mci.I14_295	dump.out.ecoli60.mci.I20_445 
+dump.out.ecoli60.mci.I60_859	dump.out.ecoli60.mci.I14_296	dump.out.ecoli60.mci.I20_446 
+dump.out.ecoli60.mci.I60_860	dump.out.ecoli60.mci.I14_297	dump.out.ecoli60.mci.I20_447 
+dump.out.ecoli60.mci.I60_861	dump.out.ecoli60.mci.I20_63 
+dump.out.ecoli60.mci.I60_861	dump.out.ecoli60.mci.I14_3 
+dump.out.ecoli60.mci.I60_862	dump.out.ecoli60.mci.I14_19	dump.out.ecoli60.mci.I20_24 
+dump.out.ecoli60.mci.I60_863	dump.out.ecoli60.mci.I14_298	dump.out.ecoli60.mci.I20_448 
+dump.out.ecoli60.mci.I60_864	dump.out.ecoli60.mci.I14_299	dump.out.ecoli60.mci.I20_449 
+dump.out.ecoli60.mci.I60_865	dump.out.ecoli60.mci.I20_32 
+dump.out.ecoli60.mci.I60_865	dump.out.ecoli60.mci.I14_77 
+dump.out.ecoli60.mci.I60_866	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_867	dump.out.ecoli60.mci.I14_300	dump.out.ecoli60.mci.I20_450 
+dump.out.ecoli60.mci.I60_868	dump.out.ecoli60.mci.I14_5	dump.out.ecoli60.mci.I20_5 
+dump.out.ecoli60.mci.I60_869	dump.out.ecoli60.mci.I14_301	dump.out.ecoli60.mci.I20_451 
+dump.out.ecoli60.mci.I60_870	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_10 
+dump.out.ecoli60.mci.I60_871	dump.out.ecoli60.mci.I20_49 
+dump.out.ecoli60.mci.I60_871	dump.out.ecoli60.mci.I14_31 
+dump.out.ecoli60.mci.I60_872	dump.out.ecoli60.mci.I14_302	dump.out.ecoli60.mci.I20_452 
+dump.out.ecoli60.mci.I60_873	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_874	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_875	dump.out.ecoli60.mci.I14_303	dump.out.ecoli60.mci.I20_453 
+dump.out.ecoli60.mci.I60_876	dump.out.ecoli60.mci.I14_304	dump.out.ecoli60.mci.I20_454 
+dump.out.ecoli60.mci.I60_877	dump.out.ecoli60.mci.I14_305	dump.out.ecoli60.mci.I20_455 
+dump.out.ecoli60.mci.I60_878	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_9 
+dump.out.ecoli60.mci.I60_879	dump.out.ecoli60.mci.I14_306	dump.out.ecoli60.mci.I20_456 
+dump.out.ecoli60.mci.I60_880	dump.out.ecoli60.mci.I14_15	dump.out.ecoli60.mci.I20_18 
+dump.out.ecoli60.mci.I60_881	dump.out.ecoli60.mci.I14_307	dump.out.ecoli60.mci.I20_457 
+dump.out.ecoli60.mci.I60_882	dump.out.ecoli60.mci.I14_308	dump.out.ecoli60.mci.I20_458 
+dump.out.ecoli60.mci.I60_883	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_884	dump.out.ecoli60.mci.I14_309	dump.out.ecoli60.mci.I20_459 
+dump.out.ecoli60.mci.I60_885	dump.out.ecoli60.mci.I14_310	dump.out.ecoli60.mci.I20_460 
+dump.out.ecoli60.mci.I60_886	dump.out.ecoli60.mci.I14_74	dump.out.ecoli60.mci.I20_226 
+dump.out.ecoli60.mci.I60_887	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_888	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_889	dump.out.ecoli60.mci.I20_126 
+dump.out.ecoli60.mci.I60_889	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_890	dump.out.ecoli60.mci.I14_4	dump.out.ecoli60.mci.I20_93 
+dump.out.ecoli60.mci.I60_891	dump.out.ecoli60.mci.I14_311	dump.out.ecoli60.mci.I20_461 
+dump.out.ecoli60.mci.I60_892	dump.out.ecoli60.mci.I14_312	dump.out.ecoli60.mci.I20_462 
+dump.out.ecoli60.mci.I60_893	dump.out.ecoli60.mci.I14_313	dump.out.ecoli60.mci.I20_463 
+dump.out.ecoli60.mci.I60_894	dump.out.ecoli60.mci.I14_314	dump.out.ecoli60.mci.I20_464 
+dump.out.ecoli60.mci.I60_895	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_896	dump.out.ecoli60.mci.I14_315	dump.out.ecoli60.mci.I20_465 
+dump.out.ecoli60.mci.I60_897	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_898	dump.out.ecoli60.mci.I14_20	dump.out.ecoli60.mci.I20_46 
+dump.out.ecoli60.mci.I60_899	dump.out.ecoli60.mci.I14_6	dump.out.ecoli60.mci.I20_8 
+dump.out.ecoli60.mci.I60_900	dump.out.ecoli60.mci.I14_316	dump.out.ecoli60.mci.I20_466 
+dump.out.ecoli60.mci.I60_901	dump.out.ecoli60.mci.I20_16 
+dump.out.ecoli60.mci.I60_901	dump.out.ecoli60.mci.I14_12 
+dump.out.ecoli60.mci.I60_902	dump.out.ecoli60.mci.I14_317	dump.out.ecoli60.mci.I20_467 
+dump.out.ecoli60.mci.I60_903	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_904	dump.out.ecoli60.mci.I14_318	dump.out.ecoli60.mci.I20_468 
+dump.out.ecoli60.mci.I60_905	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_906	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_6 
+dump.out.ecoli60.mci.I60_907	dump.out.ecoli60.mci.I14_319	dump.out.ecoli60.mci.I20_469 
+dump.out.ecoli60.mci.I60_908	dump.out.ecoli60.mci.I14_320	dump.out.ecoli60.mci.I20_470 
+dump.out.ecoli60.mci.I60_909	dump.out.ecoli60.mci.I14_321	dump.out.ecoli60.mci.I20_471 
+dump.out.ecoli60.mci.I60_910	dump.out.ecoli60.mci.I14_322	dump.out.ecoli60.mci.I20_472 
+dump.out.ecoli60.mci.I60_911	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_912	dump.out.ecoli60.mci.I14_28	dump.out.ecoli60.mci.I20_56 
+dump.out.ecoli60.mci.I60_913	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_914	dump.out.ecoli60.mci.I20_38 
+dump.out.ecoli60.mci.I60_914	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_915	dump.out.ecoli60.mci.I14_323	dump.out.ecoli60.mci.I20_473 
+dump.out.ecoli60.mci.I60_916	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_917	dump.out.ecoli60.mci.I14_113	dump.out.ecoli60.mci.I20_311 
+dump.out.ecoli60.mci.I60_918	dump.out.ecoli60.mci.I14_113	dump.out.ecoli60.mci.I20_311 
+dump.out.ecoli60.mci.I60_919	dump.out.ecoli60.mci.I20_49 
+dump.out.ecoli60.mci.I60_919	dump.out.ecoli60.mci.I14_4 
+dump.out.ecoli60.mci.I60_920	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_921	dump.out.ecoli60.mci.I14_324	dump.out.ecoli60.mci.I20_474 
+dump.out.ecoli60.mci.I60_922	dump.out.ecoli60.mci.I14_21	dump.out.ecoli60.mci.I20_79 
+dump.out.ecoli60.mci.I60_923	dump.out.ecoli60.mci.I20_9 
+dump.out.ecoli60.mci.I60_923	dump.out.ecoli60.mci.I14_2 
+dump.out.ecoli60.mci.I60_924	dump.out.ecoli60.mci.I14_325	dump.out.ecoli60.mci.I20_475 
+dump.out.ecoli60.mci.I60_925	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_926	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_927	dump.out.ecoli60.mci.I14_5	dump.out.ecoli60.mci.I20_5 
+dump.out.ecoli60.mci.I60_928	dump.out.ecoli60.mci.I14_5	dump.out.ecoli60.mci.I20_47 
+dump.out.ecoli60.mci.I60_929	dump.out.ecoli60.mci.I20_150 
+dump.out.ecoli60.mci.I60_929	dump.out.ecoli60.mci.I14_10 
+dump.out.ecoli60.mci.I60_930	dump.out.ecoli60.mci.I14_326	dump.out.ecoli60.mci.I20_476 
+dump.out.ecoli60.mci.I60_931	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_932	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_933	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_934	dump.out.ecoli60.mci.I14_327	dump.out.ecoli60.mci.I20_477 
+dump.out.ecoli60.mci.I60_935	dump.out.ecoli60.mci.I14_328	dump.out.ecoli60.mci.I20_478 
+dump.out.ecoli60.mci.I60_936	dump.out.ecoli60.mci.I14_12	dump.out.ecoli60.mci.I20_23 
+dump.out.ecoli60.mci.I60_937	dump.out.ecoli60.mci.I14_329	dump.out.ecoli60.mci.I20_479 
+dump.out.ecoli60.mci.I60_938	dump.out.ecoli60.mci.I14_330	dump.out.ecoli60.mci.I20_480 
+dump.out.ecoli60.mci.I60_939	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_82 
+dump.out.ecoli60.mci.I60_940	dump.out.ecoli60.mci.I20_20 
+dump.out.ecoli60.mci.I60_940	dump.out.ecoli60.mci.I14_4 
+dump.out.ecoli60.mci.I60_941	dump.out.ecoli60.mci.I14_331	dump.out.ecoli60.mci.I20_481 
+dump.out.ecoli60.mci.I60_942	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_73 
+dump.out.ecoli60.mci.I60_943	dump.out.ecoli60.mci.I14_29	dump.out.ecoli60.mci.I20_192 
+dump.out.ecoli60.mci.I60_944	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_945	dump.out.ecoli60.mci.I14_5	dump.out.ecoli60.mci.I20_28 
+dump.out.ecoli60.mci.I60_946	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_947	dump.out.ecoli60.mci.I14_78	dump.out.ecoli60.mci.I20_135 
+dump.out.ecoli60.mci.I60_948	dump.out.ecoli60.mci.I14_36	dump.out.ecoli60.mci.I20_52 
+dump.out.ecoli60.mci.I60_949	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_950	dump.out.ecoli60.mci.I14_332	dump.out.ecoli60.mci.I20_482 
+dump.out.ecoli60.mci.I60_951	dump.out.ecoli60.mci.I14_333	dump.out.ecoli60.mci.I20_483 
+dump.out.ecoli60.mci.I60_952	dump.out.ecoli60.mci.I20_226 
+dump.out.ecoli60.mci.I60_952	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_953	dump.out.ecoli60.mci.I14_334	dump.out.ecoli60.mci.I20_484 
+dump.out.ecoli60.mci.I60_954	dump.out.ecoli60.mci.I14_335	dump.out.ecoli60.mci.I20_485 
+dump.out.ecoli60.mci.I60_955	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_956	dump.out.ecoli60.mci.I14_336	dump.out.ecoli60.mci.I20_486 
+dump.out.ecoli60.mci.I60_957	dump.out.ecoli60.mci.I14_7	dump.out.ecoli60.mci.I20_11 
+dump.out.ecoli60.mci.I60_958	dump.out.ecoli60.mci.I20_51 
+dump.out.ecoli60.mci.I60_958	dump.out.ecoli60.mci.I14_16 
+dump.out.ecoli60.mci.I60_959	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_960	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_32 
+dump.out.ecoli60.mci.I60_961	dump.out.ecoli60.mci.I14_337	dump.out.ecoli60.mci.I20_488 
+dump.out.ecoli60.mci.I60_962	dump.out.ecoli60.mci.I14_338	dump.out.ecoli60.mci.I20_489 
+dump.out.ecoli60.mci.I60_963	dump.out.ecoli60.mci.I14_339	dump.out.ecoli60.mci.I20_490 
+dump.out.ecoli60.mci.I60_964	dump.out.ecoli60.mci.I14_340	dump.out.ecoli60.mci.I20_491 
+dump.out.ecoli60.mci.I60_965	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_32 
+dump.out.ecoli60.mci.I60_966	dump.out.ecoli60.mci.I14_341	dump.out.ecoli60.mci.I20_492 
+dump.out.ecoli60.mci.I60_967	dump.out.ecoli60.mci.I14_10	dump.out.ecoli60.mci.I20_67 
+dump.out.ecoli60.mci.I60_968	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_969	dump.out.ecoli60.mci.I14_342	dump.out.ecoli60.mci.I20_493 
+dump.out.ecoli60.mci.I60_970	dump.out.ecoli60.mci.I14_343	dump.out.ecoli60.mci.I20_494 
+dump.out.ecoli60.mci.I60_971	dump.out.ecoli60.mci.I14_344	dump.out.ecoli60.mci.I20_495 
+dump.out.ecoli60.mci.I60_972	dump.out.ecoli60.mci.I14_154	dump.out.ecoli60.mci.I20_240 
+dump.out.ecoli60.mci.I60_973	dump.out.ecoli60.mci.I14_345	dump.out.ecoli60.mci.I20_496 
+dump.out.ecoli60.mci.I60_974	dump.out.ecoli60.mci.I14_346	dump.out.ecoli60.mci.I20_497 
+dump.out.ecoli60.mci.I60_975	dump.out.ecoli60.mci.I14_347	dump.out.ecoli60.mci.I20_498 
+dump.out.ecoli60.mci.I60_976	dump.out.ecoli60.mci.I20_47 
+dump.out.ecoli60.mci.I60_976	dump.out.ecoli60.mci.I14_16 
+dump.out.ecoli60.mci.I60_977	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_978	dump.out.ecoli60.mci.I14_348	dump.out.ecoli60.mci.I20_499 
+dump.out.ecoli60.mci.I60_979	dump.out.ecoli60.mci.I14_349	dump.out.ecoli60.mci.I20_500 
+dump.out.ecoli60.mci.I60_980	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_6 
+dump.out.ecoli60.mci.I60_981	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_982	dump.out.ecoli60.mci.I14_350	dump.out.ecoli60.mci.I20_501 
+dump.out.ecoli60.mci.I60_983	dump.out.ecoli60.mci.I14_351	dump.out.ecoli60.mci.I20_502 
+dump.out.ecoli60.mci.I60_984	dump.out.ecoli60.mci.I20_227 
+dump.out.ecoli60.mci.I60_984	dump.out.ecoli60.mci.I14_3 
+dump.out.ecoli60.mci.I60_985	dump.out.ecoli60.mci.I14_352	dump.out.ecoli60.mci.I20_503 
+dump.out.ecoli60.mci.I60_986	dump.out.ecoli60.mci.I14_353	dump.out.ecoli60.mci.I20_504 
+dump.out.ecoli60.mci.I60_987	dump.out.ecoli60.mci.I14_354	dump.out.ecoli60.mci.I20_505 
+dump.out.ecoli60.mci.I60_988	dump.out.ecoli60.mci.I14_355	dump.out.ecoli60.mci.I20_506 
+dump.out.ecoli60.mci.I60_989	dump.out.ecoli60.mci.I14_356	dump.out.ecoli60.mci.I20_507 
+dump.out.ecoli60.mci.I60_990	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_990	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_991	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_992	dump.out.ecoli60.mci.I14_357	dump.out.ecoli60.mci.I20_508 
+dump.out.ecoli60.mci.I60_993	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_994	dump.out.ecoli60.mci.I14_5	dump.out.ecoli60.mci.I20_328 
+dump.out.ecoli60.mci.I60_995	dump.out.ecoli60.mci.I14_7	dump.out.ecoli60.mci.I20_27 
+dump.out.ecoli60.mci.I60_996	dump.out.ecoli60.mci.I14_358	dump.out.ecoli60.mci.I20_509 
+dump.out.ecoli60.mci.I60_997	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_998	dump.out.ecoli60.mci.I14_5	dump.out.ecoli60.mci.I20_328 
+dump.out.ecoli60.mci.I60_999	dump.out.ecoli60.mci.I14_16	dump.out.ecoli60.mci.I20_45 
+dump.out.ecoli60.mci.I60_1000	dump.out.ecoli60.mci.I14_125	dump.out.ecoli60.mci.I20_196 
+dump.out.ecoli60.mci.I60_1001	dump.out.ecoli60.mci.I14_359	dump.out.ecoli60.mci.I20_510 
+dump.out.ecoli60.mci.I60_1002	dump.out.ecoli60.mci.I14_9	dump.out.ecoli60.mci.I20_26 
+dump.out.ecoli60.mci.I60_1003	dump.out.ecoli60.mci.I14_360	dump.out.ecoli60.mci.I20_511 
+dump.out.ecoli60.mci.I60_1004	dump.out.ecoli60.mci.I14_361	dump.out.ecoli60.mci.I20_512 
+dump.out.ecoli60.mci.I60_1005	dump.out.ecoli60.mci.I14_362	dump.out.ecoli60.mci.I20_513 
+dump.out.ecoli60.mci.I60_1006	dump.out.ecoli60.mci.I14_18	dump.out.ecoli60.mci.I20_20 
+dump.out.ecoli60.mci.I60_1007	dump.out.ecoli60.mci.I14_363	dump.out.ecoli60.mci.I20_514 
+dump.out.ecoli60.mci.I60_1008	dump.out.ecoli60.mci.I14_364	dump.out.ecoli60.mci.I20_515 
+dump.out.ecoli60.mci.I60_1009	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_1010	dump.out.ecoli60.mci.I14_156	dump.out.ecoli60.mci.I20_245 
+dump.out.ecoli60.mci.I60_1011	dump.out.ecoli60.mci.I20_105 
+dump.out.ecoli60.mci.I60_1011	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_1012	dump.out.ecoli60.mci.I14_16	dump.out.ecoli60.mci.I20_45 
+dump.out.ecoli60.mci.I60_1013	dump.out.ecoli60.mci.I14_45	dump.out.ecoli60.mci.I20_97 
+dump.out.ecoli60.mci.I60_1014	dump.out.ecoli60.mci.I14_365	dump.out.ecoli60.mci.I20_516 
+dump.out.ecoli60.mci.I60_1015	dump.out.ecoli60.mci.I14_366	dump.out.ecoli60.mci.I20_517 
+dump.out.ecoli60.mci.I60_1016	dump.out.ecoli60.mci.I14_367	dump.out.ecoli60.mci.I20_518 
+dump.out.ecoli60.mci.I60_1017	dump.out.ecoli60.mci.I14_10	dump.out.ecoli60.mci.I20_41 
+dump.out.ecoli60.mci.I60_1018	dump.out.ecoli60.mci.I14_368	dump.out.ecoli60.mci.I20_519 
+dump.out.ecoli60.mci.I60_1019	dump.out.ecoli60.mci.I14_369	dump.out.ecoli60.mci.I20_520 
+dump.out.ecoli60.mci.I60_1020	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_1021	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_1021	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_1022	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_1023	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_1024	dump.out.ecoli60.mci.I14_370	dump.out.ecoli60.mci.I20_521 
+dump.out.ecoli60.mci.I60_1025	dump.out.ecoli60.mci.I14_371	dump.out.ecoli60.mci.I20_522 
+dump.out.ecoli60.mci.I60_1026	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_1027	dump.out.ecoli60.mci.I14_372	dump.out.ecoli60.mci.I20_523 
+dump.out.ecoli60.mci.I60_1028	dump.out.ecoli60.mci.I14_22	dump.out.ecoli60.mci.I20_58 
+dump.out.ecoli60.mci.I60_1029	dump.out.ecoli60.mci.I14_33	dump.out.ecoli60.mci.I20_31 
+dump.out.ecoli60.mci.I60_1030	dump.out.ecoli60.mci.I14_373	dump.out.ecoli60.mci.I20_524 
+dump.out.ecoli60.mci.I60_1031	dump.out.ecoli60.mci.I14_374	dump.out.ecoli60.mci.I20_525 
+dump.out.ecoli60.mci.I60_1032	dump.out.ecoli60.mci.I14_33	dump.out.ecoli60.mci.I20_31 
+dump.out.ecoli60.mci.I60_1033	dump.out.ecoli60.mci.I14_375	dump.out.ecoli60.mci.I20_526 
+dump.out.ecoli60.mci.I60_1034	dump.out.ecoli60.mci.I14_376	dump.out.ecoli60.mci.I20_527 
+dump.out.ecoli60.mci.I60_1035	dump.out.ecoli60.mci.I20_214 
+dump.out.ecoli60.mci.I60_1035	dump.out.ecoli60.mci.I14_23 
+dump.out.ecoli60.mci.I60_1036	dump.out.ecoli60.mci.I14_377	dump.out.ecoli60.mci.I20_528 
+dump.out.ecoli60.mci.I60_1037	dump.out.ecoli60.mci.I14_378	dump.out.ecoli60.mci.I20_529 
+dump.out.ecoli60.mci.I60_1038	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_1039	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_1040	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_1041	dump.out.ecoli60.mci.I14_379	dump.out.ecoli60.mci.I20_530 
+dump.out.ecoli60.mci.I60_1042	dump.out.ecoli60.mci.I14_33	dump.out.ecoli60.mci.I20_31 
+dump.out.ecoli60.mci.I60_1043	dump.out.ecoli60.mci.I14_55	dump.out.ecoli60.mci.I20_108 
+dump.out.ecoli60.mci.I60_1044	dump.out.ecoli60.mci.I14_4	dump.out.ecoli60.mci.I20_4 
+dump.out.ecoli60.mci.I60_1045	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_1046	dump.out.ecoli60.mci.I14_380	dump.out.ecoli60.mci.I20_531 
+dump.out.ecoli60.mci.I60_1047	dump.out.ecoli60.mci.I20_16 
+dump.out.ecoli60.mci.I60_1047	dump.out.ecoli60.mci.I14_12 
+dump.out.ecoli60.mci.I60_1048	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_6 
+dump.out.ecoli60.mci.I60_1049	dump.out.ecoli60.mci.I14_381	dump.out.ecoli60.mci.I20_532 
+dump.out.ecoli60.mci.I60_1050	dump.out.ecoli60.mci.I14_382	dump.out.ecoli60.mci.I20_533 
+dump.out.ecoli60.mci.I60_1051	dump.out.ecoli60.mci.I14_383	dump.out.ecoli60.mci.I20_534 
+dump.out.ecoli60.mci.I60_1052	dump.out.ecoli60.mci.I14_384	dump.out.ecoli60.mci.I20_535 
+dump.out.ecoli60.mci.I60_1053	dump.out.ecoli60.mci.I14_385	dump.out.ecoli60.mci.I20_536 
+dump.out.ecoli60.mci.I60_1054	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_1055	dump.out.ecoli60.mci.I14_386	dump.out.ecoli60.mci.I20_537 
+dump.out.ecoli60.mci.I60_1056	dump.out.ecoli60.mci.I14_61	dump.out.ecoli60.mci.I20_130 
+dump.out.ecoli60.mci.I60_1057	dump.out.ecoli60.mci.I14_387	dump.out.ecoli60.mci.I20_538 
+dump.out.ecoli60.mci.I60_1058	dump.out.ecoli60.mci.I14_388	dump.out.ecoli60.mci.I20_539 
+dump.out.ecoli60.mci.I60_1059	dump.out.ecoli60.mci.I20_49 
+dump.out.ecoli60.mci.I60_1059	dump.out.ecoli60.mci.I14_23 
+dump.out.ecoli60.mci.I60_1060	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_6 
+dump.out.ecoli60.mci.I60_1061	dump.out.ecoli60.mci.I20_6 
+dump.out.ecoli60.mci.I60_1061	dump.out.ecoli60.mci.I14_3 
+dump.out.ecoli60.mci.I60_1062	dump.out.ecoli60.mci.I14_74	dump.out.ecoli60.mci.I20_226 
+dump.out.ecoli60.mci.I60_1063	dump.out.ecoli60.mci.I14_389	dump.out.ecoli60.mci.I20_540 
+dump.out.ecoli60.mci.I60_1064	dump.out.ecoli60.mci.I14_390	dump.out.ecoli60.mci.I20_541 
+dump.out.ecoli60.mci.I60_1065	dump.out.ecoli60.mci.I14_391	dump.out.ecoli60.mci.I20_542 
+dump.out.ecoli60.mci.I60_1066	dump.out.ecoli60.mci.I14_21	dump.out.ecoli60.mci.I20_79 
+dump.out.ecoli60.mci.I60_1067	dump.out.ecoli60.mci.I14_392	dump.out.ecoli60.mci.I20_543 
+dump.out.ecoli60.mci.I60_1068	dump.out.ecoli60.mci.I14_393	dump.out.ecoli60.mci.I20_544 
+dump.out.ecoli60.mci.I60_1069	dump.out.ecoli60.mci.I14_106	dump.out.ecoli60.mci.I20_197 
+dump.out.ecoli60.mci.I60_1070	dump.out.ecoli60.mci.I20_177 
+dump.out.ecoli60.mci.I60_1070	dump.out.ecoli60.mci.I14_80 
+dump.out.ecoli60.mci.I60_1071	dump.out.ecoli60.mci.I14_394	dump.out.ecoli60.mci.I20_545 
+dump.out.ecoli60.mci.I60_1072	dump.out.ecoli60.mci.I14_395	dump.out.ecoli60.mci.I20_546 
+dump.out.ecoli60.mci.I60_1073	dump.out.ecoli60.mci.I20_79 
+dump.out.ecoli60.mci.I60_1073	dump.out.ecoli60.mci.I14_10 
+dump.out.ecoli60.mci.I60_1074	dump.out.ecoli60.mci.I14_396	dump.out.ecoli60.mci.I20_547 
+dump.out.ecoli60.mci.I60_1076	dump.out.ecoli60.mci.I14_397	dump.out.ecoli60.mci.I20_548 
+dump.out.ecoli60.mci.I60_1077	dump.out.ecoli60.mci.I14_4	dump.out.ecoli60.mci.I20_4 
+dump.out.ecoli60.mci.I60_1078	dump.out.ecoli60.mci.I14_398	dump.out.ecoli60.mci.I20_549 
+dump.out.ecoli60.mci.I60_1079	dump.out.ecoli60.mci.I14_399	dump.out.ecoli60.mci.I20_550 
+dump.out.ecoli60.mci.I60_1080	dump.out.ecoli60.mci.I14_400	dump.out.ecoli60.mci.I20_551 
+dump.out.ecoli60.mci.I60_1081	dump.out.ecoli60.mci.I14_7	dump.out.ecoli60.mci.I20_11 
+dump.out.ecoli60.mci.I60_1082	dump.out.ecoli60.mci.I14_401	dump.out.ecoli60.mci.I20_552 
+dump.out.ecoli60.mci.I60_1083	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_1084	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_10 
+dump.out.ecoli60.mci.I60_1085	dump.out.ecoli60.mci.I14_7	dump.out.ecoli60.mci.I20_11 
+dump.out.ecoli60.mci.I60_1086	dump.out.ecoli60.mci.I20_49 
+dump.out.ecoli60.mci.I60_1086	dump.out.ecoli60.mci.I14_2 
+dump.out.ecoli60.mci.I60_1087	dump.out.ecoli60.mci.I14_4	dump.out.ecoli60.mci.I20_93 
+dump.out.ecoli60.mci.I60_1088	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_1089	dump.out.ecoli60.mci.I14_18	dump.out.ecoli60.mci.I20_20 
+dump.out.ecoli60.mci.I60_1090	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_6 
+dump.out.ecoli60.mci.I60_1091	dump.out.ecoli60.mci.I14_402	dump.out.ecoli60.mci.I20_553 
+dump.out.ecoli60.mci.I60_1092	dump.out.ecoli60.mci.I20_50 
+dump.out.ecoli60.mci.I60_1092	dump.out.ecoli60.mci.I14_4 
+dump.out.ecoli60.mci.I60_1093	dump.out.ecoli60.mci.I20_16 
+dump.out.ecoli60.mci.I60_1093	dump.out.ecoli60.mci.I14_5 
+dump.out.ecoli60.mci.I60_1094	dump.out.ecoli60.mci.I20_20 
+dump.out.ecoli60.mci.I60_1094	dump.out.ecoli60.mci.I14_2 
+dump.out.ecoli60.mci.I60_1095	dump.out.ecoli60.mci.I14_5	dump.out.ecoli60.mci.I20_177 
+dump.out.ecoli60.mci.I60_1097	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_1098	dump.out.ecoli60.mci.I14_403	dump.out.ecoli60.mci.I20_554 
+dump.out.ecoli60.mci.I60_1099	dump.out.ecoli60.mci.I14_21	dump.out.ecoli60.mci.I20_98 
+dump.out.ecoli60.mci.I60_1100	dump.out.ecoli60.mci.I14_6	dump.out.ecoli60.mci.I20_33 
+dump.out.ecoli60.mci.I60_1101	dump.out.ecoli60.mci.I14_404	dump.out.ecoli60.mci.I20_555 
+dump.out.ecoli60.mci.I60_1102	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_1103	dump.out.ecoli60.mci.I20_54 
+dump.out.ecoli60.mci.I60_1103	dump.out.ecoli60.mci.I14_3 
+dump.out.ecoli60.mci.I60_1104	dump.out.ecoli60.mci.I20_6 
+dump.out.ecoli60.mci.I60_1104	dump.out.ecoli60.mci.I14_2 
+dump.out.ecoli60.mci.I60_1105	dump.out.ecoli60.mci.I14_23	dump.out.ecoli60.mci.I20_39 
+dump.out.ecoli60.mci.I60_1106	dump.out.ecoli60.mci.I20_50 
+dump.out.ecoli60.mci.I60_1106	dump.out.ecoli60.mci.I14_4 
+dump.out.ecoli60.mci.I60_1107	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_351 
+dump.out.ecoli60.mci.I60_1108	dump.out.ecoli60.mci.I14_405	dump.out.ecoli60.mci.I20_556 
+dump.out.ecoli60.mci.I60_1109	dump.out.ecoli60.mci.I14_4	dump.out.ecoli60.mci.I20_4 
+dump.out.ecoli60.mci.I60_1110	dump.out.ecoli60.mci.I14_5	dump.out.ecoli60.mci.I20_5 
+dump.out.ecoli60.mci.I60_1111	dump.out.ecoli60.mci.I20_141 
+dump.out.ecoli60.mci.I60_1111	dump.out.ecoli60.mci.I14_3 
+dump.out.ecoli60.mci.I60_1112	dump.out.ecoli60.mci.I20_10 
+dump.out.ecoli60.mci.I60_1112	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_1113	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_1114	dump.out.ecoli60.mci.I14_406	dump.out.ecoli60.mci.I20_557 
+dump.out.ecoli60.mci.I60_1115	dump.out.ecoli60.mci.I14_407	dump.out.ecoli60.mci.I20_558 
+dump.out.ecoli60.mci.I60_1116	dump.out.ecoli60.mci.I14_408	dump.out.ecoli60.mci.I20_559 
+dump.out.ecoli60.mci.I60_1117	dump.out.ecoli60.mci.I14_409	dump.out.ecoli60.mci.I20_560 
+dump.out.ecoli60.mci.I60_1118	dump.out.ecoli60.mci.I20_29 
+dump.out.ecoli60.mci.I60_1118	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_1119	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_1120	dump.out.ecoli60.mci.I14_410	dump.out.ecoli60.mci.I20_561 
+dump.out.ecoli60.mci.I60_1121	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_92 
+dump.out.ecoli60.mci.I60_1122	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_1123	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_1124	dump.out.ecoli60.mci.I14_411	dump.out.ecoli60.mci.I20_562 
+dump.out.ecoli60.mci.I60_1125	dump.out.ecoli60.mci.I14_412	dump.out.ecoli60.mci.I20_563 
+dump.out.ecoli60.mci.I60_1126	dump.out.ecoli60.mci.I14_413	dump.out.ecoli60.mci.I20_564 
+dump.out.ecoli60.mci.I60_1127	dump.out.ecoli60.mci.I14_21	dump.out.ecoli60.mci.I20_98 
+dump.out.ecoli60.mci.I60_1128	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_1129	dump.out.ecoli60.mci.I14_414	dump.out.ecoli60.mci.I20_565 
+dump.out.ecoli60.mci.I60_1130	dump.out.ecoli60.mci.I14_415	dump.out.ecoli60.mci.I20_566 
+dump.out.ecoli60.mci.I60_1131	dump.out.ecoli60.mci.I14_416	dump.out.ecoli60.mci.I20_567 
+dump.out.ecoli60.mci.I60_1132	dump.out.ecoli60.mci.I14_417	dump.out.ecoli60.mci.I20_568 
+dump.out.ecoli60.mci.I60_1133	dump.out.ecoli60.mci.I14_418	dump.out.ecoli60.mci.I20_569 
+dump.out.ecoli60.mci.I60_1134	dump.out.ecoli60.mci.I14_419	dump.out.ecoli60.mci.I20_570 
+dump.out.ecoli60.mci.I60_1135	dump.out.ecoli60.mci.I14_25	dump.out.ecoli60.mci.I20_36 
+dump.out.ecoli60.mci.I60_1136	dump.out.ecoli60.mci.I14_420	dump.out.ecoli60.mci.I20_571 
+dump.out.ecoli60.mci.I60_1137	dump.out.ecoli60.mci.I14_421	dump.out.ecoli60.mci.I20_572 
+dump.out.ecoli60.mci.I60_1138	dump.out.ecoli60.mci.I14_25	dump.out.ecoli60.mci.I20_36 
+dump.out.ecoli60.mci.I60_1139	dump.out.ecoli60.mci.I14_422	dump.out.ecoli60.mci.I20_573 
+dump.out.ecoli60.mci.I60_1140	dump.out.ecoli60.mci.I14_423	dump.out.ecoli60.mci.I20_574 
+dump.out.ecoli60.mci.I60_1141	dump.out.ecoli60.mci.I14_424	dump.out.ecoli60.mci.I20_575 
+dump.out.ecoli60.mci.I60_1142	dump.out.ecoli60.mci.I14_425	dump.out.ecoli60.mci.I20_576 
+dump.out.ecoli60.mci.I60_1143	dump.out.ecoli60.mci.I14_426	dump.out.ecoli60.mci.I20_577 
+dump.out.ecoli60.mci.I60_1144	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_1144	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_1145	dump.out.ecoli60.mci.I14_427	dump.out.ecoli60.mci.I20_578 
+dump.out.ecoli60.mci.I60_1146	dump.out.ecoli60.mci.I14_428	dump.out.ecoli60.mci.I20_579 
+dump.out.ecoli60.mci.I60_1147	dump.out.ecoli60.mci.I14_429	dump.out.ecoli60.mci.I20_580 
+dump.out.ecoli60.mci.I60_1148	dump.out.ecoli60.mci.I14_430	dump.out.ecoli60.mci.I20_581 
+dump.out.ecoli60.mci.I60_1149	dump.out.ecoli60.mci.I14_431	dump.out.ecoli60.mci.I20_582 
+dump.out.ecoli60.mci.I60_1150	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_1151	dump.out.ecoli60.mci.I14_432	dump.out.ecoli60.mci.I20_583 
+dump.out.ecoli60.mci.I60_1152	dump.out.ecoli60.mci.I14_433	dump.out.ecoli60.mci.I20_584 
+dump.out.ecoli60.mci.I60_1153	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_1154	dump.out.ecoli60.mci.I14_434	dump.out.ecoli60.mci.I20_585 
+dump.out.ecoli60.mci.I60_1155	dump.out.ecoli60.mci.I14_435	dump.out.ecoli60.mci.I20_586 
+dump.out.ecoli60.mci.I60_1156	dump.out.ecoli60.mci.I14_436	dump.out.ecoli60.mci.I20_587 
+dump.out.ecoli60.mci.I60_1157	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_1158	dump.out.ecoli60.mci.I14_437	dump.out.ecoli60.mci.I20_588 
+dump.out.ecoli60.mci.I60_1159	dump.out.ecoli60.mci.I14_438	dump.out.ecoli60.mci.I20_589 
+dump.out.ecoli60.mci.I60_1160	dump.out.ecoli60.mci.I14_439	dump.out.ecoli60.mci.I20_590 
+dump.out.ecoli60.mci.I60_1161	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_1162	dump.out.ecoli60.mci.I14_440	dump.out.ecoli60.mci.I20_591 
+dump.out.ecoli60.mci.I60_1163	dump.out.ecoli60.mci.I14_441	dump.out.ecoli60.mci.I20_592 
+dump.out.ecoli60.mci.I60_1164	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_1165	dump.out.ecoli60.mci.I14_442	dump.out.ecoli60.mci.I20_593 
+dump.out.ecoli60.mci.I60_1166	dump.out.ecoli60.mci.I14_443	dump.out.ecoli60.mci.I20_594 
+dump.out.ecoli60.mci.I60_1167	dump.out.ecoli60.mci.I14_444	dump.out.ecoli60.mci.I20_595 
+dump.out.ecoli60.mci.I60_1168	dump.out.ecoli60.mci.I14_445	dump.out.ecoli60.mci.I20_596 
+dump.out.ecoli60.mci.I60_1169	dump.out.ecoli60.mci.I14_446	dump.out.ecoli60.mci.I20_597 
+dump.out.ecoli60.mci.I60_1170	dump.out.ecoli60.mci.I14_447	dump.out.ecoli60.mci.I20_598 
+dump.out.ecoli60.mci.I60_1171	dump.out.ecoli60.mci.I14_448	dump.out.ecoli60.mci.I20_599 
+dump.out.ecoli60.mci.I60_1172	dump.out.ecoli60.mci.I14_449	dump.out.ecoli60.mci.I20_600 
+dump.out.ecoli60.mci.I60_1173	dump.out.ecoli60.mci.I14_450	dump.out.ecoli60.mci.I20_601 
+dump.out.ecoli60.mci.I60_1174	dump.out.ecoli60.mci.I14_451	dump.out.ecoli60.mci.I20_602 
+dump.out.ecoli60.mci.I60_1175	dump.out.ecoli60.mci.I14_452	dump.out.ecoli60.mci.I20_603 
+dump.out.ecoli60.mci.I60_1176	dump.out.ecoli60.mci.I14_37	dump.out.ecoli60.mci.I20_96 
+dump.out.ecoli60.mci.I60_1177	dump.out.ecoli60.mci.I14_453	dump.out.ecoli60.mci.I20_604 
+dump.out.ecoli60.mci.I60_1178	dump.out.ecoli60.mci.I14_454	dump.out.ecoli60.mci.I20_605 
+dump.out.ecoli60.mci.I60_1179	dump.out.ecoli60.mci.I14_455	dump.out.ecoli60.mci.I20_606 
+dump.out.ecoli60.mci.I60_1180	dump.out.ecoli60.mci.I14_456	dump.out.ecoli60.mci.I20_607 
+dump.out.ecoli60.mci.I60_1181	dump.out.ecoli60.mci.I14_457	dump.out.ecoli60.mci.I20_608 
+dump.out.ecoli60.mci.I60_1182	dump.out.ecoli60.mci.I14_458	dump.out.ecoli60.mci.I20_609 
+dump.out.ecoli60.mci.I60_1183	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_19 
+dump.out.ecoli60.mci.I60_1184	dump.out.ecoli60.mci.I14_87	dump.out.ecoli60.mci.I20_115 
+dump.out.ecoli60.mci.I60_1185	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_25 
+dump.out.ecoli60.mci.I60_1186	dump.out.ecoli60.mci.I14_459	dump.out.ecoli60.mci.I20_610 
+dump.out.ecoli60.mci.I60_1187	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_1188	dump.out.ecoli60.mci.I14_460	dump.out.ecoli60.mci.I20_611 
+dump.out.ecoli60.mci.I60_1189	dump.out.ecoli60.mci.I14_461	dump.out.ecoli60.mci.I20_612 
+dump.out.ecoli60.mci.I60_1190	dump.out.ecoli60.mci.I14_462	dump.out.ecoli60.mci.I20_613 
+dump.out.ecoli60.mci.I60_1191	dump.out.ecoli60.mci.I14_463	dump.out.ecoli60.mci.I20_614 
+dump.out.ecoli60.mci.I60_1192	dump.out.ecoli60.mci.I14_464	dump.out.ecoli60.mci.I20_615 
+dump.out.ecoli60.mci.I60_1193	dump.out.ecoli60.mci.I14_465	dump.out.ecoli60.mci.I20_616 
+dump.out.ecoli60.mci.I60_1194	dump.out.ecoli60.mci.I14_466	dump.out.ecoli60.mci.I20_617 
+dump.out.ecoli60.mci.I60_1195	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_1196	dump.out.ecoli60.mci.I14_467	dump.out.ecoli60.mci.I20_618 
+dump.out.ecoli60.mci.I60_1197	dump.out.ecoli60.mci.I14_468	dump.out.ecoli60.mci.I20_619 
+dump.out.ecoli60.mci.I60_1198	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_1199	dump.out.ecoli60.mci.I14_469	dump.out.ecoli60.mci.I20_620 
+dump.out.ecoli60.mci.I60_1200	dump.out.ecoli60.mci.I14_470	dump.out.ecoli60.mci.I20_621 
+dump.out.ecoli60.mci.I60_1201	dump.out.ecoli60.mci.I14_471	dump.out.ecoli60.mci.I20_622 
+dump.out.ecoli60.mci.I60_1202	dump.out.ecoli60.mci.I14_472	dump.out.ecoli60.mci.I20_623 
+dump.out.ecoli60.mci.I60_1203	dump.out.ecoli60.mci.I14_473	dump.out.ecoli60.mci.I20_624 
+dump.out.ecoli60.mci.I60_1204	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_109 
+dump.out.ecoli60.mci.I60_1205	dump.out.ecoli60.mci.I14_474	dump.out.ecoli60.mci.I20_625 
+dump.out.ecoli60.mci.I60_1206	dump.out.ecoli60.mci.I14_475	dump.out.ecoli60.mci.I20_626 
+dump.out.ecoli60.mci.I60_1207	dump.out.ecoli60.mci.I14_476	dump.out.ecoli60.mci.I20_627 
+dump.out.ecoli60.mci.I60_1208	dump.out.ecoli60.mci.I14_477	dump.out.ecoli60.mci.I20_628 
+dump.out.ecoli60.mci.I60_1209	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2 
+dump.out.ecoli60.mci.I60_1210	dump.out.ecoli60.mci.I14_478	dump.out.ecoli60.mci.I20_629 
+dump.out.ecoli60.mci.I60_1211	dump.out.ecoli60.mci.I14_479	dump.out.ecoli60.mci.I20_630 
+dump.out.ecoli60.mci.I60_1212	dump.out.ecoli60.mci.I14_480	dump.out.ecoli60.mci.I20_631 
+dump.out.ecoli60.mci.I60_1213	dump.out.ecoli60.mci.I20_105 
+dump.out.ecoli60.mci.I60_1213	dump.out.ecoli60.mci.I14_31 
+dump.out.ecoli60.mci.I60_1214	dump.out.ecoli60.mci.I14_481	dump.out.ecoli60.mci.I20_632 
+dump.out.ecoli60.mci.I60_1215	dump.out.ecoli60.mci.I14_482	dump.out.ecoli60.mci.I20_633 
+dump.out.ecoli60.mci.I60_1216	dump.out.ecoli60.mci.I20_6 
+dump.out.ecoli60.mci.I60_1216	dump.out.ecoli60.mci.I14_164 
+dump.out.ecoli60.mci.I60_1217	dump.out.ecoli60.mci.I14_7	dump.out.ecoli60.mci.I20_11 
+dump.out.ecoli60.mci.I60_1218	dump.out.ecoli60.mci.I20_11 
+dump.out.ecoli60.mci.I60_1218	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_1219	dump.out.ecoli60.mci.I14_4	dump.out.ecoli60.mci.I20_4 
+dump.out.ecoli60.mci.I60_1220	dump.out.ecoli60.mci.I20_6 
+dump.out.ecoli60.mci.I60_1220	dump.out.ecoli60.mci.I14_19 
+dump.out.ecoli60.mci.I60_1221	dump.out.ecoli60.mci.I14_483	dump.out.ecoli60.mci.I20_634 
+dump.out.ecoli60.mci.I60_1222	dump.out.ecoli60.mci.I14_484	dump.out.ecoli60.mci.I20_635 
+dump.out.ecoli60.mci.I60_1223	dump.out.ecoli60.mci.I14_485	dump.out.ecoli60.mci.I20_636 
+dump.out.ecoli60.mci.I60_1224	dump.out.ecoli60.mci.I14_486	dump.out.ecoli60.mci.I20_637 
+dump.out.ecoli60.mci.I60_1225	dump.out.ecoli60.mci.I14_487	dump.out.ecoli60.mci.I20_638 
+dump.out.ecoli60.mci.I60_1226	dump.out.ecoli60.mci.I14_488	dump.out.ecoli60.mci.I20_639 
+dump.out.ecoli60.mci.I60_1227	dump.out.ecoli60.mci.I14_489	dump.out.ecoli60.mci.I20_640 
+dump.out.ecoli60.mci.I60_1228	dump.out.ecoli60.mci.I14_490	dump.out.ecoli60.mci.I20_641 
+dump.out.ecoli60.mci.I60_1229	dump.out.ecoli60.mci.I14_491	dump.out.ecoli60.mci.I20_642 
+dump.out.ecoli60.mci.I60_1230	dump.out.ecoli60.mci.I14_492	dump.out.ecoli60.mci.I20_643 
+dump.out.ecoli60.mci.I60_1231	dump.out.ecoli60.mci.I20_114 
+dump.out.ecoli60.mci.I60_1231	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_1232	dump.out.ecoli60.mci.I14_493	dump.out.ecoli60.mci.I20_644 
+dump.out.ecoli60.mci.I60_1233	dump.out.ecoli60.mci.I14_494	dump.out.ecoli60.mci.I20_645 
+dump.out.ecoli60.mci.I60_1234	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_1235	dump.out.ecoli60.mci.I14_495	dump.out.ecoli60.mci.I20_646 
+dump.out.ecoli60.mci.I60_1236	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_19 
+dump.out.ecoli60.mci.I60_1237	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_19 
+dump.out.ecoli60.mci.I60_1238	dump.out.ecoli60.mci.I14_496	dump.out.ecoli60.mci.I20_647 
+dump.out.ecoli60.mci.I60_1239	dump.out.ecoli60.mci.I14_497	dump.out.ecoli60.mci.I20_648 
+dump.out.ecoli60.mci.I60_1240	dump.out.ecoli60.mci.I14_498	dump.out.ecoli60.mci.I20_649 
+dump.out.ecoli60.mci.I60_1241	dump.out.ecoli60.mci.I20_24 
+dump.out.ecoli60.mci.I60_1241	dump.out.ecoli60.mci.I14_45 
+dump.out.ecoli60.mci.I60_1242	dump.out.ecoli60.mci.I14_499	dump.out.ecoli60.mci.I20_650 
+dump.out.ecoli60.mci.I60_1243	dump.out.ecoli60.mci.I14_500	dump.out.ecoli60.mci.I20_651 
+dump.out.ecoli60.mci.I60_1244	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3 
+dump.out.ecoli60.mci.I60_1245	dump.out.ecoli60.mci.I14_501	dump.out.ecoli60.mci.I20_652 
+dump.out.ecoli60.mci.I60_1246	dump.out.ecoli60.mci.I20_248 
+dump.out.ecoli60.mci.I60_1246	dump.out.ecoli60.mci.I14_1 
+dump.out.ecoli60.mci.I60_1247	dump.out.ecoli60.mci.I14_502	dump.out.ecoli60.mci.I20_653 
+dump.out.ecoli60.mci.I60_1248	dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1 
+dump.out.ecoli60.mci.I60_1249	dump.out.ecoli60.mci.I14_503	dump.out.ecoli60.mci.I20_654 
+dump.out.ecoli60.mci.I60_1250	dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_351 
+dump.out.ecoli60.mci.I60_1251	dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_92 
+dump.out.ecoli60.mci.I60_1252	dump.out.ecoli60.mci.I20_92 
+dump.out.ecoli60.mci.I60_1252	dump.out.ecoli60.mci.I14_31 
+dump.out.ecoli60.mci.I60_1253	dump.out.ecoli60.mci.I14_504	dump.out.ecoli60.mci.I20_655 
+dump.out.ecoli60.mci.I60_1254	dump.out.ecoli60.mci.I14_505	dump.out.ecoli60.mci.I20_656 
+dump.out.ecoli60.mci.I60_1255	dump.out.ecoli60.mci.I14_506	dump.out.ecoli60.mci.I20_657 
+dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_6	dump.out.ecoli60.mci.I60_11 
+dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_6	dump.out.ecoli60.mci.I60_18 
+dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_6	dump.out.ecoli60.mci.I60_55 
+dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1	dump.out.ecoli60.mci.I60_1 
+dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1	dump.out.ecoli60.mci.I60_5 
+dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1	dump.out.ecoli60.mci.I60_9 
+dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1	dump.out.ecoli60.mci.I60_10 
+dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1	dump.out.ecoli60.mci.I60_12 
+dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1	dump.out.ecoli60.mci.I60_19 
+dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1	dump.out.ecoli60.mci.I60_30 
+dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1	dump.out.ecoli60.mci.I60_33 
+dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1	dump.out.ecoli60.mci.I60_53 
+dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I20_1	dump.out.ecoli60.mci.I60_68 
+dump.out.ecoli60.mci.I14_1	dump.out.ecoli60.mci.I60_20 
+dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_25	dump.out.ecoli60.mci.I60_36 
+dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_16	dump.out.ecoli60.mci.I60_29 
+dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2	dump.out.ecoli60.mci.I60_7 
+dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2	dump.out.ecoli60.mci.I60_22 
+dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2	dump.out.ecoli60.mci.I60_23 
+dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2	dump.out.ecoli60.mci.I60_26 
+dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2	dump.out.ecoli60.mci.I60_35 
+dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2	dump.out.ecoli60.mci.I60_45 
+dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2	dump.out.ecoli60.mci.I60_50 
+dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2	dump.out.ecoli60.mci.I60_59 
+dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2	dump.out.ecoli60.mci.I60_61 
+dump.out.ecoli60.mci.I14_2	dump.out.ecoli60.mci.I20_2	dump.out.ecoli60.mci.I60_66 
+dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_19	dump.out.ecoli60.mci.I60_67 
+dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_9	dump.out.ecoli60.mci.I60_41 
+dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_10	dump.out.ecoli60.mci.I60_39 
+dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_10	dump.out.ecoli60.mci.I60_56 
+dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3	dump.out.ecoli60.mci.I60_4 
+dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3	dump.out.ecoli60.mci.I60_14 
+dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3	dump.out.ecoli60.mci.I60_15 
+dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3	dump.out.ecoli60.mci.I60_49 
+dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3	dump.out.ecoli60.mci.I60_58 
+dump.out.ecoli60.mci.I14_3	dump.out.ecoli60.mci.I20_3	dump.out.ecoli60.mci.I60_73 
+dump.out.ecoli60.mci.I14_4	dump.out.ecoli60.mci.I20_34	dump.out.ecoli60.mci.I60_51 
+dump.out.ecoli60.mci.I14_4	dump.out.ecoli60.mci.I20_4	dump.out.ecoli60.mci.I60_2 
+dump.out.ecoli60.mci.I14_4	dump.out.ecoli60.mci.I20_4	dump.out.ecoli60.mci.I60_8 
+dump.out.ecoli60.mci.I14_4	dump.out.ecoli60.mci.I20_4	dump.out.ecoli60.mci.I60_27 
+dump.out.ecoli60.mci.I14_5	dump.out.ecoli60.mci.I20_28	dump.out.ecoli60.mci.I60_31 
+dump.out.ecoli60.mci.I14_5	dump.out.ecoli60.mci.I20_17	dump.out.ecoli60.mci.I60_16 
+dump.out.ecoli60.mci.I14_5	dump.out.ecoli60.mci.I60_3	dump.out.ecoli60.mci.I20_5 
+dump.out.ecoli60.mci.I14_6	dump.out.ecoli60.mci.I20_8	dump.out.ecoli60.mci.I60_24 
+dump.out.ecoli60.mci.I14_6	dump.out.ecoli60.mci.I20_8	dump.out.ecoli60.mci.I60_38 
+dump.out.ecoli60.mci.I14_6	dump.out.ecoli60.mci.I20_8	dump.out.ecoli60.mci.I60_46 
+dump.out.ecoli60.mci.I14_6	dump.out.ecoli60.mci.I20_8	dump.out.ecoli60.mci.I60_71 
+dump.out.ecoli60.mci.I14_7	dump.out.ecoli60.mci.I20_11	dump.out.ecoli60.mci.I60_52 
+dump.out.ecoli60.mci.I14_7	dump.out.ecoli60.mci.I60_47	dump.out.ecoli60.mci.I20_27 
+dump.out.ecoli60.mci.I14_8	dump.out.ecoli60.mci.I60_6	dump.out.ecoli60.mci.I20_7 
+dump.out.ecoli60.mci.I14_9	dump.out.ecoli60.mci.I20_26	dump.out.ecoli60.mci.I60_34 
+dump.out.ecoli60.mci.I14_9	dump.out.ecoli60.mci.I60_25	dump.out.ecoli60.mci.I20_15 
+dump.out.ecoli60.mci.I14_11	dump.out.ecoli60.mci.I20_30	dump.out.ecoli60.mci.I60_65 
+dump.out.ecoli60.mci.I14_11	dump.out.ecoli60.mci.I60_13	dump.out.ecoli60.mci.I20_14 
+dump.out.ecoli60.mci.I14_12	dump.out.ecoli60.mci.I20_23	dump.out.ecoli60.mci.I60_63 
+dump.out.ecoli60.mci.I14_12	dump.out.ecoli60.mci.I20_13	dump.out.ecoli60.mci.I60_54 
+dump.out.ecoli60.mci.I14_12	dump.out.ecoli60.mci.I20_13	dump.out.ecoli60.mci.I60_60 
+dump.out.ecoli60.mci.I14_13	dump.out.ecoli60.mci.I20_12	dump.out.ecoli60.mci.I60_17 
+dump.out.ecoli60.mci.I14_13	dump.out.ecoli60.mci.I20_12	dump.out.ecoli60.mci.I60_40 
+dump.out.ecoli60.mci.I14_14	dump.out.ecoli60.mci.I60_28	dump.out.ecoli60.mci.I20_22 
+dump.out.ecoli60.mci.I14_16	dump.out.ecoli60.mci.I60_72	dump.out.ecoli60.mci.I20_78 
+dump.out.ecoli60.mci.I14_17	dump.out.ecoli60.mci.I60_43	dump.out.ecoli60.mci.I20_21 
+dump.out.ecoli60.mci.I14_24	dump.out.ecoli60.mci.I60_42	dump.out.ecoli60.mci.I20_44 
+dump.out.ecoli60.mci.I14_25	dump.out.ecoli60.mci.I60_62	dump.out.ecoli60.mci.I20_36 
+dump.out.ecoli60.mci.I14_27	dump.out.ecoli60.mci.I60_37	dump.out.ecoli60.mci.I20_40 
+dump.out.ecoli60.mci.I14_32	dump.out.ecoli60.mci.I60_44	dump.out.ecoli60.mci.I20_48 
+dump.out.ecoli60.mci.I14_39	dump.out.ecoli60.mci.I60_48	dump.out.ecoli60.mci.I20_55 
+dump.out.ecoli60.mci.I14_40	dump.out.ecoli60.mci.I60_57	dump.out.ecoli60.mci.I20_62 
+dump.out.ecoli60.mci.I14_41	dump.out.ecoli60.mci.I60_70	dump.out.ecoli60.mci.I20_29 
+dump.out.ecoli60.mci.I14_46	dump.out.ecoli60.mci.I60_64	dump.out.ecoli60.mci.I20_70 
+dump.out.ecoli60.mci.I14_53	dump.out.ecoli60.mci.I60_69	dump.out.ecoli60.mci.I20_75 
+dump.out.ecoli60.mci.I20_2	dump.out.ecoli60.mci.I60_20 
