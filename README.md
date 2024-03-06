@@ -25,10 +25,7 @@ Almost all genes are part of a single connected component (size 3959). As inflat
 The interpretation of these clusters is challenging. MCL clustering algorithm is sensitive to parameter selections, often yielding varying clustering results with slight adjustments in the inflation value.
 >To address this, I evaluated cluster stability across different inflation values. Cluster stability was evaluated using the Jaccard coefficient and Overlap coefficient [with this script](https://github.com/felipevzps/ecoli-co-expression-network/blob/main/code/calculateClusterSimilarity.py). 
 >
->Subsequently, I employed the [weighted_cliques function from igraph](https://igraph.org/c/doc/igraph-Cliques.html#weighted-cliques) to search for cliques (complete subgraphs) within the similarity graph of the clusters with the two coefficients, resulting in `consistent clusters` ([consistent jaccard clusters](https://github.com/felipevzps/ecoli-co-expression-network/blob/main/results/cliques_jaccard.txt), [consistent overlap clusters](https://github.com/felipevzps/ecoli-co-expression-network/blob/main/results/cliques_overlap.txt)) across different inflation values.
-
-
-[](https://github.com/felipevzps/ecoli-co-expression-network/blob/main/code/findsCliquesInGraph.R)
+>Subsequently, I employed the [weighted_cliques function from igraph](https://igraph.org/c/doc/igraph-Cliques.html#weighted-cliques) to search for cliques (complete subgraphs) within the similarity graph of the clusters with the two coefficients ([with this script](https://github.com/felipevzps/ecoli-co-expression-network/blob/main/code/findsCliquesInGraph.R), resulting in `consistent clusters` ([consistent jaccard clusters](https://github.com/felipevzps/ecoli-co-expression-network/blob/main/results/cliques_jaccard.txt), [consistent overlap clusters](https://github.com/felipevzps/ecoli-co-expression-network/blob/main/results/cliques_overlap.txt)) across different inflation values.
 
 ## Gene Ontology enrichment analysis: exploring biological function of modules
 
