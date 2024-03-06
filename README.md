@@ -20,6 +20,15 @@ Almost all genes are part of a single connected component (size 3959). As inflat
 ![](https://github.com/felipevzps/ecoli-co-expression-network/blob/main/results/clusteringEfficiency.png)
 >This data shows that there is exceptionally strong cluster structure present in the input graph. The 1.4 clustering captures nearly all edge mass (83 percent) using only 8.8 percent of 'area'. The 6.0 clustering captures 53 percent of the mass using 1.1 percent of area.
 
+## Evaluating cluster stability using Overlap and Jaccard similarity index
+
+The interpretation of these clusters is challenging. MCL clustering algorithm is sensitive to parameter selections, often yielding varying clustering results with slight adjustments in the inflation value.
+>To address this, I evaluated cluster stability across different inflation values. Cluster stability was evaluated using the Jaccard coefficient and Overlap coefficient [with this script](https://github.com/felipevzps/ecoli-co-expression-network/blob/main/code/calculateClusterSimilarity.py). 
+>
+>Subsequently, I employed the [weighted_cliques function from igraph](https://igraph.org/c/doc/igraph-Cliques.html#weighted-cliques) to search for cliques (complete subgraphs) within the similarity graph of the clusters with the two coefficients, resulting in `consistent clusters` ([consistent jaccard clusters](https://github.com/felipevzps/ecoli-co-expression-network/blob/main/results/cliques_jaccard.txt), [consistent overlap clusters](https://github.com/felipevzps/ecoli-co-expression-network/blob/main/results/cliques_overlap.txt)) across different inflation values.
+
+
+[](https://github.com/felipevzps/ecoli-co-expression-network/blob/main/code/findsCliquesInGraph.R)
 
 ## Gene Ontology enrichment analysis: exploring biological function of modules
 
